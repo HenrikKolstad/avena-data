@@ -1,0 +1,45 @@
+name: Daily data snapshot
+
+on:
+  schedule:
+    - cron: "15 7 * * *" # after the 06:00 DELPHI panel and 05:30 PLAB run
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and store snapshots
+        run: |
+          set -euo pipefail
+          DATE=$(date -u +%F)
+          mkdir -p delphi/daily plab/daily
+
+          curl -sf --retry 3 https://avenaterminal.com/api/v1/delphi > "delphi/daily/${DATE}.json"
+          curl -sf --retry 3 https://avenaterminal.com/api/v1/plab   > "plab/daily/${DATE}.json"
+
+          # Append-only CSV summaries (header created on first run)
+          if [ ! -f delphi/index.csv ]; then
+            echo "date,consensus_index,disagreement_index,n_questions,n_panelists" > delphi/index.csv
+          fi
+          jq -r --arg d "$DATE" '[$d, .consensus_index, .disagreement_index, (.panel|length), .n_panelists // ""] | @csv' \
+            "delphi/daily/${DATE}.json" >> delphi/index.csv || true
+
+          if [ ! -f plab/index.csv ]; then
+            echo "date,model,accuracy_pct" > plab/index.csv
+          fi
+          jq -r --arg d "$DATE" '.scores[]? | [$d, .model_label, .accuracy] | @csv' \
+            "plab/daily/${DATE}.json" >> plab/index.csv || true
+
+      - name: Commit
+        run: |
+          git config user.name "avena-bot"
+          git config user.email "actions@avenaterminal.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "data: snapshot $(date -u +%F)"
+          git push
