@@ -36,6 +36,22 @@ jobs:
           jq -r --arg d "$DATE" '.scores[]? | [$d, .model_label, .accuracy] | @csv' \
             "plab/daily/${DATE}.json" >> plab/index.csv || true
 
+          # Market observations — the uncopyable series (town aggregates,
+          # movement ledger, observed price moves, delisting tombstones).
+          # Generated nightly by the avena-terminal feed workflow. Guarded:
+          # if the artifacts are not yet published we skip loudly rather
+          # than committing an error page as data.
+          mkdir -p market
+          if curl -sf --retry 3 https://avenaterminal.com/open-data/dataset.json > market/dataset.json; then
+            for f in towns.csv towns.json movement-ledger.csv movement-ledger.json moves.csv moves.json tombstones.csv tombstones.json; do
+              curl -sf --retry 3 "https://avenaterminal.com/open-data/${f}" > "market/${f}"
+            done
+            echo "market artifacts: $(jq -r .version market/dataset.json)"
+          else
+            rm -f market/dataset.json
+            echo "::warning::market artifacts not yet published at avenaterminal.com/open-data/ — skipped"
+          fi
+
       - name: Commit
         run: |
           git config user.name "avena-bot"
