@@ -1,0 +1,233 @@
+[
+  {
+    "avn_id": "N9263",
+    "town": "Pinoso",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 385000,
+    "last_pm2_eur": 3667,
+    "last_seen_date": "2026-08-06"
+  },
+  {
+    "avn_id": "N9266",
+    "town": "Pinoso",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 385000,
+    "last_pm2_eur": 3667,
+    "last_seen_date": "2026-08-06"
+  },
+  {
+    "avn_id": "N9616",
+    "town": "San Javier",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 329900,
+    "last_pm2_eur": 2999,
+    "last_seen_date": "2026-08-06"
+  },
+  {
+    "avn_id": "N7803",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 610000,
+    "last_pm2_eur": 6040,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "N8205",
+    "town": "Benijofar",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 419000,
+    "last_pm2_eur": 6254,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "N9260",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Villa",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 2275000,
+    "last_pm2_eur": 5789,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "N9491",
+    "town": "Los Alcazares",
+    "region": "costa-calida",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 369900,
+    "last_pm2_eur": 4932,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "N9519",
+    "town": "Puerto de Mazarron",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 249900,
+    "last_pm2_eur": 5206,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP0242",
+    "town": "Altea",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 1750000,
+    "last_pm2_eur": 7778,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP0664",
+    "town": "Villajoyosa",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 389000,
+    "last_pm2_eur": 6078,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1080",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 341000,
+    "last_pm2_eur": 5328,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1160",
+    "town": "Villajoyosa",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 338000,
+    "last_pm2_eur": 5121,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1300",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 299000,
+    "last_pm2_eur": 4271,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1301",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 375000,
+    "last_pm2_eur": 5515,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1319",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Townhouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 459000,
+    "last_pm2_eur": 3825,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1381",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 553900,
+    "last_pm2_eur": 6924,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1382",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 390400,
+    "last_pm2_eur": 6507,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1383",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 440500,
+    "last_pm2_eur": 5372,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1625",
+    "town": "Torre Pacheco",
+    "region": "costa-calida",
+    "type": "Penthouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 595000,
+    "last_pm2_eur": 6467,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1644",
+    "town": "Fuengirola",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 499000,
+    "last_pm2_eur": 9073,
+    "last_seen_date": "2026-08-07"
+  },
+  {
+    "avn_id": "SP1650",
+    "town": "La Linea De La Concepcion",
+    "region": "costa-del-sol",
+    "type": "Studio",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 341370,
+    "last_pm2_eur": 9753,
+    "last_seen_date": "2026-08-07"
+  }
+]

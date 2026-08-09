@@ -1,0 +1,40 @@
+{
+  "name": "Avena Spanish Coastal New-Build Market Observations",
+  "version": "v2026-08-09",
+  "schema_version": 1,
+  "generated_at": "2026-08-09T08:49:32.278Z",
+  "license": "CC-BY-4.0",
+  "attribution": "Avena Terminal (avenaterminal.com)",
+  "doi": "10.5281/zenodo.19520064",
+  "publisher": {
+    "name": "Avena Terminal",
+    "url": "https://avenaterminal.com"
+  },
+  "observation_ledger": {
+    "first_date": "2026-08-05",
+    "latest_date": "2026-08-09",
+    "observation_days": 5,
+    "refs_observed": 2027,
+    "moves_recorded": 53,
+    "delistings_recorded": 21
+  },
+  "cross_section": {
+    "live_listings": 1996,
+    "towns_published": 69,
+    "town_k_threshold": 5
+  },
+  "files": {
+    "towns.csv": "Per-town aggregates of the live book (k>=5): median price, price/m2 quartiles, size, villa share, beach distance",
+    "movement-ledger.csv": "Per observed day: listings observed, price increases/reductions, median move size, delistings",
+    "moves.csv": "Every individual price move observed (consecutive observations of the same unit)",
+    "tombstones.csv": "Units that left the market: last observed price and date"
+  },
+  "honesty": [
+    "Prices are ASKING prices observed in listings. Spanish transaction prices are not public at unit level; nothing here is a registered sale price.",
+    "The observation ledger begins 2026-08-05. Earlier internal tables exist but repeated a frozen snapshot rather than recording observations, and are excluded on principle.",
+    "A delisting means the unit left the observed feed — strong evidence of absorption, not a notarised sale.",
+    "Cross-sectional aggregates cover only towns with at least 5 live listings.",
+    "No listing descriptions, images, URLs, or project/developer names are redistributed — only numeric observations and derived statistics.",
+    "AVM accuracy, measured nightly against the whole book, is published at https://avenaterminal.com/model-stats.json (in-sample, caveats included)."
+  ]
+}
