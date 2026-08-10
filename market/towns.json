@@ -14,11 +14,11 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 182,
-    "median_price_eur": 565000,
-    "median_pm2_eur": 6729,
-    "p25_pm2_eur": 5668,
-    "p75_pm2_eur": 8427,
+    "n_listings": 185,
+    "median_price_eur": 562800,
+    "median_pm2_eur": 6716,
+    "p25_pm2_eur": 5586,
+    "p75_pm2_eur": 8413,
     "median_built_m2": 87,
     "villa_share_pct": 18,
     "median_beach_km": 2
