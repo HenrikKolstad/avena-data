@@ -46,5 +46,13 @@
     "price_reductions": 0,
     "median_abs_move_pct": null,
     "delistings": 0
+  },
+  {
+    "date": "2026-08-11",
+    "listings_observed": 1999,
+    "price_increases": 8,
+    "price_reductions": 5,
+    "median_abs_move_pct": 5.12,
+    "delistings": 1
   }
 ]

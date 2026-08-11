@@ -1,12 +1,12 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
 Estepona,Costa del Sol,231,695000,6475,5371,8733,102,14,1
-Mijas,Costa del Sol,185,562800,6716,5586,8413,87,18,2
-Torrevieja,Costa Blanca South,116,305450,4992,4160,5691,63,26,0.5
+Mijas,Costa del Sol,186,563900,6721,5605,8427,87,18,2
+Torrevieja,Costa Blanca South,116,306950,4957,4160,5691,63,26,0.5
 Fuengirola,Costa del Sol,99,725000,7375,6173,9868,90,12,1.5
 Pilar de La Horadada,Costa Blanca South,93,365000,4874,4284,5533,77,75,2
-Marbella,Costa del Sol,88,1097500,8046,6467,12049,120,33,2.1
+Marbella,Costa del Sol,87,1125000,8118,6523,12071,121,33,2.2
 Los Alcazares,Costa Calida,76,399900,4632,4197,5380,90,46,1
-Finestrat,Costa Blanca North,67,565000,5599,4840,6295,106,55,3
+Finestrat,Costa Blanca North,67,565000,5599,4890,6295,106,55,3
 San Pedro del Pinatar,Costa Calida,52,289000,4305,3910,5034,68,46,1
 Torre Pacheco,Costa Calida,50,304000,4028,3646,4622,80,66,9
 Casares,Costa del Sol,49,595000,6307,5455,7059,97,6,1.8
@@ -32,7 +32,7 @@ San Roque,Costa del Sol (Cadiz),15,595000,5719,5239,7311,96,0,1.5
 Alicante,Costa Blanca North,14,289900,4603,4375,5129,64,0,3
 Orihuela,Costa Blanca South,14,405950,4604,4401,5340,92,100,14.5
 Vélez Málaga,Costa del Sol,14,402660,5310,4500,6022,78,21,0.3
-la Nucia,Costa Blanca North,13,449427,5909,4871,6161,73,31,7
+la Nucia,Costa Blanca North,13,449427,5635,4871,6161,73,31,7
 Aguilas,Costa Calida,12,392000,5343,4350,6542,72,17,0.3
 El Verger,Costa Blanca North,12,368000,5707,5085,6057,68,33,0.55
 Fuente Álamo,Costa Calida - Inland,12,387423,3992,3279,5098,102,92,23
@@ -47,7 +47,7 @@ La Manga Club,Costa Calida,10,462500,4931,4552,5661,90,50,2.5
 La Manga del Mar Menor,Costa Calida,10,299000,4122,3224,4830,84,20,0.1
 Ciudad Quesada,Costa Blanca South,9,549000,5345,4600,5490,100,100,7
 Mazarron,Costa Calida - Inland,9,269900,2406,2170,2900,60,67,9
-Mutxamel,Costa Blanca North,9,399000,4726,4125,5329,80,33,6
+Mutxamel,Costa Blanca North,9,399000,4968,4125,5329,80,33,6
 San Fulgencio,Costa Blanca South,9,365000,4389,4033,4620,85,100,7
 San Pedro De Alcantara,Costa del Sol,9,777000,7615,6959,9035,108,0,1.2
 Almuñecar,Costa Tropical,7,350000,5000,3594,5206,75,43,0.3
