@@ -658,5 +658,155 @@
     "change_pct": -0.31,
     "town": "Marbella",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N8359",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 1648710,
+    "new_price_eur": 1732000,
+    "change_pct": 5.05,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8360",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 1372710,
+    "new_price_eur": 1442000,
+    "change_pct": 5.05,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8361",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 1678770,
+    "new_price_eur": 1763000,
+    "change_pct": 5.02,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8362",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 1408830,
+    "new_price_eur": 1480000,
+    "change_pct": 5.05,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8705",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 294900,
+    "new_price_eur": 299900,
+    "change_pct": 1.7,
+    "town": "Pilar de La Horadada",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8707",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 299900,
+    "new_price_eur": 304900,
+    "change_pct": 1.67,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8709",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 314900,
+    "new_price_eur": 339900,
+    "change_pct": 7.94,
+    "town": "Pilar de La Horadada",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8710",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 349900,
+    "new_price_eur": 379900,
+    "change_pct": 8.57,
+    "town": "Pilar de La Horadada",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8896",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 2002980,
+    "new_price_eur": 2104000,
+    "change_pct": 5.04,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9095",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 518000,
+    "new_price_eur": 568000,
+    "change_pct": 9.65,
+    "town": "Penaguila",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9096",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 452000,
+    "new_price_eur": 468000,
+    "change_pct": 3.54,
+    "town": "Penaguila",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9097",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 394000,
+    "new_price_eur": 398000,
+    "change_pct": 1.02,
+    "town": "Penaguila",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9098",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 415000,
+    "new_price_eur": 435000,
+    "change_pct": 4.82,
+    "town": "Penaguila",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9292",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 777000,
+    "new_price_eur": 827000,
+    "change_pct": 6.44,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1689",
+    "date": "2026-08-12",
+    "prev_date": "2026-08-11",
+    "prev_price_eur": 375000,
+    "new_price_eur": 455000,
+    "change_pct": 21.33,
+    "town": "Fuengirola",
+    "type": "Apartment"
   }
 ]

@@ -231,6 +231,116 @@
     "last_seen_date": "2026-08-07"
   },
   {
+    "avn_id": "N9099",
+    "town": "Penaguila",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 493000,
+    "last_pm2_eur": 3521,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "N9291",
+    "town": "Villajoyosa",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 495000,
+    "last_pm2_eur": 13378,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "N9601",
+    "town": "Sucina",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 329900,
+    "last_pm2_eur": 3332,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "N9886",
+    "town": "Sucina",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 329900,
+    "last_pm2_eur": 3332,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "SP0882",
+    "town": "Fuengirola",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 1098500,
+    "last_pm2_eur": 9231,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "SP0883",
+    "town": "Fuengirola",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 669000,
+    "last_pm2_eur": 7352,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "SP0884",
+    "town": "Fuengirola",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 907000,
+    "last_pm2_eur": 7496,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "SP0885",
+    "town": "Fuengirola",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 1037000,
+    "last_pm2_eur": 12963,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "SP0886",
+    "town": "Fuengirola",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 1254700,
+    "last_pm2_eur": 11837,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "SP1031",
+    "town": "Alicante",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 180500,
+    "last_pm2_eur": 4878,
+    "last_seen_date": "2026-08-11"
+  },
+  {
     "avn_id": "SP1540",
     "town": "Marbella",
     "region": "costa-del-sol",
@@ -239,6 +349,17 @@
     "built_m2": 76,
     "last_price_eur": 439000,
     "last_pm2_eur": 5776,
+    "last_seen_date": "2026-08-11"
+  },
+  {
+    "avn_id": "SP1778",
+    "town": "Marbella",
+    "region": "costa-del-sol",
+    "type": "Villa",
+    "beds": null,
+    "built_m2": null,
+    "last_price_eur": 4950000,
+    "last_pm2_eur": 8984,
     "last_seen_date": "2026-08-11"
   }
 ]
