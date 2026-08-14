@@ -808,5 +808,205 @@
     "change_pct": 21.33,
     "town": "Fuengirola",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N9240",
+    "date": "2026-08-13",
+    "prev_date": "2026-08-12",
+    "prev_price_eur": 428000,
+    "new_price_eur": 450000,
+    "change_pct": 5.14,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9652",
+    "date": "2026-08-13",
+    "prev_date": "2026-08-12",
+    "prev_price_eur": 659000,
+    "new_price_eur": 699000,
+    "change_pct": 6.07,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9823",
+    "date": "2026-08-13",
+    "prev_date": "2026-08-12",
+    "prev_price_eur": 700000,
+    "new_price_eur": 725000,
+    "change_pct": 3.57,
+    "town": "Torrevieja",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1662",
+    "date": "2026-08-13",
+    "prev_date": "2026-08-12",
+    "prev_price_eur": 389000,
+    "new_price_eur": 409000,
+    "change_pct": 5.14,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1739",
+    "date": "2026-08-13",
+    "prev_date": "2026-08-12",
+    "prev_price_eur": 797000,
+    "new_price_eur": 887000,
+    "change_pct": 11.29,
+    "town": "Fuengirola",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N3099V",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 859900,
+    "new_price_eur": 859000,
+    "change_pct": -0.1,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7256",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 544000,
+    "new_price_eur": 571500,
+    "change_pct": 5.06,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7261",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 513500,
+    "new_price_eur": 539500,
+    "change_pct": 5.06,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9095",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 568000,
+    "new_price_eur": 594000,
+    "change_pct": 4.58,
+    "town": "Penaguila",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9096",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 468000,
+    "new_price_eur": 516000,
+    "change_pct": 10.26,
+    "town": "Penaguila",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9097",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 398000,
+    "new_price_eur": 424000,
+    "change_pct": 6.53,
+    "town": "Penaguila",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9098",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 435000,
+    "new_price_eur": 456000,
+    "change_pct": 4.83,
+    "town": "Penaguila",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9166",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 725000,
+    "new_price_eur": 605000,
+    "change_pct": -16.55,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9168",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 889000,
+    "new_price_eur": 1195000,
+    "change_pct": 34.42,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0791",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 1055000,
+    "new_price_eur": 1100000,
+    "change_pct": 4.27,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1407",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 758565,
+    "new_price_eur": 762600,
+    "change_pct": 0.53,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1417",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 806600,
+    "new_price_eur": 1018050,
+    "change_pct": 26.21,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1748",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 560000,
+    "new_price_eur": 695000,
+    "change_pct": 24.11,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1749",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 685000,
+    "new_price_eur": 795000,
+    "change_pct": 16.06,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1751",
+    "date": "2026-08-14",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 925000,
+    "new_price_eur": 985000,
+    "change_pct": 6.49,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]
