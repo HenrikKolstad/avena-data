@@ -570,5 +570,60 @@
     "last_price_eur": 798000,
     "last_pm2_eur": 8769,
     "last_seen_date": "2026-08-14"
+  },
+  {
+    "avn_id": "N7843",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 68,
+    "last_price_eur": 275000,
+    "last_pm2_eur": 4044,
+    "last_seen_date": "2026-08-15"
+  },
+  {
+    "avn_id": "N9227",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 85,
+    "last_price_eur": 749400,
+    "last_pm2_eur": 8816,
+    "last_seen_date": "2026-08-15"
+  },
+  {
+    "avn_id": "N9283",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 4,
+    "built_m2": 148,
+    "last_price_eur": 1200000,
+    "last_pm2_eur": 8108,
+    "last_seen_date": "2026-08-15"
+  },
+  {
+    "avn_id": "N9426",
+    "town": "Alhama De Murcia",
+    "region": "costa-calida",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 92,
+    "last_price_eur": 325000,
+    "last_pm2_eur": 3533,
+    "last_seen_date": "2026-08-15"
+  },
+  {
+    "avn_id": "SP0562",
+    "town": "Vélez Málaga",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 61,
+    "last_price_eur": 265500,
+    "last_pm2_eur": 4352,
+    "last_seen_date": "2026-08-15"
   }
 ]

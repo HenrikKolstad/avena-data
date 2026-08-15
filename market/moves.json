@@ -1008,5 +1008,45 @@
     "change_pct": 6.49,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N6300",
+    "date": "2026-08-15",
+    "prev_date": "2026-08-14",
+    "prev_price_eur": 499900,
+    "new_price_eur": 559900,
+    "change_pct": 12,
+    "town": "Rojales",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7935",
+    "date": "2026-08-15",
+    "prev_date": "2026-08-14",
+    "prev_price_eur": 570000,
+    "new_price_eur": 580000,
+    "change_pct": 1.75,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8670",
+    "date": "2026-08-15",
+    "prev_date": "2026-08-14",
+    "prev_price_eur": 487000,
+    "new_price_eur": 490000,
+    "change_pct": 0.62,
+    "town": "Casares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1795",
+    "date": "2026-08-15",
+    "prev_date": "2026-08-14",
+    "prev_price_eur": 632100,
+    "new_price_eur": 723800,
+    "change_pct": 14.51,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
   }
 ]
