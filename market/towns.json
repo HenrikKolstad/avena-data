@@ -2,23 +2,23 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 230,
+    "n_listings": 232,
     "median_price_eur": 695000,
     "median_pm2_eur": 6473,
     "p25_pm2_eur": 5361,
-    "p75_pm2_eur": 8709,
+    "p75_pm2_eur": 8707,
     "median_built_m2": 102,
     "villa_share_pct": 14,
-    "median_beach_km": 1.1
+    "median_beach_km": 1.2
   },
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 183,
+    "n_listings": 185,
     "median_price_eur": 562800,
-    "median_pm2_eur": 6650,
-    "p25_pm2_eur": 5551,
-    "p75_pm2_eur": 8361,
+    "median_pm2_eur": 6716,
+    "p25_pm2_eur": 5586,
+    "p75_pm2_eur": 8413,
     "median_built_m2": 86,
     "villa_share_pct": 18,
     "median_beach_km": 2
@@ -26,13 +26,13 @@
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 115,
-    "median_price_eur": 308000,
-    "median_pm2_eur": 4979,
+    "n_listings": 120,
+    "median_price_eur": 305000,
+    "median_pm2_eur": 4957,
     "p25_pm2_eur": 4166,
-    "p75_pm2_eur": 5694,
-    "median_built_m2": 62,
-    "villa_share_pct": 26,
+    "p75_pm2_eur": 5691,
+    "median_built_m2": 61,
+    "villa_share_pct": 25,
     "median_beach_km": 0.6
   },
   {
@@ -372,6 +372,18 @@
     "median_beach_km": 14.5
   },
   {
+    "town": "Vélez Málaga",
+    "costa": "Costa del Sol",
+    "n_listings": 14,
+    "median_price_eur": 432210,
+    "median_pm2_eur": 5335,
+    "p25_pm2_eur": 4648,
+    "p75_pm2_eur": 6022,
+    "median_built_m2": 82,
+    "villa_share_pct": 21,
+    "median_beach_km": 0.3
+  },
+  {
     "town": "la Nucia",
     "costa": "Costa Blanca North",
     "n_listings": 13,
@@ -382,18 +394,6 @@
     "median_built_m2": 73,
     "villa_share_pct": 31,
     "median_beach_km": 7
-  },
-  {
-    "town": "Vélez Málaga",
-    "costa": "Costa del Sol",
-    "n_listings": 13,
-    "median_price_eur": 429420,
-    "median_pm2_eur": 5505,
-    "p25_pm2_eur": 4579,
-    "p75_pm2_eur": 6048,
-    "median_built_m2": 78,
-    "villa_share_pct": 23,
-    "median_beach_km": 0.3
   },
   {
     "town": "Aguilas",

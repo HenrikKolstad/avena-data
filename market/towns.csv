@@ -1,7 +1,7 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,230,695000,6473,5361,8709,102,14,1.1
-Mijas,Costa del Sol,183,562800,6650,5551,8361,86,18,2
-Torrevieja,Costa Blanca South,115,308000,4979,4166,5694,62,26,0.6
+Estepona,Costa del Sol,232,695000,6473,5361,8707,102,14,1.2
+Mijas,Costa del Sol,185,562800,6716,5586,8413,86,18,2
+Torrevieja,Costa Blanca South,120,305000,4957,4166,5691,61,25,0.6
 Fuengirola,Costa del Sol,96,720000,7372,6150,9701,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,95,365000,4874,4333,5524,77,76,2
 Marbella,Costa del Sol,86,1097500,8046,6502,12092,120,33,2.2
@@ -30,8 +30,8 @@ Jávea Xàbia,Costa Blanca North,18,523000,6709,6131,7802,77,22,0.8
 San Javier,Costa Calida,17,380000,4714,3899,6166,80,82,2.5
 San Roque,Costa del Sol (Cadiz),15,595000,5719,5239,7311,96,0,1.5
 Orihuela,Costa Blanca South,14,405950,4604,4401,5340,92,100,14.5
+Vélez Málaga,Costa del Sol,14,432210,5335,4648,6022,82,21,0.3
 la Nucia,Costa Blanca North,13,449427,5635,4871,6161,73,31,7
-Vélez Málaga,Costa del Sol,13,429420,5505,4579,6048,78,23,0.3
 Aguilas,Costa Calida,12,392000,5343,4350,6542,72,17,0.3
 Alicante,Costa Blanca North,12,290700,4573,4312,4867,67,0,2.85
 El Verger,Costa Blanca North,12,368000,5707,5085,6057,68,33,0.55

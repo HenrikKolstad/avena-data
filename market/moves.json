@@ -1048,5 +1048,15 @@
     "change_pct": 14.51,
     "town": "San Pedro De Alcantara",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0061",
+    "date": "2026-08-16",
+    "prev_date": "2026-08-15",
+    "prev_price_eur": 545000,
+    "new_price_eur": 555000,
+    "change_pct": 1.83,
+    "town": "Jávea Xàbia",
+    "type": "Penthouse"
   }
 ]
