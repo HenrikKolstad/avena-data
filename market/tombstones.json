@@ -625,5 +625,16 @@
     "last_price_eur": 265500,
     "last_pm2_eur": 4352,
     "last_seen_date": "2026-08-15"
+  },
+  {
+    "avn_id": "SP0818",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 110,
+    "last_price_eur": 460000,
+    "last_pm2_eur": 4182,
+    "last_seen_date": "2026-08-18"
   }
 ]

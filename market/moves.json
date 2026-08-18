@@ -1058,5 +1058,165 @@
     "change_pct": 1.83,
     "town": "Jávea Xàbia",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N6259",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 415000,
+    "new_price_eur": 399000,
+    "change_pct": -3.86,
+    "town": "San Miguel de Salinas",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N6658",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 449000,
+    "new_price_eur": 459000,
+    "change_pct": 2.23,
+    "town": "Orihuela",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7256",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 571500,
+    "new_price_eur": 544000,
+    "change_pct": -4.81,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7261",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 539500,
+    "new_price_eur": 513500,
+    "change_pct": -4.82,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7821",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 460000,
+    "new_price_eur": 465000,
+    "change_pct": 1.09,
+    "town": "Mutxamel",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9206",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 260000,
+    "new_price_eur": 280000,
+    "change_pct": 7.69,
+    "town": "San Javier",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9531",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 479000,
+    "new_price_eur": 472500,
+    "change_pct": -1.36,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0848",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 430000,
+    "new_price_eur": 441000,
+    "change_pct": 2.56,
+    "town": "Alicante",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0943",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 4850000,
+    "new_price_eur": 4900000,
+    "change_pct": 1.03,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1331",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 335000,
+    "new_price_eur": 355000,
+    "change_pct": 5.97,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1359",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 395000,
+    "new_price_eur": 405000,
+    "change_pct": 2.53,
+    "town": "Calpe",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1387",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 1250000,
+    "new_price_eur": 1390000,
+    "change_pct": 11.2,
+    "town": "San Javier",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1445",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 838000,
+    "new_price_eur": 936000,
+    "change_pct": 11.69,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1554",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 1190000,
+    "new_price_eur": 1550000,
+    "change_pct": 30.25,
+    "town": "Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1622",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-17",
+    "prev_price_eur": 303000,
+    "new_price_eur": 291000,
+    "change_pct": -3.96,
+    "town": "Torre Pacheco",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1625",
+    "date": "2026-08-18",
+    "prev_date": "2026-08-08",
+    "prev_price_eur": 595000,
+    "new_price_eur": 601000,
+    "change_pct": 1.01,
+    "town": "Torre Pacheco",
+    "type": "Penthouse"
   }
 ]
