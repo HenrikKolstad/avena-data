@@ -636,5 +636,192 @@
     "last_price_eur": 460000,
     "last_pm2_eur": 4182,
     "last_seen_date": "2026-08-18"
+  },
+  {
+    "avn_id": "N6104",
+    "town": "Orihuela Costa",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 90,
+    "last_price_eur": 395000,
+    "last_pm2_eur": 4389,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "N7870",
+    "town": "Finestrat",
+    "region": "cb-north",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 95,
+    "last_price_eur": 565000,
+    "last_pm2_eur": 5947,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "N8782",
+    "town": "Ciudad Quesada",
+    "region": "cb-south",
+    "type": "Bungalow",
+    "beds": 2,
+    "built_m2": 68,
+    "last_price_eur": 364000,
+    "last_pm2_eur": 5353,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1018",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 552000,
+    "last_pm2_eur": 5520,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1479",
+    "town": "Jávea Xàbia",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 62,
+    "last_price_eur": 485000,
+    "last_pm2_eur": 7823,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1480",
+    "town": "Jávea Xàbia",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 78,
+    "last_price_eur": 485000,
+    "last_pm2_eur": 6218,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1481",
+    "town": "Jávea Xàbia",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 70,
+    "last_price_eur": 345000,
+    "last_pm2_eur": 4929,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1483",
+    "town": "Jávea Xàbia",
+    "region": "cb-north",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 63,
+    "last_price_eur": 485000,
+    "last_pm2_eur": 7698,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1484",
+    "town": "Jávea Xàbia",
+    "region": "cb-north",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 70,
+    "last_price_eur": 525000,
+    "last_pm2_eur": 7500,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1497",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 1,
+    "built_m2": 60,
+    "last_price_eur": 509000,
+    "last_pm2_eur": 8483,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1498",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 129,
+    "last_price_eur": 655000,
+    "last_pm2_eur": 5078,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1499",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 117,
+    "last_price_eur": 859000,
+    "last_pm2_eur": 7342,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1501",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 154,
+    "last_price_eur": 839000,
+    "last_pm2_eur": 5448,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1502",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 1,
+    "built_m2": 60,
+    "last_price_eur": 589000,
+    "last_pm2_eur": 9817,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1503",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 88,
+    "last_price_eur": 865000,
+    "last_pm2_eur": 9830,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1504",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 104,
+    "last_price_eur": 999000,
+    "last_pm2_eur": 9606,
+    "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "SP1629",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 108,
+    "last_price_eur": 467000,
+    "last_pm2_eur": 4324,
+    "last_seen_date": "2026-08-19"
   }
 ]

@@ -2,14 +2,14 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 232,
+    "n_listings": 225,
     "median_price_eur": 695000,
-    "median_pm2_eur": 6473,
-    "p25_pm2_eur": 5362,
-    "p75_pm2_eur": 8707,
+    "median_pm2_eur": 6434,
+    "p25_pm2_eur": 5361,
+    "p75_pm2_eur": 8669,
     "median_built_m2": 102,
-    "villa_share_pct": 14,
-    "median_beach_km": 1.2
+    "villa_share_pct": 15,
+    "median_beach_km": 1
   },
   {
     "town": "Mijas",
@@ -86,12 +86,12 @@
   {
     "town": "Finestrat",
     "costa": "Costa Blanca North",
-    "n_listings": 68,
+    "n_listings": 67,
     "median_price_eur": 565000,
-    "median_pm2_eur": 5717,
-    "p25_pm2_eur": 5009,
-    "p75_pm2_eur": 6337,
-    "median_built_m2": 103,
+    "median_pm2_eur": 5698,
+    "p25_pm2_eur": 4976,
+    "p75_pm2_eur": 6342,
+    "median_built_m2": 106,
     "villa_share_pct": 54,
     "median_beach_km": 3
   },
@@ -135,7 +135,7 @@
     "town": "Guardamar del Segura",
     "costa": "Costa Blanca South",
     "n_listings": 47,
-    "median_price_eur": 334000,
+    "median_price_eur": 340000,
     "median_pm2_eur": 4917,
     "p25_pm2_eur": 4175,
     "p75_pm2_eur": 5671,
@@ -240,18 +240,6 @@
     "median_beach_km": 6
   },
   {
-    "town": "Orihuela Costa",
-    "costa": "Costa Blanca South",
-    "n_listings": 25,
-    "median_price_eur": 669900,
-    "median_pm2_eur": 5677,
-    "p25_pm2_eur": 4880,
-    "p75_pm2_eur": 7469,
-    "median_built_m2": 120,
-    "villa_share_pct": 76,
-    "median_beach_km": 0.7
-  },
-  {
     "town": "Málaga",
     "costa": "Costa del Sol",
     "n_listings": 24,
@@ -262,6 +250,18 @@
     "median_built_m2": 84,
     "villa_share_pct": 17,
     "median_beach_km": 0.9
+  },
+  {
+    "town": "Orihuela Costa",
+    "costa": "Costa Blanca South",
+    "n_listings": 24,
+    "median_price_eur": 684900,
+    "median_pm2_eur": 6039,
+    "p25_pm2_eur": 5032,
+    "p75_pm2_eur": 7469,
+    "median_built_m2": 130,
+    "villa_share_pct": 79,
+    "median_beach_km": 0.7
   },
   {
     "town": "Baños y Mendigo",
@@ -324,18 +324,6 @@
     "median_beach_km": 0.4
   },
   {
-    "town": "Jávea Xàbia",
-    "costa": "Costa Blanca North",
-    "n_listings": 19,
-    "median_price_eur": 525000,
-    "median_pm2_eur": 7137,
-    "p25_pm2_eur": 6143,
-    "p75_pm2_eur": 7986,
-    "median_built_m2": 78,
-    "villa_share_pct": 26,
-    "median_beach_km": 0.8
-  },
-  {
     "town": "San Javier",
     "costa": "Costa Calida",
     "n_listings": 17,
@@ -358,6 +346,18 @@
     "median_built_m2": 96,
     "villa_share_pct": 0,
     "median_beach_km": 1.5
+  },
+  {
+    "town": "Jávea Xàbia",
+    "costa": "Costa Blanca North",
+    "n_listings": 14,
+    "median_price_eur": 591500,
+    "median_pm2_eur": 6709,
+    "p25_pm2_eur": 6131,
+    "p75_pm2_eur": 8444,
+    "median_built_m2": 105,
+    "villa_share_pct": 36,
+    "median_beach_km": 0.8
   },
   {
     "town": "Orihuela",
@@ -576,18 +576,6 @@
     "median_beach_km": 0.1
   },
   {
-    "town": "Ciudad Quesada",
-    "costa": "Costa Blanca South",
-    "n_listings": 9,
-    "median_price_eur": 549000,
-    "median_pm2_eur": 5345,
-    "p25_pm2_eur": 4600,
-    "p75_pm2_eur": 5490,
-    "median_built_m2": 100,
-    "villa_share_pct": 100,
-    "median_beach_km": 7
-  },
-  {
     "town": "Mazarron",
     "costa": "Costa Calida - Inland",
     "n_listings": 9,
@@ -606,7 +594,7 @@
     "median_price_eur": 399000,
     "median_pm2_eur": 4968,
     "p25_pm2_eur": 4125,
-    "p75_pm2_eur": 5329,
+    "p75_pm2_eur": 5471,
     "median_built_m2": 80,
     "villa_share_pct": 33,
     "median_beach_km": 6
@@ -634,6 +622,18 @@
     "median_built_m2": 132,
     "villa_share_pct": 100,
     "median_beach_km": 25.5
+  },
+  {
+    "town": "Ciudad Quesada",
+    "costa": "Costa Blanca South",
+    "n_listings": 8,
+    "median_price_eur": 549000,
+    "median_pm2_eur": 5116,
+    "p25_pm2_eur": 4574,
+    "p75_pm2_eur": 5490,
+    "median_built_m2": 100,
+    "villa_share_pct": 100,
+    "median_beach_km": 7
   },
   {
     "town": "Almuñecar",

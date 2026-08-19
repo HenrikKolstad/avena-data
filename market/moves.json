@@ -1218,5 +1218,105 @@
     "change_pct": 1.01,
     "town": "Torre Pacheco",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N5809",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 325000,
+    "new_price_eur": 339000,
+    "change_pct": 4.31,
+    "town": "Orihuela Costa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8172",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 970000,
+    "new_price_eur": 1070000,
+    "change_pct": 10.31,
+    "town": "Manilva",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9726",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 565000,
+    "new_price_eur": 639000,
+    "change_pct": 13.1,
+    "town": "Los Alcazares",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9843",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 570000,
+    "new_price_eur": 625000,
+    "change_pct": 9.65,
+    "town": "Mutxamel",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0385",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 3990000,
+    "new_price_eur": 4200000,
+    "change_pct": 5.26,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0794",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 2000000,
+    "new_price_eur": 1950000,
+    "change_pct": -2.5,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1154",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 1055000,
+    "new_price_eur": 1270000,
+    "change_pct": 20.38,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1218",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 546000,
+    "new_price_eur": 581000,
+    "change_pct": 6.41,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1363",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 282000,
+    "new_price_eur": 385000,
+    "change_pct": 36.52,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1562",
+    "date": "2026-08-19",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 890000,
+    "new_price_eur": 895000,
+    "change_pct": 0.56,
+    "town": "Estepona",
+    "type": "Apartment"
   }
 ]
