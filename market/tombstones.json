@@ -823,5 +823,27 @@
     "last_price_eur": 467000,
     "last_pm2_eur": 4324,
     "last_seen_date": "2026-08-19"
+  },
+  {
+    "avn_id": "N8274",
+    "town": "Pilar de La Horadada",
+    "region": "cb-south",
+    "type": "Bungalow",
+    "beds": 3,
+    "built_m2": 77,
+    "last_price_eur": 380000,
+    "last_pm2_eur": 4935,
+    "last_seen_date": "2026-08-20"
+  },
+  {
+    "avn_id": "SP1116",
+    "town": "Casares",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 78,
+    "last_price_eur": 587600,
+    "last_pm2_eur": 7533,
+    "last_seen_date": "2026-08-20"
   }
 ]

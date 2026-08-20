@@ -1318,5 +1318,105 @@
     "change_pct": 0.56,
     "town": "Estepona",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N8325",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 2600000,
+    "new_price_eur": 2500000,
+    "change_pct": -3.85,
+    "town": "Benalmádena",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8385",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 265000,
+    "new_price_eur": 305000,
+    "change_pct": 15.09,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9726",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 639000,
+    "new_price_eur": 645000,
+    "change_pct": 0.94,
+    "town": "Los Alcazares",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9742",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 231900,
+    "new_price_eur": 248900,
+    "change_pct": 7.33,
+    "town": "San Pedro del Pinatar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0794",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 1950000,
+    "new_price_eur": 2000000,
+    "change_pct": 2.56,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0868",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 949000,
+    "new_price_eur": 899000,
+    "change_pct": -5.27,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0869",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 1395000,
+    "new_price_eur": 1549000,
+    "change_pct": 11.04,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1253",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 1185930,
+    "new_price_eur": 1245226,
+    "change_pct": 5,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1254",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 1178690,
+    "new_price_eur": 1237792,
+    "change_pct": 5.01,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1255",
+    "date": "2026-08-20",
+    "prev_date": "2026-08-19",
+    "prev_price_eur": 2141850,
+    "new_price_eur": 2248942,
+    "change_pct": 5,
+    "town": "Marbella",
+    "type": "Penthouse"
   }
 ]
