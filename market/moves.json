@@ -1418,5 +1418,185 @@
     "change_pct": 5,
     "town": "Marbella",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7631",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 595000,
+    "new_price_eur": 638000,
+    "change_pct": 7.23,
+    "town": "Sotogrande",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8374",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 349000,
+    "new_price_eur": 369000,
+    "change_pct": 5.73,
+    "town": "San Javier",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8797",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 963000,
+    "new_price_eur": 981000,
+    "change_pct": 1.87,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9166",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 605000,
+    "new_price_eur": 725000,
+    "change_pct": 19.83,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9344",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 565000,
+    "new_price_eur": 580000,
+    "change_pct": 2.65,
+    "town": "Finestrat",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9540",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 445000,
+    "new_price_eur": 455000,
+    "change_pct": 2.25,
+    "town": "San Pedro del Pinatar",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0605",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 288000,
+    "new_price_eur": 302000,
+    "change_pct": 4.86,
+    "town": "Manilva",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0620",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 480000,
+    "new_price_eur": 474000,
+    "change_pct": -1.25,
+    "town": "San Roque",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0623",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 562000,
+    "new_price_eur": 585000,
+    "change_pct": 4.09,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1405",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 595200,
+    "new_price_eur": 638700,
+    "change_pct": 7.31,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1406",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 631150,
+    "new_price_eur": 663000,
+    "change_pct": 5.05,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1407",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 762600,
+    "new_price_eur": 801000,
+    "change_pct": 5.04,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1408",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 777000,
+    "new_price_eur": 839550,
+    "change_pct": 8.05,
+    "town": "San Pedro De Alcantara",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1417",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 1018050,
+    "new_price_eur": 1059000,
+    "change_pct": 4.02,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1604",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 410000,
+    "new_price_eur": 375000,
+    "change_pct": -8.54,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1609",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 895000,
+    "new_price_eur": 950000,
+    "change_pct": 6.15,
+    "town": "Fuengirola",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1751",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 985000,
+    "new_price_eur": 995000,
+    "change_pct": 1.02,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1788",
+    "date": "2026-08-21",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 665800,
+    "new_price_eur": 670100,
+    "change_pct": 0.65,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]

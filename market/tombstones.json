@@ -8,7 +8,9 @@
     "built_m2": null,
     "last_price_eur": 385000,
     "last_pm2_eur": 3667,
-    "last_seen_date": "2026-08-06"
+    "last_seen_date": "2026-08-06",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9266",
@@ -19,7 +21,9 @@
     "built_m2": null,
     "last_price_eur": 385000,
     "last_pm2_eur": 3667,
-    "last_seen_date": "2026-08-06"
+    "last_seen_date": "2026-08-06",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9616",
@@ -30,7 +34,9 @@
     "built_m2": null,
     "last_price_eur": 329900,
     "last_pm2_eur": 2999,
-    "last_seen_date": "2026-08-06"
+    "last_seen_date": "2026-08-06",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N7803",
@@ -41,7 +47,9 @@
     "built_m2": null,
     "last_price_eur": 610000,
     "last_pm2_eur": 6040,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8205",
@@ -52,7 +60,9 @@
     "built_m2": null,
     "last_price_eur": 419000,
     "last_pm2_eur": 6254,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": "2026-08-08",
+    "still_listed": false
   },
   {
     "avn_id": "N9260",
@@ -63,7 +73,9 @@
     "built_m2": null,
     "last_price_eur": 2275000,
     "last_pm2_eur": 5789,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": "2026-08-08",
+    "still_listed": false
   },
   {
     "avn_id": "N9491",
@@ -74,7 +86,9 @@
     "built_m2": null,
     "last_price_eur": 369900,
     "last_pm2_eur": 4932,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9519",
@@ -85,7 +99,9 @@
     "built_m2": null,
     "last_price_eur": 249900,
     "last_pm2_eur": 5206,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": "2026-08-08",
+    "still_listed": false
   },
   {
     "avn_id": "SP0242",
@@ -96,7 +112,9 @@
     "built_m2": null,
     "last_price_eur": 1750000,
     "last_pm2_eur": 7778,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0664",
@@ -107,7 +125,9 @@
     "built_m2": null,
     "last_price_eur": 389000,
     "last_pm2_eur": 6078,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1080",
@@ -118,7 +138,9 @@
     "built_m2": null,
     "last_price_eur": 341000,
     "last_pm2_eur": 5328,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": "2026-08-08",
+    "still_listed": false
   },
   {
     "avn_id": "SP1160",
@@ -129,7 +151,9 @@
     "built_m2": null,
     "last_price_eur": 338000,
     "last_pm2_eur": 5121,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1300",
@@ -140,7 +164,9 @@
     "built_m2": null,
     "last_price_eur": 299000,
     "last_pm2_eur": 4271,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1301",
@@ -151,7 +177,9 @@
     "built_m2": null,
     "last_price_eur": 375000,
     "last_pm2_eur": 5515,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1319",
@@ -162,7 +190,9 @@
     "built_m2": null,
     "last_price_eur": 459000,
     "last_pm2_eur": 3825,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1381",
@@ -173,7 +203,9 @@
     "built_m2": null,
     "last_price_eur": 553900,
     "last_pm2_eur": 6924,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1382",
@@ -184,7 +216,9 @@
     "built_m2": null,
     "last_price_eur": 390400,
     "last_pm2_eur": 6507,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1383",
@@ -195,7 +229,9 @@
     "built_m2": null,
     "last_price_eur": 440500,
     "last_pm2_eur": 5372,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1625",
@@ -206,7 +242,9 @@
     "built_m2": null,
     "last_price_eur": 595000,
     "last_pm2_eur": 6467,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": "2026-08-08",
+    "still_listed": true
   },
   {
     "avn_id": "SP1644",
@@ -217,7 +255,9 @@
     "built_m2": null,
     "last_price_eur": 499000,
     "last_pm2_eur": 9073,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": "2026-08-08",
+    "still_listed": false
   },
   {
     "avn_id": "SP1650",
@@ -228,7 +268,9 @@
     "built_m2": null,
     "last_price_eur": 341370,
     "last_pm2_eur": 9753,
-    "last_seen_date": "2026-08-07"
+    "last_seen_date": "2026-08-07",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9099",
@@ -239,7 +281,9 @@
     "built_m2": null,
     "last_price_eur": 493000,
     "last_pm2_eur": 3521,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9291",
@@ -250,7 +294,9 @@
     "built_m2": null,
     "last_price_eur": 495000,
     "last_pm2_eur": 13378,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9601",
@@ -261,7 +307,9 @@
     "built_m2": null,
     "last_price_eur": 329900,
     "last_pm2_eur": 3332,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9886",
@@ -272,7 +320,9 @@
     "built_m2": null,
     "last_price_eur": 329900,
     "last_pm2_eur": 3332,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0882",
@@ -283,7 +333,9 @@
     "built_m2": null,
     "last_price_eur": 1098500,
     "last_pm2_eur": 9231,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0883",
@@ -294,7 +346,9 @@
     "built_m2": null,
     "last_price_eur": 669000,
     "last_pm2_eur": 7352,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0884",
@@ -305,7 +359,9 @@
     "built_m2": null,
     "last_price_eur": 907000,
     "last_pm2_eur": 7496,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0885",
@@ -316,7 +372,9 @@
     "built_m2": null,
     "last_price_eur": 1037000,
     "last_pm2_eur": 12963,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0886",
@@ -327,7 +385,9 @@
     "built_m2": null,
     "last_price_eur": 1254700,
     "last_pm2_eur": 11837,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1031",
@@ -338,7 +398,9 @@
     "built_m2": null,
     "last_price_eur": 180500,
     "last_pm2_eur": 4878,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1540",
@@ -349,7 +411,9 @@
     "built_m2": 76,
     "last_price_eur": 439000,
     "last_pm2_eur": 5776,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1778",
@@ -360,7 +424,9 @@
     "built_m2": null,
     "last_price_eur": 4950000,
     "last_pm2_eur": 8984,
-    "last_seen_date": "2026-08-11"
+    "last_seen_date": "2026-08-11",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N6195",
@@ -371,7 +437,9 @@
     "built_m2": null,
     "last_price_eur": 790000,
     "last_pm2_eur": 4115,
-    "last_seen_date": "2026-08-12"
+    "last_seen_date": "2026-08-12",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8118",
@@ -382,7 +450,9 @@
     "built_m2": null,
     "last_price_eur": 363500,
     "last_pm2_eur": 4783,
-    "last_seen_date": "2026-08-12"
+    "last_seen_date": "2026-08-12",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9243",
@@ -393,7 +463,9 @@
     "built_m2": null,
     "last_price_eur": 656000,
     "last_pm2_eur": 6308,
-    "last_seen_date": "2026-08-12"
+    "last_seen_date": "2026-08-12",
+    "relisted_on": "2026-08-19",
+    "still_listed": true
   },
   {
     "avn_id": "N9653",
@@ -404,7 +476,9 @@
     "built_m2": null,
     "last_price_eur": 599000,
     "last_pm2_eur": 6582,
-    "last_seen_date": "2026-08-12"
+    "last_seen_date": "2026-08-12",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1222",
@@ -415,7 +489,9 @@
     "built_m2": null,
     "last_price_eur": 999000,
     "last_pm2_eur": 8841,
-    "last_seen_date": "2026-08-12"
+    "last_seen_date": "2026-08-12",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1473",
@@ -426,7 +502,9 @@
     "built_m2": null,
     "last_price_eur": 395000,
     "last_pm2_eur": 6930,
-    "last_seen_date": "2026-08-12"
+    "last_seen_date": "2026-08-12",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N7413",
@@ -437,7 +515,9 @@
     "built_m2": 103,
     "last_price_eur": 739000,
     "last_pm2_eur": 7175,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N7504",
@@ -448,7 +528,9 @@
     "built_m2": 100,
     "last_price_eur": 528125,
     "last_pm2_eur": 5281,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N7505",
@@ -459,7 +541,9 @@
     "built_m2": 100,
     "last_price_eur": 563160,
     "last_pm2_eur": 5632,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N7506",
@@ -470,7 +554,9 @@
     "built_m2": 120,
     "last_price_eur": 663115,
     "last_pm2_eur": 5526,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8647",
@@ -481,7 +567,9 @@
     "built_m2": 100,
     "last_price_eur": 505280,
     "last_pm2_eur": 5053,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8648",
@@ -492,7 +580,9 @@
     "built_m2": 100,
     "last_price_eur": 547690,
     "last_pm2_eur": 5477,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8805",
@@ -503,7 +593,9 @@
     "built_m2": 128,
     "last_price_eur": 625000,
     "last_pm2_eur": 4883,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8966",
@@ -514,7 +606,9 @@
     "built_m2": 75,
     "last_price_eur": 279000,
     "last_pm2_eur": 3720,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8967",
@@ -525,7 +619,9 @@
     "built_m2": 90,
     "last_price_eur": 359000,
     "last_pm2_eur": 3989,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0788",
@@ -536,7 +632,9 @@
     "built_m2": 133,
     "last_price_eur": 799000,
     "last_pm2_eur": 6008,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1409",
@@ -547,7 +645,9 @@
     "built_m2": 109,
     "last_price_eur": 830000,
     "last_pm2_eur": 7615,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1648",
@@ -558,7 +658,9 @@
     "built_m2": 52,
     "last_price_eur": 283500,
     "last_pm2_eur": 5452,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": "2026-08-18",
+    "still_listed": true
   },
   {
     "avn_id": "SP1750",
@@ -569,7 +671,9 @@
     "built_m2": 91,
     "last_price_eur": 798000,
     "last_pm2_eur": 8769,
-    "last_seen_date": "2026-08-14"
+    "last_seen_date": "2026-08-14",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N7843",
@@ -580,7 +684,9 @@
     "built_m2": 68,
     "last_price_eur": 275000,
     "last_pm2_eur": 4044,
-    "last_seen_date": "2026-08-15"
+    "last_seen_date": "2026-08-15",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9227",
@@ -591,7 +697,9 @@
     "built_m2": 85,
     "last_price_eur": 749400,
     "last_pm2_eur": 8816,
-    "last_seen_date": "2026-08-15"
+    "last_seen_date": "2026-08-15",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9283",
@@ -602,7 +710,9 @@
     "built_m2": 148,
     "last_price_eur": 1200000,
     "last_pm2_eur": 8108,
-    "last_seen_date": "2026-08-15"
+    "last_seen_date": "2026-08-15",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N9426",
@@ -613,7 +723,9 @@
     "built_m2": 92,
     "last_price_eur": 325000,
     "last_pm2_eur": 3533,
-    "last_seen_date": "2026-08-15"
+    "last_seen_date": "2026-08-15",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0562",
@@ -624,7 +736,9 @@
     "built_m2": 61,
     "last_price_eur": 265500,
     "last_pm2_eur": 4352,
-    "last_seen_date": "2026-08-15"
+    "last_seen_date": "2026-08-15",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP0818",
@@ -635,7 +749,9 @@
     "built_m2": 110,
     "last_price_eur": 460000,
     "last_pm2_eur": 4182,
-    "last_seen_date": "2026-08-18"
+    "last_seen_date": "2026-08-18",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N6104",
@@ -646,7 +762,9 @@
     "built_m2": 90,
     "last_price_eur": 395000,
     "last_pm2_eur": 4389,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N7870",
@@ -657,7 +775,9 @@
     "built_m2": 95,
     "last_price_eur": 565000,
     "last_pm2_eur": 5947,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8782",
@@ -668,7 +788,9 @@
     "built_m2": 68,
     "last_price_eur": 364000,
     "last_pm2_eur": 5353,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1018",
@@ -679,7 +801,9 @@
     "built_m2": 100,
     "last_price_eur": 552000,
     "last_pm2_eur": 5520,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1479",
@@ -690,7 +814,9 @@
     "built_m2": 62,
     "last_price_eur": 485000,
     "last_pm2_eur": 7823,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1480",
@@ -701,7 +827,9 @@
     "built_m2": 78,
     "last_price_eur": 485000,
     "last_pm2_eur": 6218,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1481",
@@ -712,7 +840,9 @@
     "built_m2": 70,
     "last_price_eur": 345000,
     "last_pm2_eur": 4929,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1483",
@@ -723,7 +853,9 @@
     "built_m2": 63,
     "last_price_eur": 485000,
     "last_pm2_eur": 7698,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1484",
@@ -734,7 +866,9 @@
     "built_m2": 70,
     "last_price_eur": 525000,
     "last_pm2_eur": 7500,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1497",
@@ -745,7 +879,9 @@
     "built_m2": 60,
     "last_price_eur": 509000,
     "last_pm2_eur": 8483,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1498",
@@ -756,7 +892,9 @@
     "built_m2": 129,
     "last_price_eur": 655000,
     "last_pm2_eur": 5078,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1499",
@@ -767,7 +905,9 @@
     "built_m2": 117,
     "last_price_eur": 859000,
     "last_pm2_eur": 7342,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1501",
@@ -778,7 +918,9 @@
     "built_m2": 154,
     "last_price_eur": 839000,
     "last_pm2_eur": 5448,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1502",
@@ -789,7 +931,9 @@
     "built_m2": 60,
     "last_price_eur": 589000,
     "last_pm2_eur": 9817,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1503",
@@ -800,7 +944,9 @@
     "built_m2": 88,
     "last_price_eur": 865000,
     "last_pm2_eur": 9830,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1504",
@@ -811,7 +957,9 @@
     "built_m2": 104,
     "last_price_eur": 999000,
     "last_pm2_eur": 9606,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1629",
@@ -822,7 +970,9 @@
     "built_m2": 108,
     "last_price_eur": 467000,
     "last_pm2_eur": 4324,
-    "last_seen_date": "2026-08-19"
+    "last_seen_date": "2026-08-19",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "N8274",
@@ -833,7 +983,9 @@
     "built_m2": 77,
     "last_price_eur": 380000,
     "last_pm2_eur": 4935,
-    "last_seen_date": "2026-08-20"
+    "last_seen_date": "2026-08-20",
+    "relisted_on": null,
+    "still_listed": false
   },
   {
     "avn_id": "SP1116",
@@ -844,6 +996,99 @@
     "built_m2": 78,
     "last_price_eur": 587600,
     "last_pm2_eur": 7533,
-    "last_seen_date": "2026-08-20"
+    "last_seen_date": "2026-08-20",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N6229",
+    "town": "Orihuela Costa",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 4,
+    "built_m2": 105,
+    "last_price_eur": 499000,
+    "last_pm2_eur": 4752,
+    "last_seen_date": "2026-08-21",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7630",
+    "town": "Sotogrande",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 4,
+    "built_m2": 157,
+    "last_price_eur": 551000,
+    "last_pm2_eur": 3510,
+    "last_seen_date": "2026-08-21",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9016",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 76,
+    "last_price_eur": 450000,
+    "last_pm2_eur": 5921,
+    "last_seen_date": "2026-08-21",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9792",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 141,
+    "last_price_eur": 601000,
+    "last_pm2_eur": 4262,
+    "last_seen_date": "2026-08-21",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9793",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 136,
+    "last_price_eur": 779000,
+    "last_pm2_eur": 5728,
+    "last_seen_date": "2026-08-21",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9794",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 142,
+    "last_price_eur": 754000,
+    "last_pm2_eur": 5310,
+    "last_seen_date": "2026-08-21",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0980",
+    "town": "San Roque",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 4,
+    "built_m2": 132,
+    "last_price_eur": 925000,
+    "last_pm2_eur": 7008,
+    "last_seen_date": "2026-08-21",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]
