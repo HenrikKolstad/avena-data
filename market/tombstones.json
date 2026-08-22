@@ -1090,5 +1090,31 @@
     "last_seen_date": "2026-08-21",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N8928",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 122,
+    "last_price_eur": 815000,
+    "last_pm2_eur": 6680,
+    "last_seen_date": "2026-08-22",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9715",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 2,
+    "built_m2": 137,
+    "last_price_eur": 1112000,
+    "last_pm2_eur": 8117,
+    "last_seen_date": "2026-08-22",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

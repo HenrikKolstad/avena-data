@@ -1598,5 +1598,95 @@
     "change_pct": 0.65,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N7912",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 305900,
+    "new_price_eur": 304900,
+    "change_pct": -0.33,
+    "town": "Torrevieja",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N7913",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 335900,
+    "new_price_eur": 334900,
+    "change_pct": -0.3,
+    "town": "Torrevieja",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8490",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 285000,
+    "new_price_eur": 290000,
+    "change_pct": 1.75,
+    "town": "Algorfa",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8588",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 290000,
+    "new_price_eur": 390000,
+    "change_pct": 34.48,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9028",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 700000,
+    "new_price_eur": 670000,
+    "change_pct": -4.29,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9434",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 670000,
+    "new_price_eur": 680000,
+    "change_pct": 1.49,
+    "town": "Algorfa",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9717",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 1150000,
+    "new_price_eur": 1112000,
+    "change_pct": -3.3,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0367",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 420000,
+    "new_price_eur": 400000,
+    "change_pct": -4.76,
+    "town": "Casares",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1331",
+    "date": "2026-08-22",
+    "prev_date": "2026-08-21",
+    "prev_price_eur": 355000,
+    "new_price_eur": 379000,
+    "change_pct": 6.76,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]

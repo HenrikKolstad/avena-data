@@ -1,7 +1,7 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,228,698500,6515,5390,8721,102,13,1
-Mijas,Costa del Sol,188,557900,6683,5568,8335,86,19,2
-Torrevieja,Costa Blanca South,120,305000,4957,4166,5691,61,25,0.6
+Estepona,Costa del Sol,227,695000,6504,5387,8764,102,13,1
+Mijas,Costa del Sol,191,553000,6638,5651,8289,86,18,2
+Torrevieja,Costa Blanca South,120,304950,4957,4166,5691,61,25,0.6
 Fuengirola,Costa del Sol,96,720000,7372,6183,9701,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,94,362000,4819,4325,5529,77,76,2
 Marbella,Costa del Sol,89,981000,7959,6482,12114,121,31,2
@@ -9,15 +9,15 @@ Los Alcazares,Costa Calida,80,399900,4740,4238,5497,85,44,0.9
 Finestrat,Costa Blanca North,67,578500,5698,4976,6397,106,54,3
 San Pedro del Pinatar,Costa Calida,52,289000,4305,3910,5034,68,46,1
 Torre Pacheco,Costa Calida,52,308450,4059,3671,4663,80,65,9
-Casares,Costa del Sol,48,597100,6191,5384,7022,98,6,1.9
-Guardamar del Segura,Costa Blanca South,47,340000,4917,4175,5671,69,2,1.4
+Casares,Costa del Sol,50,580000,6051,5140,6999,98,6,1.8
+Guardamar del Segura,Costa Blanca South,48,337000,4809,4163,5664,69,2,1.4
 Benijofar,Costa Blanca South,42,393400,4796,4245,5332,75,31,8
+Manilva,Costa del Sol,36,505500,6105,4363,7841,94,11,0.3
 Benahavís,Costa del Sol,33,1160000,9313,7474,12209,125,18,5.5
 Pinoso,Costa Blanca South - Inland,31,473500,3055,2791,3773,140,100,50
 Villajoyosa,Costa Blanca North,30,442500,6509,5618,7458,71,0,0.5
 San Miguel de Salinas,Costa Blanca South,29,284900,4089,3751,5076,73,69,9
-Algorfa,Costa Blanca South,28,411000,4787,3321,5544,88,75,14
-Manilva,Costa del Sol,27,472000,5485,4096,6369,93,15,1.2
+Algorfa,Costa Blanca South,28,411000,4828,3321,5544,88,75,14
 Rojales,Costa Blanca South,26,516500,4961,4215,6622,99,100,6
 Málaga,Costa del Sol,24,817500,9406,6468,12947,84,17,0.9
 Baños y Mendigo,Costa Calida,23,496400,4728,4394,5366,105,74,30
