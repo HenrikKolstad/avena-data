@@ -492,6 +492,18 @@
     "median_beach_km": 20
   },
   {
+    "town": "Benissa",
+    "costa": "Costa Blanca North",
+    "n_listings": 11,
+    "median_price_eur": 2600000,
+    "median_pm2_eur": 9828,
+    "p25_pm2_eur": 7594,
+    "p75_pm2_eur": 11568,
+    "median_built_m2": 250,
+    "villa_share_pct": 100,
+    "median_beach_km": 2
+  },
+  {
     "town": "Denia",
     "costa": "Costa Blanca North",
     "n_listings": 11,
@@ -514,18 +526,6 @@
     "median_built_m2": 81,
     "villa_share_pct": 9,
     "median_beach_km": 0.8
-  },
-  {
-    "town": "Benissa",
-    "costa": "Costa Blanca North",
-    "n_listings": 10,
-    "median_price_eur": 2725000,
-    "median_pm2_eur": 10061,
-    "p25_pm2_eur": 8056,
-    "p75_pm2_eur": 11826,
-    "median_built_m2": 270,
-    "villa_share_pct": 100,
-    "median_beach_km": 1.5
   },
   {
     "town": "Cartagena",
