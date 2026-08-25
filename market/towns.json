@@ -204,28 +204,28 @@
     "median_beach_km": 0.5
   },
   {
+    "town": "Algorfa",
+    "costa": "Costa Blanca South",
+    "n_listings": 29,
+    "median_price_eur": 473000,
+    "median_pm2_eur": 4833,
+    "p25_pm2_eur": 3383,
+    "p75_pm2_eur": 5469,
+    "median_built_m2": 90,
+    "villa_share_pct": 76,
+    "median_beach_km": 14
+  },
+  {
     "town": "San Miguel de Salinas",
     "costa": "Costa Blanca South",
     "n_listings": 29,
     "median_price_eur": 284900,
     "median_pm2_eur": 4089,
-    "p25_pm2_eur": 3751,
+    "p25_pm2_eur": 3799,
     "p75_pm2_eur": 5076,
     "median_built_m2": 73,
     "villa_share_pct": 69,
     "median_beach_km": 9
-  },
-  {
-    "town": "Algorfa",
-    "costa": "Costa Blanca South",
-    "n_listings": 28,
-    "median_price_eur": 411000,
-    "median_pm2_eur": 4828,
-    "p25_pm2_eur": 3321,
-    "p75_pm2_eur": 5544,
-    "median_built_m2": 88,
-    "villa_share_pct": 75,
-    "median_beach_km": 14
   },
   {
     "town": "Rojales",

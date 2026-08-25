@@ -1688,5 +1688,35 @@
     "change_pct": 6.76,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N3672",
+    "date": "2026-08-25",
+    "prev_date": "2026-08-24",
+    "prev_price_eur": 1160000,
+    "new_price_eur": 1390000,
+    "change_pct": 19.83,
+    "town": "Orihuela Costa",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7573",
+    "date": "2026-08-25",
+    "prev_date": "2026-08-24",
+    "prev_price_eur": 600000,
+    "new_price_eur": 590000,
+    "change_pct": -1.67,
+    "town": "Istán",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9138",
+    "date": "2026-08-25",
+    "prev_date": "2026-08-24",
+    "prev_price_eur": 243800,
+    "new_price_eur": 251900,
+    "change_pct": 3.32,
+    "town": "San Miguel de Salinas",
+    "type": "Bungalow"
   }
 ]
