@@ -1718,5 +1718,35 @@
     "change_pct": 3.32,
     "town": "San Miguel de Salinas",
     "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9140",
+    "date": "2026-08-26",
+    "prev_date": "2026-08-25",
+    "prev_price_eur": 253052,
+    "new_price_eur": 261152,
+    "change_pct": 3.2,
+    "town": "San Miguel de Salinas",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9924",
+    "date": "2026-08-26",
+    "prev_date": "2026-08-25",
+    "prev_price_eur": 179000,
+    "new_price_eur": 183000,
+    "change_pct": 2.23,
+    "town": "Torrevieja",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1614",
+    "date": "2026-08-26",
+    "prev_date": "2026-08-25",
+    "prev_price_eur": 375000,
+    "new_price_eur": 400000,
+    "change_pct": 6.67,
+    "town": "Finestrat",
+    "type": "Apartment"
   }
 ]

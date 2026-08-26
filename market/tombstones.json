@@ -1116,5 +1116,31 @@
     "last_seen_date": "2026-08-22",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N9018",
+    "town": "San Fulgencio",
+    "region": "cb-south",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 90,
+    "last_price_eur": 395000,
+    "last_pm2_eur": 4389,
+    "last_seen_date": "2026-08-26",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9174",
+    "town": "Marbella",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 75,
+    "last_price_eur": 456000,
+    "last_pm2_eur": 6080,
+    "last_seen_date": "2026-08-26",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

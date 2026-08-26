@@ -1,15 +1,15 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
 Estepona,Costa del Sol,227,695000,6504,5387,8764,102,13,1
-Mijas,Costa del Sol,191,553000,6638,5651,8289,86,18,2
-Torrevieja,Costa Blanca South,120,304950,4957,4166,5691,61,25,0.6
+Mijas,Costa del Sol,192,549000,6626,5625,8283,86,18,2
+Torrevieja,Costa Blanca South,120,304950,4963,4166,5691,61,25,0.6
 Fuengirola,Costa del Sol,96,720000,7372,6183,9701,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,94,362000,4819,4325,5529,77,76,2
-Marbella,Costa del Sol,89,981000,7959,6482,12114,121,31,2
+Marbella,Costa del Sol,88,1025500,7966,6543,12148,122,32,2
 Los Alcazares,Costa Calida,80,399900,4740,4238,5497,85,44,0.9
-Finestrat,Costa Blanca North,67,578500,5698,4976,6397,106,54,3
+Finestrat,Costa Blanca North,67,578500,5698,5051,6397,106,54,3
 San Pedro del Pinatar,Costa Calida,52,289000,4305,3910,5034,68,46,1
 Torre Pacheco,Costa Calida,52,308450,4059,3671,4663,80,65,9
-Casares,Costa del Sol,50,580000,6051,5140,6999,98,6,1.8
+Casares,Costa del Sol,51,565000,5962,5060,6989,97,6,1.8
 Guardamar del Segura,Costa Blanca South,48,337000,4809,4163,5664,69,2,1.4
 Benijofar,Costa Blanca South,42,393400,4796,4245,5332,75,31,8
 Manilva,Costa del Sol,36,505500,6105,4363,7841,94,11,0.3
@@ -49,9 +49,9 @@ La Manga Club,Costa Calida,10,462500,4931,4552,5661,90,50,2.5
 La Manga del Mar Menor,Costa Calida,10,299000,4122,3224,4830,84,20,0.1
 Mazarron,Costa Calida - Inland,9,269900,2406,2170,2900,60,67,9
 Mutxamel,Costa Blanca North,9,399000,4968,4125,5471,80,33,6
-San Fulgencio,Costa Blanca South,9,365000,4389,4033,4620,85,100,7
 Aspe,Costa Blanca South - Inland,8,468975,3364,3299,3442,132,100,25.5
 Ciudad Quesada,Costa Blanca South,8,549000,5116,4574,5490,100,100,7
+San Fulgencio,Costa Blanca South,8,340950,4337,3990,4991,83,100,7
 Almuñecar,Costa Tropical,7,350000,5000,3594,5206,75,43,0.3
 Cox,Costa Blanca South - Inland,7,235000,3429,3300,3580,70,100,25
 Moraira_Teulada,Costa Blanca North,7,2175000,7967,7877,8938,273,100,2
