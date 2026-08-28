@@ -1142,5 +1142,31 @@
     "last_seen_date": "2026-08-26",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N9775",
+    "town": "Altea",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 400,
+    "last_price_eur": 3450000,
+    "last_pm2_eur": 8625,
+    "last_seen_date": "2026-08-28",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1838",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 1,
+    "built_m2": 50,
+    "last_price_eur": 256000,
+    "last_pm2_eur": 5120,
+    "last_seen_date": "2026-08-28",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

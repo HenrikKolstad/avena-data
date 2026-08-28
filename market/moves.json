@@ -1808,5 +1808,55 @@
     "change_pct": 11.32,
     "town": "Mijas",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8948",
+    "date": "2026-08-28",
+    "prev_date": "2026-08-27",
+    "prev_price_eur": 251600,
+    "new_price_eur": 248300,
+    "change_pct": -1.31,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8949",
+    "date": "2026-08-28",
+    "prev_date": "2026-08-27",
+    "prev_price_eur": 256600,
+    "new_price_eur": 249000,
+    "change_pct": -2.96,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8950",
+    "date": "2026-08-28",
+    "prev_date": "2026-08-27",
+    "prev_price_eur": 368900,
+    "new_price_eur": 355000,
+    "change_pct": -3.77,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9208",
+    "date": "2026-08-28",
+    "prev_date": "2026-08-27",
+    "prev_price_eur": 290000,
+    "new_price_eur": 310000,
+    "change_pct": 6.9,
+    "town": "San Javier",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9977",
+    "date": "2026-08-28",
+    "prev_date": "2026-08-27",
+    "prev_price_eur": 1590000,
+    "new_price_eur": 1690000,
+    "change_pct": 6.29,
+    "town": "Benissa",
+    "type": "Villa"
   }
 ]

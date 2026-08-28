@@ -14,11 +14,11 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 192,
-    "median_price_eur": 557900,
-    "median_pm2_eur": 6626,
-    "p25_pm2_eur": 5644,
-    "p75_pm2_eur": 8283,
+    "n_listings": 191,
+    "median_price_eur": 562800,
+    "median_pm2_eur": 6638,
+    "p25_pm2_eur": 5674,
+    "p75_pm2_eur": 8289,
     "median_built_m2": 86,
     "villa_share_pct": 18,
     "median_beach_km": 2
@@ -86,13 +86,13 @@
   {
     "town": "Finestrat",
     "costa": "Costa Blanca North",
-    "n_listings": 68,
-    "median_price_eur": 571750,
-    "median_pm2_eur": 5717,
-    "p25_pm2_eur": 5056,
-    "p75_pm2_eur": 6374,
-    "median_built_m2": 103,
-    "villa_share_pct": 54,
+    "n_listings": 70,
+    "median_price_eur": 579250,
+    "median_pm2_eur": 5756,
+    "p25_pm2_eur": 5069,
+    "p75_pm2_eur": 6629,
+    "median_built_m2": 106,
+    "villa_share_pct": 56,
     "median_beach_km": 3
   },
   {
@@ -180,6 +180,18 @@
     "median_beach_km": 5.5
   },
   {
+    "town": "Algorfa",
+    "costa": "Costa Blanca South",
+    "n_listings": 32,
+    "median_price_eur": 419000,
+    "median_pm2_eur": 4828,
+    "p25_pm2_eur": 3423,
+    "p75_pm2_eur": 5469,
+    "median_built_m2": 88,
+    "villa_share_pct": 78,
+    "median_beach_km": 14
+  },
+  {
     "town": "Pinoso",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 31,
@@ -202,18 +214,6 @@
     "median_built_m2": 71,
     "villa_share_pct": 0,
     "median_beach_km": 0.5
-  },
-  {
-    "town": "Algorfa",
-    "costa": "Costa Blanca South",
-    "n_listings": 29,
-    "median_price_eur": 473000,
-    "median_pm2_eur": 4833,
-    "p25_pm2_eur": 3383,
-    "p75_pm2_eur": 5469,
-    "median_built_m2": 90,
-    "villa_share_pct": 76,
-    "median_beach_km": 14
   },
   {
     "town": "San Miguel de Salinas",
@@ -352,7 +352,7 @@
     "costa": "Costa Blanca North",
     "n_listings": 14,
     "median_price_eur": 632500,
-    "median_pm2_eur": 6902,
+    "median_pm2_eur": 6731,
     "p25_pm2_eur": 6170,
     "p75_pm2_eur": 8444,
     "median_built_m2": 105,
@@ -497,7 +497,7 @@
     "n_listings": 11,
     "median_price_eur": 2600000,
     "median_pm2_eur": 9828,
-    "p25_pm2_eur": 7594,
+    "p25_pm2_eur": 7832,
     "p75_pm2_eur": 11568,
     "median_built_m2": 250,
     "villa_share_pct": 100,
