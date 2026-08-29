@@ -279,10 +279,10 @@
     "town": "Polop",
     "costa": "Costa Blanca North",
     "n_listings": 23,
-    "median_price_eur": 607300,
-    "median_pm2_eur": 5980,
+    "median_price_eur": 638650,
+    "median_pm2_eur": 6091,
     "p25_pm2_eur": 5629,
-    "p75_pm2_eur": 6460,
+    "p75_pm2_eur": 6508,
     "median_built_m2": 100,
     "villa_share_pct": 100,
     "median_beach_km": 8.5
@@ -384,18 +384,6 @@
     "median_beach_km": 0.3
   },
   {
-    "town": "Alicante",
-    "costa": "Costa Blanca North",
-    "n_listings": 13,
-    "median_price_eur": 289900,
-    "median_pm2_eur": 4578,
-    "p25_pm2_eur": 4323,
-    "p75_pm2_eur": 5212,
-    "median_built_m2": 64,
-    "villa_share_pct": 0,
-    "median_beach_km": 3
-  },
-  {
     "town": "la Nucia",
     "costa": "Costa Blanca North",
     "n_listings": 13,
@@ -490,6 +478,18 @@
     "median_built_m2": 77,
     "villa_share_pct": 73,
     "median_beach_km": 20
+  },
+  {
+    "town": "Alicante",
+    "costa": "Costa Blanca North",
+    "n_listings": 11,
+    "median_price_eur": 291500,
+    "median_pm2_eur": 4578,
+    "p25_pm2_eur": 4427,
+    "p75_pm2_eur": 4982,
+    "median_built_m2": 70,
+    "villa_share_pct": 0,
+    "median_beach_km": 2.7
   },
   {
     "town": "Benissa",

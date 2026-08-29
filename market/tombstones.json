@@ -650,19 +650,6 @@
     "still_listed": false
   },
   {
-    "avn_id": "SP1648",
-    "town": "Alicante",
-    "region": "cb-north",
-    "type": "Apartment",
-    "beds": 2,
-    "built_m2": 52,
-    "last_price_eur": 283500,
-    "last_pm2_eur": 5452,
-    "last_seen_date": "2026-08-14",
-    "relisted_on": "2026-08-18",
-    "still_listed": true
-  },
-  {
     "avn_id": "SP1750",
     "town": "Mijas",
     "region": "costa-del-sol",
@@ -1166,6 +1153,71 @@
     "last_price_eur": 256000,
     "last_pm2_eur": 5120,
     "last_seen_date": "2026-08-28",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1646",
+    "town": "Alicante",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 52,
+    "last_price_eur": 222500,
+    "last_pm2_eur": 4279,
+    "last_seen_date": "2026-08-29",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1648",
+    "town": "Alicante",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 52,
+    "last_price_eur": 283500,
+    "last_pm2_eur": 5452,
+    "last_seen_date": "2026-08-29",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1843",
+    "town": "Benitachell",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 180,
+    "last_price_eur": 2891000,
+    "last_pm2_eur": 16061,
+    "last_seen_date": "2026-08-29",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1844",
+    "town": "Benitachell",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 190,
+    "last_price_eur": 2350000,
+    "last_pm2_eur": 12368,
+    "last_seen_date": "2026-08-29",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1845",
+    "town": "Benitachell",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 195,
+    "last_price_eur": 2600000,
+    "last_pm2_eur": 13333,
+    "last_seen_date": "2026-08-29",
     "relisted_on": null,
     "still_listed": false
   }

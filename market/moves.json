@@ -1858,5 +1858,65 @@
     "change_pct": 6.29,
     "town": "Benissa",
     "type": "Villa"
+  },
+  {
+    "avn_id": "N8129",
+    "date": "2026-08-29",
+    "prev_date": "2026-08-28",
+    "prev_price_eur": 330000,
+    "new_price_eur": 334000,
+    "change_pct": 1.21,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8337",
+    "date": "2026-08-29",
+    "prev_date": "2026-08-28",
+    "prev_price_eur": 565500,
+    "new_price_eur": 572500,
+    "change_pct": 1.24,
+    "town": "Torre Pacheco",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8412",
+    "date": "2026-08-29",
+    "prev_date": "2026-08-28",
+    "prev_price_eur": 945000,
+    "new_price_eur": 975000,
+    "change_pct": 3.17,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8842",
+    "date": "2026-08-29",
+    "prev_date": "2026-08-28",
+    "prev_price_eur": 568000,
+    "new_price_eur": 648650,
+    "change_pct": 14.2,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9186",
+    "date": "2026-08-29",
+    "prev_date": "2026-08-28",
+    "prev_price_eur": 344000,
+    "new_price_eur": 349000,
+    "change_pct": 1.45,
+    "town": "Torrevieja",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1828",
+    "date": "2026-08-29",
+    "prev_date": "2026-08-28",
+    "prev_price_eur": 1320000,
+    "new_price_eur": 1315000,
+    "change_pct": -0.38,
+    "town": "Manilva",
+    "type": "Penthouse"
   }
 ]
