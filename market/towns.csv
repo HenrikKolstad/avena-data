@@ -1,5 +1,5 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,227,695000,6504,5387,8764,102,13,1
+Estepona,Costa del Sol,227,695000,6525,5387,8764,102,13,1
 Mijas,Costa del Sol,191,562800,6638,5674,8289,86,18,2
 Torrevieja,Costa Blanca South,120,304950,4963,4166,5691,61,25,0.6
 Fuengirola,Costa del Sol,96,720000,7372,6183,9701,89,13,1.5
@@ -13,7 +13,7 @@ Casares,Costa del Sol,51,565000,5962,5060,6989,97,6,1.8
 Guardamar del Segura,Costa Blanca South,48,337000,4809,4163,5664,69,2,1.4
 Benijofar,Costa Blanca South,42,393400,4796,4245,5332,75,31,8
 Manilva,Costa del Sol,36,505500,6105,4363,7841,94,11,0.3
-Benahavís,Costa del Sol,33,1160000,9313,7474,12209,125,18,5.5
+Benahavís,Costa del Sol,35,1249000,9421,7487,12530,125,23,6
 Algorfa,Costa Blanca South,32,419000,4828,3423,5469,88,78,14
 Pinoso,Costa Blanca South - Inland,31,473500,3055,2791,3773,140,100,50
 Villajoyosa,Costa Blanca North,30,442500,6509,5618,7458,71,0,0.5

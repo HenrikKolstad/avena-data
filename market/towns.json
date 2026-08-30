@@ -4,7 +4,7 @@
     "costa": "Costa del Sol",
     "n_listings": 227,
     "median_price_eur": 695000,
-    "median_pm2_eur": 6504,
+    "median_pm2_eur": 6525,
     "p25_pm2_eur": 5387,
     "p75_pm2_eur": 8764,
     "median_built_m2": 102,
@@ -170,14 +170,14 @@
   {
     "town": "Benahavís",
     "costa": "Costa del Sol",
-    "n_listings": 33,
-    "median_price_eur": 1160000,
-    "median_pm2_eur": 9313,
-    "p25_pm2_eur": 7474,
-    "p75_pm2_eur": 12209,
+    "n_listings": 35,
+    "median_price_eur": 1249000,
+    "median_pm2_eur": 9421,
+    "p25_pm2_eur": 7487,
+    "p75_pm2_eur": 12530,
     "median_built_m2": 125,
-    "villa_share_pct": 18,
-    "median_beach_km": 5.5
+    "villa_share_pct": 23,
+    "median_beach_km": 6
   },
   {
     "town": "Algorfa",
