@@ -1918,5 +1918,15 @@
     "change_pct": -0.38,
     "town": "Manilva",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8058",
+    "date": "2026-08-31",
+    "prev_date": "2026-08-30",
+    "prev_price_eur": 699900,
+    "new_price_eur": 709900,
+    "change_pct": 1.43,
+    "town": "Finestrat",
+    "type": "Villa"
   }
 ]

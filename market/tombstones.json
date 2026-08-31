@@ -1220,5 +1220,31 @@
     "last_seen_date": "2026-08-29",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N9819",
+    "town": "Algorfa",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 489000,
+    "last_pm2_eur": 4890,
+    "last_seen_date": "2026-08-31",
+    "relisted_on": null,
+    "still_listed": true
+  },
+  {
+    "avn_id": "N9927",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 55,
+    "last_price_eur": 320000,
+    "last_pm2_eur": 5818,
+    "last_seen_date": "2026-08-31",
+    "relisted_on": null,
+    "still_listed": true
   }
 ]
