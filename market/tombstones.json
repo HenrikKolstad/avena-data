@@ -1179,8 +1179,8 @@
     "last_price_eur": 283500,
     "last_pm2_eur": 5452,
     "last_seen_date": "2026-08-29",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-01",
+    "still_listed": true
   },
   {
     "avn_id": "SP1843",
@@ -1232,7 +1232,7 @@
     "last_pm2_eur": 4890,
     "last_seen_date": "2026-08-31",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "N9927",
@@ -1245,6 +1245,19 @@
     "last_pm2_eur": 5818,
     "last_seen_date": "2026-08-31",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8764",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 75,
+    "last_price_eur": 394000,
+    "last_pm2_eur": 5253,
+    "last_seen_date": "2026-09-01",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

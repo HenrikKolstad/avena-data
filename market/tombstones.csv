@@ -89,9 +89,10 @@ N9174,Marbella,costa-del-sol,Apartment,2,75,456000,6080,2026-08-26,,false
 N9775,Altea,cb-north,Villa,4,400,3450000,8625,2026-08-28,,false
 SP1838,Mijas,costa-del-sol,Apartment,1,50,256000,5120,2026-08-28,,false
 SP1646,Alicante,cb-north,Apartment,2,52,222500,4279,2026-08-29,,false
-SP1648,Alicante,cb-north,Apartment,2,52,283500,5452,2026-08-29,,false
+SP1648,Alicante,cb-north,Apartment,2,52,283500,5452,2026-08-29,2026-09-01,true
 SP1843,Benitachell,cb-north,Villa,4,180,2891000,16061,2026-08-29,,false
 SP1844,Benitachell,cb-north,Villa,3,190,2350000,12368,2026-08-29,,false
 SP1845,Benitachell,cb-north,Villa,4,195,2600000,13333,2026-08-29,,false
-N9819,Algorfa,cb-south,Villa,3,100,489000,4890,2026-08-31,,true
-N9927,Torrevieja,cb-south,Penthouse,2,55,320000,5818,2026-08-31,,true
+N9819,Algorfa,cb-south,Villa,3,100,489000,4890,2026-08-31,,false
+N9927,Torrevieja,cb-south,Penthouse,2,55,320000,5818,2026-08-31,,false
+N8764,Estepona,costa-del-sol,Apartment,2,75,394000,5253,2026-09-01,,false

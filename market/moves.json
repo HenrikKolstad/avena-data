@@ -1928,5 +1928,75 @@
     "change_pct": 1.43,
     "town": "Finestrat",
     "type": "Villa"
+  },
+  {
+    "avn_id": "N7589",
+    "date": "2026-09-01",
+    "prev_date": "2026-08-31",
+    "prev_price_eur": 540000,
+    "new_price_eur": 525000,
+    "change_pct": -2.78,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7591",
+    "date": "2026-09-01",
+    "prev_date": "2026-08-31",
+    "prev_price_eur": 500000,
+    "new_price_eur": 485000,
+    "change_pct": -3,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8922",
+    "date": "2026-09-01",
+    "prev_date": "2026-08-31",
+    "prev_price_eur": 430000,
+    "new_price_eur": 486000,
+    "change_pct": 13.02,
+    "town": "Calpe",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9711",
+    "date": "2026-09-01",
+    "prev_date": "2026-08-31",
+    "prev_price_eur": 460000,
+    "new_price_eur": 475000,
+    "change_pct": 3.26,
+    "town": "Istán",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9712",
+    "date": "2026-09-01",
+    "prev_date": "2026-08-31",
+    "prev_price_eur": 545000,
+    "new_price_eur": 555000,
+    "change_pct": 1.83,
+    "town": "Istán",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1648",
+    "date": "2026-09-01",
+    "prev_date": "2026-08-28",
+    "prev_price_eur": 283500,
+    "new_price_eur": 268500,
+    "change_pct": -5.29,
+    "town": "Alicante",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1798",
+    "date": "2026-09-01",
+    "prev_date": "2026-08-31",
+    "prev_price_eur": 605000,
+    "new_price_eur": 593000,
+    "change_pct": -1.98,
+    "town": "Estepona",
+    "type": "Penthouse"
   }
 ]

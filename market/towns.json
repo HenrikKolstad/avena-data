@@ -2,11 +2,11 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 227,
-    "median_price_eur": 695000,
-    "median_pm2_eur": 6525,
-    "p25_pm2_eur": 5387,
-    "p75_pm2_eur": 8764,
+    "n_listings": 226,
+    "median_price_eur": 696500,
+    "median_pm2_eur": 6538,
+    "p25_pm2_eur": 5407,
+    "p75_pm2_eur": 8769,
     "median_built_m2": 102,
     "villa_share_pct": 13,
     "median_beach_km": 1
@@ -17,7 +17,7 @@
     "n_listings": 191,
     "median_price_eur": 562800,
     "median_pm2_eur": 6638,
-    "p25_pm2_eur": 5674,
+    "p25_pm2_eur": 5625,
     "p75_pm2_eur": 8289,
     "median_built_m2": 86,
     "villa_share_pct": 18,
@@ -314,13 +314,13 @@
   {
     "town": "Calpe",
     "costa": "Costa Blanca North",
-    "n_listings": 19,
-    "median_price_eur": 670000,
-    "median_pm2_eur": 8202,
-    "p25_pm2_eur": 6120,
-    "p75_pm2_eur": 9959,
-    "median_built_m2": 109,
-    "villa_share_pct": 26,
+    "n_listings": 20,
+    "median_price_eur": 700000,
+    "median_pm2_eur": 8345,
+    "p25_pm2_eur": 6529,
+    "p75_pm2_eur": 9938,
+    "median_built_m2": 107,
+    "villa_share_pct": 25,
     "median_beach_km": 0.4
   },
   {
@@ -408,6 +408,18 @@
     "median_beach_km": 0.3
   },
   {
+    "town": "Alicante",
+    "costa": "Costa Blanca North",
+    "n_listings": 12,
+    "median_price_eur": 290700,
+    "median_pm2_eur": 4603,
+    "p25_pm2_eur": 4478,
+    "p75_pm2_eur": 5175,
+    "median_built_m2": 67,
+    "villa_share_pct": 0,
+    "median_beach_km": 2.85
+  },
+  {
     "town": "El Verger",
     "costa": "Costa Blanca North",
     "n_listings": 12,
@@ -478,18 +490,6 @@
     "median_built_m2": 77,
     "villa_share_pct": 73,
     "median_beach_km": 20
-  },
-  {
-    "town": "Alicante",
-    "costa": "Costa Blanca North",
-    "n_listings": 11,
-    "median_price_eur": 291500,
-    "median_pm2_eur": 4578,
-    "p25_pm2_eur": 4427,
-    "p75_pm2_eur": 4982,
-    "median_built_m2": 70,
-    "villa_share_pct": 0,
-    "median_beach_km": 2.7
   },
   {
     "town": "Benissa",
