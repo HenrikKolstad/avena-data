@@ -1998,5 +1998,125 @@
     "change_pct": -1.98,
     "town": "Estepona",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N5809",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 339000,
+    "new_price_eur": 325000,
+    "change_pct": -4.13,
+    "town": "Orihuela Costa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8094",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 164425,
+    "new_price_eur": 158202,
+    "change_pct": -3.78,
+    "town": "Algorfa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8097",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 169229,
+    "new_price_eur": 158311,
+    "change_pct": -6.45,
+    "town": "Algorfa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8413",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 227000,
+    "new_price_eur": 233000,
+    "change_pct": 2.64,
+    "town": "Cox",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8414",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 240000,
+    "new_price_eur": 245000,
+    "change_pct": 2.08,
+    "town": "Cox",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8902",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 379950,
+    "new_price_eur": 389950,
+    "change_pct": 2.63,
+    "town": "Torre Pacheco",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9742",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 248900,
+    "new_price_eur": 230900,
+    "change_pct": -7.23,
+    "town": "San Pedro del Pinatar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9894",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 248000,
+    "new_price_eur": 258000,
+    "change_pct": 4.03,
+    "town": "Santa Pola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0831",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 598000,
+    "new_price_eur": 699000,
+    "change_pct": 16.89,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1340",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 401500,
+    "new_price_eur": 435000,
+    "change_pct": 8.34,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1371",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 334000,
+    "new_price_eur": 358000,
+    "change_pct": 7.19,
+    "town": "Fuengirola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1523",
+    "date": "2026-09-02",
+    "prev_date": "2026-09-01",
+    "prev_price_eur": 1550000,
+    "new_price_eur": 1580000,
+    "change_pct": 1.94,
+    "town": "Marbella",
+    "type": "Penthouse"
   }
 ]

@@ -35,7 +35,7 @@ SP1778,Marbella,costa-del-sol,Villa,,,4950000,8984,2026-08-11,,false
 N6195,Finestrat,cb-north,Villa,,,790000,4115,2026-08-12,,false
 N8118,Orihuela Costa,cb-south,Townhouse,,,363500,4783,2026-08-12,,false
 N9243,Estepona,costa-del-sol,Penthouse,,,656000,6308,2026-08-12,2026-08-19,true
-N9653,Estepona,costa-del-sol,Apartment,,,599000,6582,2026-08-12,,false
+N9653,Estepona,costa-del-sol,Apartment,,,599000,6582,2026-08-12,2026-09-02,true
 SP1222,Estepona,costa-del-sol,Penthouse,,,999000,8841,2026-08-12,,false
 SP1473,Fuengirola,costa-del-sol,Penthouse,,,395000,6930,2026-08-12,,false
 N7413,Estepona,costa-del-sol,Penthouse,3,103,739000,7175,2026-08-14,,false
@@ -57,7 +57,6 @@ N9426,Alhama De Murcia,costa-calida,Villa,3,92,325000,3533,2026-08-15,,false
 SP0562,Vélez Málaga,costa-del-sol,Apartment,2,61,265500,4352,2026-08-15,,false
 SP0818,Mijas,costa-del-sol,Townhouse,3,110,460000,4182,2026-08-18,,false
 N6104,Orihuela Costa,cb-south,Apartment,3,90,395000,4389,2026-08-19,,false
-N7870,Finestrat,cb-north,Townhouse,3,95,565000,5947,2026-08-19,2026-08-27,true
 N8782,Ciudad Quesada,cb-south,Bungalow,2,68,364000,5353,2026-08-19,,false
 SP1018,Estepona,costa-del-sol,Apartment,3,100,552000,5520,2026-08-19,,false
 SP1479,Jávea Xàbia,cb-north,Apartment,2,62,485000,7823,2026-08-19,,false
@@ -96,3 +95,14 @@ SP1845,Benitachell,cb-north,Villa,4,195,2600000,13333,2026-08-29,,false
 N9819,Algorfa,cb-south,Villa,3,100,489000,4890,2026-08-31,,false
 N9927,Torrevieja,cb-south,Penthouse,2,55,320000,5818,2026-08-31,,false
 N8764,Estepona,costa-del-sol,Apartment,2,75,394000,5253,2026-09-01,,false
+N7870,Finestrat,cb-north,Townhouse,3,95,565000,5947,2026-09-02,,false
+N8634,Pilar de La Horadada,cb-south,Bungalow,3,75,355000,4733,2026-09-02,,false
+N8743,San Miguel de Salinas,cb-south,Apartment,2,73,266000,3644,2026-09-02,,false
+N9030,San Fulgencio,cb-south,Villa,3,79,365000,4620,2026-09-02,,false
+N9552,Torre Pacheco,costa-calida,Townhouse,2,70,279900,3999,2026-09-02,,false
+N9652,Estepona,costa-del-sol,Apartment,3,101,699000,6921,2026-09-02,,false
+N9772,San Pedro del Pinatar,costa-calida,Apartment,2,65,277400,4268,2026-09-02,,false
+N9773,San Pedro del Pinatar,costa-calida,Penthouse,2,65,282400,4345,2026-09-02,,false
+N9895,Santa Pola,cb-south,Penthouse,2,60,365000,6083,2026-09-02,,false
+N9959,Torrevieja,cb-south,Apartment,1,43,160000,3721,2026-09-02,,false
+SP1467,Marbella,costa-del-sol,Apartment,2,125,698000,5584,2026-09-02,,false
