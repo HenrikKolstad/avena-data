@@ -87,8 +87,8 @@
     "last_price_eur": 369900,
     "last_pm2_eur": 4932,
     "last_seen_date": "2026-08-07",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-03",
+    "still_listed": true
   },
   {
     "avn_id": "N9519",
@@ -1387,6 +1387,97 @@
     "last_price_eur": 698000,
     "last_pm2_eur": 5584,
     "last_seen_date": "2026-09-02",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7546",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 74,
+    "last_price_eur": 515000,
+    "last_pm2_eur": 6959,
+    "last_seen_date": "2026-09-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8640",
+    "town": "Orihuela",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 140,
+    "last_price_eur": 649000,
+    "last_pm2_eur": 4636,
+    "last_seen_date": "2026-09-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9123",
+    "town": "Pilar de La Horadada",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 65,
+    "last_price_eur": 620000,
+    "last_pm2_eur": 9538,
+    "last_seen_date": "2026-09-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9503",
+    "town": "Los Alcazares",
+    "region": "costa-calida",
+    "type": "Bungalow",
+    "beds": 3,
+    "built_m2": 75,
+    "last_price_eur": 399900,
+    "last_pm2_eur": 5332,
+    "last_seen_date": "2026-09-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9600",
+    "town": "Benidorm",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 180,
+    "last_price_eur": 595000,
+    "last_pm2_eur": 3306,
+    "last_seen_date": "2026-09-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0764",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 95,
+    "last_price_eur": 405000,
+    "last_pm2_eur": 4263,
+    "last_seen_date": "2026-09-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1180",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 65,
+    "last_price_eur": 435000,
+    "last_pm2_eur": 6692,
+    "last_seen_date": "2026-09-03",
     "relisted_on": null,
     "still_listed": false
   }

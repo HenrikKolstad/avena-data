@@ -2118,5 +2118,175 @@
     "change_pct": 1.94,
     "town": "Marbella",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N6403",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 485000,
+    "new_price_eur": 495000,
+    "change_pct": 2.06,
+    "town": "Los Montesinos",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N6920",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 423000,
+    "new_price_eur": 428000,
+    "change_pct": 1.18,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7256",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 544000,
+    "new_price_eur": 571500,
+    "change_pct": 5.06,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7261",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 513500,
+    "new_price_eur": 539500,
+    "change_pct": 5.06,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7547",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 630000,
+    "new_price_eur": 688000,
+    "change_pct": 9.21,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8310",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 1101500,
+    "new_price_eur": 1220000,
+    "change_pct": 10.76,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8311",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 964000,
+    "new_price_eur": 1075000,
+    "change_pct": 11.51,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8312",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 984000,
+    "new_price_eur": 1176000,
+    "change_pct": 19.51,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8638",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 356000,
+    "new_price_eur": 366000,
+    "change_pct": 2.81,
+    "town": "Orihuela",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9249",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 279900,
+    "new_price_eur": 344900,
+    "change_pct": 23.22,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9250",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 319900,
+    "new_price_eur": 349900,
+    "change_pct": 9.38,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9478",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 579000,
+    "new_price_eur": 589900,
+    "change_pct": 1.88,
+    "town": "Algorfa",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9491",
+    "date": "2026-09-03",
+    "prev_date": "2026-08-07",
+    "prev_price_eur": 369900,
+    "new_price_eur": 389900,
+    "change_pct": 5.41,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9493",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 429900,
+    "new_price_eur": 459900,
+    "change_pct": 6.98,
+    "town": "Los Alcazares",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9505",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 539900,
+    "new_price_eur": 589900,
+    "change_pct": 9.26,
+    "town": "Los Alcazares",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1107",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 810000,
+    "new_price_eur": 900000,
+    "change_pct": 11.11,
+    "town": "Marbella",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1819",
+    "date": "2026-09-03",
+    "prev_date": "2026-09-02",
+    "prev_price_eur": 850000,
+    "new_price_eur": 1350000,
+    "change_pct": 58.82,
+    "town": "Marbella",
+    "type": "Penthouse"
   }
 ]
