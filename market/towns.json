@@ -6,7 +6,7 @@
     "median_price_eur": 698000,
     "median_pm2_eur": 6525,
     "p25_pm2_eur": 5420,
-    "p75_pm2_eur": 8778,
+    "p75_pm2_eur": 8798,
     "median_built_m2": 103,
     "villa_share_pct": 13,
     "median_beach_km": 1
@@ -15,10 +15,10 @@
     "town": "Mijas",
     "costa": "Costa del Sol",
     "n_listings": 193,
-    "median_price_eur": 565000,
+    "median_price_eur": 562800,
     "median_pm2_eur": 6613,
     "p25_pm2_eur": 5526,
-    "p75_pm2_eur": 8278,
+    "p75_pm2_eur": 8176,
     "median_built_m2": 86,
     "villa_share_pct": 19,
     "median_beach_km": 2
@@ -26,25 +26,25 @@
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 118,
+    "n_listings": 116,
     "median_price_eur": 304950,
-    "median_pm2_eur": 4963,
-    "p25_pm2_eur": 4200,
-    "p75_pm2_eur": 5688,
+    "median_pm2_eur": 4981,
+    "p25_pm2_eur": 4267,
+    "p75_pm2_eur": 5691,
     "median_built_m2": 61,
-    "villa_share_pct": 25,
+    "villa_share_pct": 26,
     "median_beach_km": 0.6
   },
   {
     "town": "Fuengirola",
     "costa": "Costa del Sol",
-    "n_listings": 96,
-    "median_price_eur": 720000,
-    "median_pm2_eur": 7372,
-    "p25_pm2_eur": 6205,
-    "p75_pm2_eur": 9701,
-    "median_built_m2": 89,
-    "villa_share_pct": 13,
+    "n_listings": 98,
+    "median_price_eur": 722500,
+    "median_pm2_eur": 7413,
+    "p25_pm2_eur": 6219,
+    "p75_pm2_eur": 9572,
+    "median_built_m2": 90,
+    "villa_share_pct": 14,
     "median_beach_km": 1.5
   },
   {
@@ -62,13 +62,13 @@
   {
     "town": "Marbella",
     "costa": "Costa del Sol",
-    "n_listings": 88,
-    "median_price_eur": 1137500,
-    "median_pm2_eur": 8311,
-    "p25_pm2_eur": 6586,
-    "p75_pm2_eur": 12148,
-    "median_built_m2": 122,
-    "villa_share_pct": 33,
+    "n_listings": 87,
+    "median_price_eur": 1125000,
+    "median_pm2_eur": 8288,
+    "p25_pm2_eur": 6579,
+    "p75_pm2_eur": 12057,
+    "median_built_m2": 121,
+    "villa_share_pct": 32,
     "median_beach_km": 2
   },
   {
@@ -156,28 +156,28 @@
     "median_beach_km": 8
   },
   {
+    "town": "Benahavís",
+    "costa": "Costa del Sol",
+    "n_listings": 36,
+    "median_price_eur": 1279500,
+    "median_pm2_eur": 9961,
+    "p25_pm2_eur": 7494,
+    "p75_pm2_eur": 12783,
+    "median_built_m2": 131,
+    "villa_share_pct": 22,
+    "median_beach_km": 5.75
+  },
+  {
     "town": "Manilva",
     "costa": "Costa del Sol",
     "n_listings": 36,
-    "median_price_eur": 505500,
+    "median_price_eur": 521000,
     "median_pm2_eur": 6105,
     "p25_pm2_eur": 4363,
-    "p75_pm2_eur": 7841,
+    "p75_pm2_eur": 8196,
     "median_built_m2": 94,
     "villa_share_pct": 11,
     "median_beach_km": 0.3
-  },
-  {
-    "town": "Benahavís",
-    "costa": "Costa del Sol",
-    "n_listings": 35,
-    "median_price_eur": 1249000,
-    "median_pm2_eur": 9421,
-    "p25_pm2_eur": 7487,
-    "p75_pm2_eur": 12530,
-    "median_built_m2": 125,
-    "villa_share_pct": 23,
-    "median_beach_km": 6
   },
   {
     "town": "Algorfa",
@@ -240,6 +240,18 @@
     "median_beach_km": 0.7
   },
   {
+    "town": "Rojales",
+    "costa": "Costa Blanca South",
+    "n_listings": 27,
+    "median_price_eur": 529000,
+    "median_pm2_eur": 4882,
+    "p25_pm2_eur": 4152,
+    "p75_pm2_eur": 6577,
+    "median_built_m2": 100,
+    "villa_share_pct": 100,
+    "median_beach_km": 6
+  },
+  {
     "town": "Baños y Mendigo",
     "costa": "Costa Calida",
     "n_listings": 26,
@@ -250,18 +262,6 @@
     "median_built_m2": 102,
     "villa_share_pct": 77,
     "median_beach_km": 30
-  },
-  {
-    "town": "Rojales",
-    "costa": "Costa Blanca South",
-    "n_listings": 26,
-    "median_price_eur": 516500,
-    "median_pm2_eur": 4961,
-    "p25_pm2_eur": 4215,
-    "p75_pm2_eur": 6622,
-    "median_built_m2": 99,
-    "villa_share_pct": 100,
-    "median_beach_km": 6
   },
   {
     "town": "Orihuela Costa",
@@ -372,6 +372,18 @@
     "median_beach_km": 0.3
   },
   {
+    "town": "Fuente Álamo",
+    "costa": "Costa Calida - Inland",
+    "n_listings": 13,
+    "median_price_eur": 379845,
+    "median_pm2_eur": 3825,
+    "p25_pm2_eur": 3063,
+    "p75_pm2_eur": 5000,
+    "median_built_m2": 100,
+    "villa_share_pct": 85,
+    "median_beach_km": 23
+  },
+  {
     "town": "la Nucia",
     "costa": "Costa Blanca North",
     "n_listings": 13,
@@ -432,18 +444,6 @@
     "median_beach_km": 0.55
   },
   {
-    "town": "Fuente Álamo",
-    "costa": "Costa Calida - Inland",
-    "n_listings": 12,
-    "median_price_eur": 387423,
-    "median_pm2_eur": 3992,
-    "p25_pm2_eur": 3279,
-    "p75_pm2_eur": 5098,
-    "median_built_m2": 102,
-    "villa_share_pct": 92,
-    "median_beach_km": 23
-  },
-  {
     "town": "Hondón de las Nieves",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 12,
@@ -472,7 +472,7 @@
     "costa": "Costa del Sol",
     "n_listings": 12,
     "median_price_eur": 762400,
-    "median_pm2_eur": 8909,
+    "median_pm2_eur": 9060,
     "p25_pm2_eur": 7269,
     "p75_pm2_eur": 10204,
     "median_built_m2": 103,
@@ -576,6 +576,18 @@
     "median_beach_km": 0.1
   },
   {
+    "town": "Ciudad Quesada",
+    "costa": "Costa Blanca South",
+    "n_listings": 9,
+    "median_price_eur": 549000,
+    "median_pm2_eur": 4886,
+    "p25_pm2_eur": 4495,
+    "p75_pm2_eur": 5490,
+    "median_built_m2": 100,
+    "villa_share_pct": 100,
+    "median_beach_km": 7
+  },
+  {
     "town": "Mazarron",
     "costa": "Costa Calida - Inland",
     "n_listings": 9,
@@ -604,24 +616,12 @@
     "costa": "Costa Blanca South - Inland",
     "n_listings": 8,
     "median_price_eur": 468975,
-    "median_pm2_eur": 3364,
+    "median_pm2_eur": 3377,
     "p25_pm2_eur": 3299,
-    "p75_pm2_eur": 3442,
+    "p75_pm2_eur": 3688,
     "median_built_m2": 132,
     "villa_share_pct": 100,
     "median_beach_km": 25.5
-  },
-  {
-    "town": "Ciudad Quesada",
-    "costa": "Costa Blanca South",
-    "n_listings": 8,
-    "median_price_eur": 549000,
-    "median_pm2_eur": 5116,
-    "p25_pm2_eur": 4574,
-    "p75_pm2_eur": 5490,
-    "median_built_m2": 100,
-    "villa_share_pct": 100,
-    "median_beach_km": 7
   },
   {
     "town": "Almuñecar",
@@ -663,9 +663,9 @@
     "town": "Puerto de Mazarron",
     "costa": "Costa Calida",
     "n_listings": 7,
-    "median_price_eur": 226000,
-    "median_pm2_eur": 3725,
-    "p25_pm2_eur": 3501,
+    "median_price_eur": 235000,
+    "median_pm2_eur": 3730,
+    "p25_pm2_eur": 3657,
     "p75_pm2_eur": 4382,
     "median_built_m2": 63,
     "villa_share_pct": 71,

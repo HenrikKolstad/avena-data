@@ -2288,5 +2288,195 @@
     "change_pct": 58.82,
     "town": "Marbella",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N3850",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 400000,
+    "new_price_eur": 430000,
+    "change_pct": 7.5,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7078",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 415000,
+    "new_price_eur": 450000,
+    "change_pct": 8.43,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7397",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 514000,
+    "new_price_eur": 519000,
+    "change_pct": 0.97,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8478",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 875000,
+    "new_price_eur": 907500,
+    "change_pct": 3.71,
+    "town": "San Pedro De Alcantara",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8960",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 565000,
+    "new_price_eur": 550000,
+    "change_pct": -2.65,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8962",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 430000,
+    "new_price_eur": 425000,
+    "change_pct": -1.16,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9446",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 158900,
+    "new_price_eur": 168900,
+    "change_pct": 6.29,
+    "town": "San Pedro del Pinatar",
+    "type": "Studio"
+  },
+  {
+    "avn_id": "N9535",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 258900,
+    "new_price_eur": 268900,
+    "change_pct": 3.86,
+    "town": "San Javier",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9829",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 179900,
+    "new_price_eur": 195000,
+    "change_pct": 8.39,
+    "town": "Puerto de Mazarron",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9830",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 215000,
+    "new_price_eur": 235000,
+    "change_pct": 9.3,
+    "town": "Puerto de Mazarron",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0351",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 1065000,
+    "new_price_eur": 1595000,
+    "change_pct": 49.77,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0414",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 955000,
+    "new_price_eur": 945000,
+    "change_pct": -1.05,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0416",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 1250000,
+    "new_price_eur": 1260000,
+    "change_pct": 0.8,
+    "town": "Marbella",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0626",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 427000,
+    "new_price_eur": 437000,
+    "change_pct": 2.34,
+    "town": "Casares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0710",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 5950000,
+    "new_price_eur": 6220000,
+    "change_pct": 4.54,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0711",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 5550000,
+    "new_price_eur": 5780000,
+    "change_pct": 4.14,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0712",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 10900000,
+    "new_price_eur": 10980000,
+    "change_pct": 0.73,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0769",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 3990000,
+    "new_price_eur": 4139500,
+    "change_pct": 3.75,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1823",
+    "date": "2026-09-04",
+    "prev_date": "2026-09-03",
+    "prev_price_eur": 480000,
+    "new_price_eur": 590000,
+    "change_pct": 22.92,
+    "town": "Manilva",
+    "type": "Apartment"
   }
 ]
