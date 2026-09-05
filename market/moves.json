@@ -2478,5 +2478,195 @@
     "change_pct": 22.92,
     "town": "Manilva",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N8478",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 907500,
+    "new_price_eur": 890000,
+    "change_pct": -1.93,
+    "town": "San Pedro De Alcantara",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9893",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 238000,
+    "new_price_eur": 248000,
+    "change_pct": 4.2,
+    "town": "Santa Pola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9894",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 258000,
+    "new_price_eur": 273000,
+    "change_pct": 5.81,
+    "town": "Santa Pola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9900",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 292000,
+    "new_price_eur": 299000,
+    "change_pct": 2.4,
+    "town": "Alfas del Pi",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0943",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 4900000,
+    "new_price_eur": 4850000,
+    "change_pct": -1.02,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1331",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 379000,
+    "new_price_eur": 399000,
+    "change_pct": 5.28,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1350",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 355000,
+    "new_price_eur": 370000,
+    "change_pct": 4.23,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1351",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 485000,
+    "new_price_eur": 495000,
+    "change_pct": 2.06,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1352",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 590000,
+    "new_price_eur": 599000,
+    "change_pct": 1.53,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1353",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 1000000,
+    "new_price_eur": 1025000,
+    "change_pct": 2.5,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1436",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 470000,
+    "new_price_eur": 355000,
+    "change_pct": -24.47,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1438",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 355000,
+    "new_price_eur": 330000,
+    "change_pct": -7.04,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1526",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 378000,
+    "new_price_eur": 389000,
+    "change_pct": 2.91,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1554",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 1550000,
+    "new_price_eur": 1700000,
+    "change_pct": 9.68,
+    "town": "Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1556",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 1500000,
+    "new_price_eur": 1570000,
+    "change_pct": 4.67,
+    "town": "Málaga",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1557",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 2100000,
+    "new_price_eur": 1850000,
+    "change_pct": -11.9,
+    "town": "Málaga",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1810",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 460000,
+    "new_price_eur": 480000,
+    "change_pct": 4.35,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1815",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 248000,
+    "new_price_eur": 269000,
+    "change_pct": 8.47,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1816",
+    "date": "2026-09-05",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 248000,
+    "new_price_eur": 269000,
+    "change_pct": 8.47,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]

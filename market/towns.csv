@@ -1,12 +1,12 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,223,698000,6525,5420,8798,103,13,1
-Mijas,Costa del Sol,193,562800,6613,5526,8176,86,19,2
+Estepona,Costa del Sol,219,700000,6550,5456,8814,103,14,1
+Mijas,Costa del Sol,193,562800,6638,5526,8176,86,19,2
 Torrevieja,Costa Blanca South,116,304950,4981,4267,5691,61,26,0.6
 Fuengirola,Costa del Sol,98,722500,7413,6219,9572,90,14,1.5
-Pilar de La Horadada,Costa Blanca South,92,362000,4819,4307,5520,79,76,2
-Marbella,Costa del Sol,87,1125000,8288,6579,12057,121,32,2
+Pilar de La Horadada,Costa Blanca South,91,359000,4764,4296,5499,77,76,2
+Marbella,Costa del Sol,86,1097500,8203,6571,11712,120,31,2
 Los Alcazares,Costa Calida,81,399900,4754,4240,5635,85,42,0.9
-Finestrat,Costa Blanca North,69,580000,5736,5060,6690,106,55,3
+Finestrat,Costa Blanca North,68,579250,5717,5056,6506,106,54,3
 Casares,Costa del Sol,51,565000,5962,5060,6989,97,6,1.8
 Torre Pacheco,Costa Calida,51,311900,4061,3658,4693,80,65,9
 San Pedro del Pinatar,Costa Calida,50,293500,4305,3906,5115,69,48,1
@@ -18,9 +18,9 @@ Algorfa,Costa Blanca South,31,365000,4823,3410,5469,85,77,14
 Pinoso,Costa Blanca South - Inland,31,473500,3055,2791,3773,140,100,50
 Villajoyosa,Costa Blanca North,30,442500,6509,5618,7458,71,0,0.5
 San Miguel de Salinas,Costa Blanca South,28,300450,4131,3856,5120,73,71,9
-Málaga,Costa del Sol,27,910000,10553,6707,15351,90,15,0.7
 Rojales,Costa Blanca South,27,529000,4882,4152,6577,100,100,6
 Baños y Mendigo,Costa Calida,26,473750,4590,4042,5424,102,77,30
+Málaga,Costa del Sol,25,910000,10889,6550,16024,90,12,0.3
 Orihuela Costa,Costa Blanca South,23,699900,6400,5121,7469,140,83,0.7
 Polop,Costa Blanca North,23,638650,6091,5629,6508,100,100,8.5
 Benalmádena,Costa del Sol,22,780000,6503,5703,8468,106,23,1.4
@@ -28,17 +28,17 @@ Torremolinos,Costa del Sol,21,625000,7370,6111,8460,88,5,0.7
 Calpe,Costa Blanca North,20,700000,8345,6529,9938,107,25,0.4
 San Javier,Costa Calida,17,380000,4714,3899,6166,80,82,2.5
 San Roque,Costa del Sol (Cadiz),16,598250,5776,5248,7708,96,0,1.5
-Jávea Xàbia,Costa Blanca North,14,632500,6731,6170,8444,105,36,0.8
-Vélez Málaga,Costa del Sol,14,432210,5335,4648,6022,82,21,0.3
+Alicante,Costa Blanca North,14,290700,4603,4485,5101,65,0,3
 Fuente Álamo,Costa Calida - Inland,13,379845,3825,3063,5000,100,85,23
+Jávea Xàbia,Costa Blanca North,13,647000,7137,6178,8542,108,38,0.8
 la Nucia,Costa Blanca North,13,449427,5635,4871,6161,73,31,7
 Orihuela,Costa Blanca South,13,395000,4590,4389,5453,90,100,14
 Aguilas,Costa Calida,12,392000,5343,4350,6542,72,17,0.3
-Alicante,Costa Blanca North,12,290700,4603,4478,5175,67,0,2.85
 El Verger,Costa Blanca North,12,368000,5707,5085,6057,68,33,0.55
 Hondón de las Nieves,Costa Blanca South - Inland,12,275000,3382,2876,3732,87,25,37
 La Linea De La Concepcion,Costa del Sol (Cadiz),12,497000,6254,5649,8528,84,8,0.1
-San Pedro De Alcantara,Costa del Sol,12,762400,9060,7269,10204,103,0,1.2
+San Pedro De Alcantara,Costa del Sol,12,762400,8979,7269,10204,103,0,1.2
+Vélez Málaga,Costa del Sol,12,432210,5140,4553,5891,90,25,0.3
 Alhama De Murcia,Costa Calida - Inland,11,294000,4122,3823,4534,77,73,20
 Benissa,Costa Blanca North,11,2600000,9828,7832,11568,250,100,2
 Denia,Costa Blanca North,11,489000,6317,5086,6547,77,9,0.5
@@ -55,14 +55,14 @@ Almuñecar,Costa Tropical,7,350000,5000,3594,5206,75,43,0.3
 Cox,Costa Blanca South - Inland,7,235000,3483,3343,3589,70,100,25
 Moraira_Teulada,Costa Blanca North,7,2175000,7967,7877,8938,273,100,2
 Puerto de Mazarron,Costa Calida,7,235000,3730,3657,4382,63,71,0.2
-San Fulgencio,Costa Blanca South,7,316900,4158,3947,5311,85,100,7
 Bigastro,Costa Blanca South,6,207400,3112,2962,3280,64,33,25
 El Campello,Costa Blanca North,6,536000,7284,6385,8792,66,33,0.2
 Monforte del Cid,Costa Blanca North - Inland,6,514900,4398,3469,5208,105,83,20
 Ojen,Costa del Sol,6,1017500,8468,8177,10691,120,17,5
+San Fulgencio,Costa Blanca South,6,312900,4096,3904,4427,83,100,7
 Torrox,Costa del Sol,6,357500,4734,4450,5052,75,0,0.2
-Alfas del Pi,Costa Blanca North,5,327000,4825,4635,5190,63,20,4
+Alfas del Pi,Costa Blanca North,5,327000,4825,4746,5190,63,20,4
 Catral,Costa Blanca South - Inland,5,213000,2760,2700,2840,75,0,15
 La Marina,Costa Blanca South,5,299000,4211,3786,5100,71,40,0.8
 Los Montesinos,Costa Blanca South,5,495000,4950,4182,5350,100,100,9
-Santa Pola,Costa Blanca South,5,292015,4300,3778,4493,65,0,0.6
+Santa Pola,Costa Blanca South,5,292015,4493,3937,4550,65,0,0.6

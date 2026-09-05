@@ -2,13 +2,13 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 223,
-    "median_price_eur": 698000,
-    "median_pm2_eur": 6525,
-    "p25_pm2_eur": 5420,
-    "p75_pm2_eur": 8798,
+    "n_listings": 219,
+    "median_price_eur": 700000,
+    "median_pm2_eur": 6550,
+    "p25_pm2_eur": 5456,
+    "p75_pm2_eur": 8814,
     "median_built_m2": 103,
-    "villa_share_pct": 13,
+    "villa_share_pct": 14,
     "median_beach_km": 1
   },
   {
@@ -16,7 +16,7 @@
     "costa": "Costa del Sol",
     "n_listings": 193,
     "median_price_eur": 562800,
-    "median_pm2_eur": 6613,
+    "median_pm2_eur": 6638,
     "p25_pm2_eur": 5526,
     "p75_pm2_eur": 8176,
     "median_built_m2": 86,
@@ -50,25 +50,25 @@
   {
     "town": "Pilar de La Horadada",
     "costa": "Costa Blanca South",
-    "n_listings": 92,
-    "median_price_eur": 362000,
-    "median_pm2_eur": 4819,
-    "p25_pm2_eur": 4307,
-    "p75_pm2_eur": 5520,
-    "median_built_m2": 79,
+    "n_listings": 91,
+    "median_price_eur": 359000,
+    "median_pm2_eur": 4764,
+    "p25_pm2_eur": 4296,
+    "p75_pm2_eur": 5499,
+    "median_built_m2": 77,
     "villa_share_pct": 76,
     "median_beach_km": 2
   },
   {
     "town": "Marbella",
     "costa": "Costa del Sol",
-    "n_listings": 87,
-    "median_price_eur": 1125000,
-    "median_pm2_eur": 8288,
-    "p25_pm2_eur": 6579,
-    "p75_pm2_eur": 12057,
-    "median_built_m2": 121,
-    "villa_share_pct": 32,
+    "n_listings": 86,
+    "median_price_eur": 1097500,
+    "median_pm2_eur": 8203,
+    "p25_pm2_eur": 6571,
+    "p75_pm2_eur": 11712,
+    "median_built_m2": 120,
+    "villa_share_pct": 31,
     "median_beach_km": 2
   },
   {
@@ -86,13 +86,13 @@
   {
     "town": "Finestrat",
     "costa": "Costa Blanca North",
-    "n_listings": 69,
-    "median_price_eur": 580000,
-    "median_pm2_eur": 5736,
-    "p25_pm2_eur": 5060,
-    "p75_pm2_eur": 6690,
+    "n_listings": 68,
+    "median_price_eur": 579250,
+    "median_pm2_eur": 5717,
+    "p25_pm2_eur": 5056,
+    "p75_pm2_eur": 6506,
     "median_built_m2": 106,
-    "villa_share_pct": 55,
+    "villa_share_pct": 54,
     "median_beach_km": 3
   },
   {
@@ -228,18 +228,6 @@
     "median_beach_km": 9
   },
   {
-    "town": "Málaga",
-    "costa": "Costa del Sol",
-    "n_listings": 27,
-    "median_price_eur": 910000,
-    "median_pm2_eur": 10553,
-    "p25_pm2_eur": 6707,
-    "p75_pm2_eur": 15351,
-    "median_built_m2": 90,
-    "villa_share_pct": 15,
-    "median_beach_km": 0.7
-  },
-  {
     "town": "Rojales",
     "costa": "Costa Blanca South",
     "n_listings": 27,
@@ -262,6 +250,18 @@
     "median_built_m2": 102,
     "villa_share_pct": 77,
     "median_beach_km": 30
+  },
+  {
+    "town": "Málaga",
+    "costa": "Costa del Sol",
+    "n_listings": 25,
+    "median_price_eur": 910000,
+    "median_pm2_eur": 10889,
+    "p25_pm2_eur": 6550,
+    "p75_pm2_eur": 16024,
+    "median_built_m2": 90,
+    "villa_share_pct": 12,
+    "median_beach_km": 0.3
   },
   {
     "town": "Orihuela Costa",
@@ -348,28 +348,16 @@
     "median_beach_km": 1.5
   },
   {
-    "town": "Jávea Xàbia",
+    "town": "Alicante",
     "costa": "Costa Blanca North",
     "n_listings": 14,
-    "median_price_eur": 632500,
-    "median_pm2_eur": 6731,
-    "p25_pm2_eur": 6170,
-    "p75_pm2_eur": 8444,
-    "median_built_m2": 105,
-    "villa_share_pct": 36,
-    "median_beach_km": 0.8
-  },
-  {
-    "town": "Vélez Málaga",
-    "costa": "Costa del Sol",
-    "n_listings": 14,
-    "median_price_eur": 432210,
-    "median_pm2_eur": 5335,
-    "p25_pm2_eur": 4648,
-    "p75_pm2_eur": 6022,
-    "median_built_m2": 82,
-    "villa_share_pct": 21,
-    "median_beach_km": 0.3
+    "median_price_eur": 290700,
+    "median_pm2_eur": 4603,
+    "p25_pm2_eur": 4485,
+    "p75_pm2_eur": 5101,
+    "median_built_m2": 65,
+    "villa_share_pct": 0,
+    "median_beach_km": 3
   },
   {
     "town": "Fuente Álamo",
@@ -382,6 +370,18 @@
     "median_built_m2": 100,
     "villa_share_pct": 85,
     "median_beach_km": 23
+  },
+  {
+    "town": "Jávea Xàbia",
+    "costa": "Costa Blanca North",
+    "n_listings": 13,
+    "median_price_eur": 647000,
+    "median_pm2_eur": 7137,
+    "p25_pm2_eur": 6178,
+    "p75_pm2_eur": 8542,
+    "median_built_m2": 108,
+    "villa_share_pct": 38,
+    "median_beach_km": 0.8
   },
   {
     "town": "la Nucia",
@@ -418,18 +418,6 @@
     "median_built_m2": 72,
     "villa_share_pct": 17,
     "median_beach_km": 0.3
-  },
-  {
-    "town": "Alicante",
-    "costa": "Costa Blanca North",
-    "n_listings": 12,
-    "median_price_eur": 290700,
-    "median_pm2_eur": 4603,
-    "p25_pm2_eur": 4478,
-    "p75_pm2_eur": 5175,
-    "median_built_m2": 67,
-    "villa_share_pct": 0,
-    "median_beach_km": 2.85
   },
   {
     "town": "El Verger",
@@ -472,12 +460,24 @@
     "costa": "Costa del Sol",
     "n_listings": 12,
     "median_price_eur": 762400,
-    "median_pm2_eur": 9060,
+    "median_pm2_eur": 8979,
     "p25_pm2_eur": 7269,
     "p75_pm2_eur": 10204,
     "median_built_m2": 103,
     "villa_share_pct": 0,
     "median_beach_km": 1.2
+  },
+  {
+    "town": "Vélez Málaga",
+    "costa": "Costa del Sol",
+    "n_listings": 12,
+    "median_price_eur": 432210,
+    "median_pm2_eur": 5140,
+    "p25_pm2_eur": 4553,
+    "p75_pm2_eur": 5891,
+    "median_built_m2": 90,
+    "villa_share_pct": 25,
+    "median_beach_km": 0.3
   },
   {
     "town": "Alhama De Murcia",
@@ -672,18 +672,6 @@
     "median_beach_km": 0.2
   },
   {
-    "town": "San Fulgencio",
-    "costa": "Costa Blanca South",
-    "n_listings": 7,
-    "median_price_eur": 316900,
-    "median_pm2_eur": 4158,
-    "p25_pm2_eur": 3947,
-    "p75_pm2_eur": 5311,
-    "median_built_m2": 85,
-    "villa_share_pct": 100,
-    "median_beach_km": 7
-  },
-  {
     "town": "Bigastro",
     "costa": "Costa Blanca South",
     "n_listings": 6,
@@ -732,6 +720,18 @@
     "median_beach_km": 5
   },
   {
+    "town": "San Fulgencio",
+    "costa": "Costa Blanca South",
+    "n_listings": 6,
+    "median_price_eur": 312900,
+    "median_pm2_eur": 4096,
+    "p25_pm2_eur": 3904,
+    "p75_pm2_eur": 4427,
+    "median_built_m2": 83,
+    "villa_share_pct": 100,
+    "median_beach_km": 7
+  },
+  {
     "town": "Torrox",
     "costa": "Costa del Sol",
     "n_listings": 6,
@@ -749,7 +749,7 @@
     "n_listings": 5,
     "median_price_eur": 327000,
     "median_pm2_eur": 4825,
-    "p25_pm2_eur": 4635,
+    "p25_pm2_eur": 4746,
     "p75_pm2_eur": 5190,
     "median_built_m2": 63,
     "villa_share_pct": 20,
@@ -796,9 +796,9 @@
     "costa": "Costa Blanca South",
     "n_listings": 5,
     "median_price_eur": 292015,
-    "median_pm2_eur": 4300,
-    "p25_pm2_eur": 3778,
-    "p75_pm2_eur": 4493,
+    "median_pm2_eur": 4493,
+    "p25_pm2_eur": 3937,
+    "p75_pm2_eur": 4550,
     "median_built_m2": 65,
     "villa_share_pct": 0,
     "median_beach_km": 0.6
