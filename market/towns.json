@@ -26,11 +26,11 @@
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 116,
-    "median_price_eur": 304950,
-    "median_pm2_eur": 4981,
-    "p25_pm2_eur": 4267,
-    "p75_pm2_eur": 5691,
+    "n_listings": 117,
+    "median_price_eur": 305000,
+    "median_pm2_eur": 4983,
+    "p25_pm2_eur": 4300,
+    "p75_pm2_eur": 5700,
     "median_built_m2": 61,
     "villa_share_pct": 26,
     "median_beach_km": 0.6
@@ -86,14 +86,26 @@
   {
     "town": "Finestrat",
     "costa": "Costa Blanca North",
-    "n_listings": 68,
-    "median_price_eur": 579250,
-    "median_pm2_eur": 5717,
-    "p25_pm2_eur": 5056,
-    "p75_pm2_eur": 6506,
+    "n_listings": 69,
+    "median_price_eur": 580000,
+    "median_pm2_eur": 5736,
+    "p25_pm2_eur": 5060,
+    "p75_pm2_eur": 6690,
     "median_built_m2": 106,
-    "villa_share_pct": 54,
+    "villa_share_pct": 55,
     "median_beach_km": 3
+  },
+  {
+    "town": "Torre Pacheco",
+    "costa": "Costa Calida",
+    "n_listings": 53,
+    "median_price_eur": 314900,
+    "median_pm2_eur": 4075,
+    "p25_pm2_eur": 3683,
+    "p75_pm2_eur": 4864,
+    "median_built_m2": 80,
+    "villa_share_pct": 66,
+    "median_beach_km": 9
   },
   {
     "town": "Casares",
@@ -106,18 +118,6 @@
     "median_built_m2": 97,
     "villa_share_pct": 6,
     "median_beach_km": 1.8
-  },
-  {
-    "town": "Torre Pacheco",
-    "costa": "Costa Calida",
-    "n_listings": 51,
-    "median_price_eur": 311900,
-    "median_pm2_eur": 4061,
-    "p25_pm2_eur": 3658,
-    "p75_pm2_eur": 4693,
-    "median_built_m2": 80,
-    "villa_share_pct": 65,
-    "median_beach_km": 9
   },
   {
     "town": "San Pedro del Pinatar",
@@ -360,6 +360,18 @@
     "median_beach_km": 3
   },
   {
+    "town": "El Verger",
+    "costa": "Costa Blanca North",
+    "n_listings": 13,
+    "median_price_eur": 370000,
+    "median_pm2_eur": 5802,
+    "p25_pm2_eur": 5090,
+    "p75_pm2_eur": 6228,
+    "median_built_m2": 68,
+    "villa_share_pct": 31,
+    "median_beach_km": 0.7
+  },
+  {
     "town": "Fuente Álamo",
     "costa": "Costa Calida - Inland",
     "n_listings": 13,
@@ -420,18 +432,6 @@
     "median_beach_km": 0.3
   },
   {
-    "town": "El Verger",
-    "costa": "Costa Blanca North",
-    "n_listings": 12,
-    "median_price_eur": 368000,
-    "median_pm2_eur": 5707,
-    "p25_pm2_eur": 5085,
-    "p75_pm2_eur": 6057,
-    "median_built_m2": 68,
-    "villa_share_pct": 33,
-    "median_beach_km": 0.55
-  },
-  {
     "town": "Hondón de las Nieves",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 12,
@@ -454,6 +454,18 @@
     "median_built_m2": 84,
     "villa_share_pct": 8,
     "median_beach_km": 0.1
+  },
+  {
+    "town": "La Manga Club",
+    "costa": "Costa Calida",
+    "n_listings": 12,
+    "median_price_eur": 450000,
+    "median_pm2_eur": 4722,
+    "p25_pm2_eur": 4389,
+    "p75_pm2_eur": 5396,
+    "median_built_m2": 95,
+    "villa_share_pct": 58,
+    "median_beach_km": 2.5
   },
   {
     "town": "San Pedro De Alcantara",
@@ -550,18 +562,6 @@
     "median_built_m2": 85,
     "villa_share_pct": 100,
     "median_beach_km": 12
-  },
-  {
-    "town": "La Manga Club",
-    "costa": "Costa Calida",
-    "n_listings": 10,
-    "median_price_eur": 462500,
-    "median_pm2_eur": 4931,
-    "p25_pm2_eur": 4552,
-    "p75_pm2_eur": 5661,
-    "median_built_m2": 90,
-    "villa_share_pct": 50,
-    "median_beach_km": 2.5
   },
   {
     "town": "La Manga del Mar Menor",
@@ -672,6 +672,18 @@
     "median_beach_km": 0.2
   },
   {
+    "town": "San Fulgencio",
+    "costa": "Costa Blanca South",
+    "n_listings": 7,
+    "median_price_eur": 316900,
+    "median_pm2_eur": 4158,
+    "p25_pm2_eur": 3947,
+    "p75_pm2_eur": 5311,
+    "median_built_m2": 85,
+    "villa_share_pct": 100,
+    "median_beach_km": 7
+  },
+  {
     "town": "Bigastro",
     "costa": "Costa Blanca South",
     "n_listings": 6,
@@ -718,18 +730,6 @@
     "median_built_m2": 120,
     "villa_share_pct": 17,
     "median_beach_km": 5
-  },
-  {
-    "town": "San Fulgencio",
-    "costa": "Costa Blanca South",
-    "n_listings": 6,
-    "median_price_eur": 312900,
-    "median_pm2_eur": 4096,
-    "p25_pm2_eur": 3904,
-    "p75_pm2_eur": 4427,
-    "median_built_m2": 83,
-    "villa_share_pct": 100,
-    "median_beach_km": 7
   },
   {
     "town": "Torrox",

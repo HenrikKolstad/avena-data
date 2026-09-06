@@ -2668,5 +2668,15 @@
     "change_pct": 8.47,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N9500",
+    "date": "2026-09-06",
+    "prev_date": "2026-09-05",
+    "prev_price_eur": 251000,
+    "new_price_eur": 301000,
+    "change_pct": 19.92,
+    "town": "Guardamar del Segura",
+    "type": "Penthouse"
   }
 ]
