@@ -2678,5 +2678,95 @@
     "change_pct": 19.92,
     "town": "Guardamar del Segura",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9150",
+    "date": "2026-09-08",
+    "prev_date": "2026-09-07",
+    "prev_price_eur": 635000,
+    "new_price_eur": 610000,
+    "change_pct": -3.94,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9151",
+    "date": "2026-09-08",
+    "prev_date": "2026-09-07",
+    "prev_price_eur": 840000,
+    "new_price_eur": 745000,
+    "change_pct": -11.31,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9307",
+    "date": "2026-09-08",
+    "prev_date": "2026-09-07",
+    "prev_price_eur": 382000,
+    "new_price_eur": 425000,
+    "change_pct": 11.26,
+    "town": "Los Alcazares",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1018",
+    "date": "2026-09-08",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 552000,
+    "new_price_eur": 492000,
+    "change_pct": -10.87,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1282",
+    "date": "2026-09-08",
+    "prev_date": "2026-09-07",
+    "prev_price_eur": 1299900,
+    "new_price_eur": 1199900,
+    "change_pct": -7.69,
+    "town": "Fuengirola",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1489",
+    "date": "2026-09-08",
+    "prev_date": "2026-09-07",
+    "prev_price_eur": 558700,
+    "new_price_eur": 579700,
+    "change_pct": 3.76,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1720",
+    "date": "2026-09-08",
+    "prev_date": "2026-09-07",
+    "prev_price_eur": 460000,
+    "new_price_eur": 483000,
+    "change_pct": 5,
+    "town": "Fuengirola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1721",
+    "date": "2026-09-08",
+    "prev_date": "2026-09-07",
+    "prev_price_eur": 435000,
+    "new_price_eur": 457000,
+    "change_pct": 5.06,
+    "town": "Fuengirola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1722",
+    "date": "2026-09-08",
+    "prev_date": "2026-09-07",
+    "prev_price_eur": 450000,
+    "new_price_eur": 473000,
+    "change_pct": 5.11,
+    "town": "Fuengirola",
+    "type": "Apartment"
   }
 ]

@@ -58,7 +58,7 @@ SP0562,Vélez Málaga,costa-del-sol,Apartment,2,61,265500,4352,2026-08-15,,false
 SP0818,Mijas,costa-del-sol,Townhouse,3,110,460000,4182,2026-08-18,,false
 N6104,Orihuela Costa,cb-south,Apartment,3,90,395000,4389,2026-08-19,,false
 N8782,Ciudad Quesada,cb-south,Bungalow,2,68,364000,5353,2026-08-19,,false
-SP1018,Estepona,costa-del-sol,Apartment,3,100,552000,5520,2026-08-19,,false
+SP1018,Estepona,costa-del-sol,Apartment,3,100,552000,5520,2026-08-19,2026-09-08,true
 SP1479,Jávea Xàbia,cb-north,Apartment,2,62,485000,7823,2026-08-19,,false
 SP1480,Jávea Xàbia,cb-north,Apartment,3,78,485000,6218,2026-08-19,,false
 SP1481,Jávea Xàbia,cb-north,Apartment,2,70,345000,4929,2026-08-19,,false
@@ -87,7 +87,7 @@ N9018,San Fulgencio,cb-south,Townhouse,3,90,395000,4389,2026-08-26,,false
 N9174,Marbella,costa-del-sol,Apartment,2,75,456000,6080,2026-08-26,,false
 N9775,Altea,cb-north,Villa,4,400,3450000,8625,2026-08-28,,false
 SP1838,Mijas,costa-del-sol,Apartment,1,50,256000,5120,2026-08-28,,false
-SP1646,Alicante,cb-north,Apartment,2,52,222500,4279,2026-08-29,,false
+SP1646,Alicante,cb-north,Apartment,2,52,222500,4279,2026-08-29,2026-09-08,true
 SP1648,Alicante,cb-north,Apartment,2,52,283500,5452,2026-08-29,2026-09-01,true
 SP1843,Benitachell,cb-north,Villa,4,180,2891000,16061,2026-08-29,,false
 SP1844,Benitachell,cb-north,Villa,3,190,2350000,12368,2026-08-29,,false
@@ -129,3 +129,5 @@ SP1388,Pilar de La Horadada,cb-south,Villa,3,180,1895000,10528,2026-09-05,,false
 SP1531,Vélez Málaga,costa-del-sol,Apartment,1,44,295575,6718,2026-09-05,,false
 SP1534,Vélez Málaga,costa-del-sol,Penthouse,2,72,558800,7761,2026-09-05,,false
 SP1553,Málaga,costa-del-sol,Townhouse,3,192,1750000,9115,2026-09-05,,false
+SP0638,Polop,cb-north,Villa,3,89,528700,5940,2026-09-08,,false
+SP1017,Estepona,costa-del-sol,Apartment,2,80,522000,6525,2026-09-08,,false

@@ -776,8 +776,8 @@
     "last_price_eur": 552000,
     "last_pm2_eur": 5520,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-08",
+    "still_listed": true
   },
   {
     "avn_id": "SP1479",
@@ -1153,8 +1153,8 @@
     "last_price_eur": 222500,
     "last_pm2_eur": 4279,
     "last_seen_date": "2026-08-29",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-08",
+    "still_listed": true
   },
   {
     "avn_id": "SP1648",
@@ -1686,6 +1686,32 @@
     "last_price_eur": 1750000,
     "last_pm2_eur": 9115,
     "last_seen_date": "2026-09-05",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0638",
+    "town": "Polop",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 89,
+    "last_price_eur": 528700,
+    "last_pm2_eur": 5940,
+    "last_seen_date": "2026-09-08",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1017",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 80,
+    "last_price_eur": 522000,
+    "last_pm2_eur": 6525,
+    "last_seen_date": "2026-09-08",
     "relisted_on": null,
     "still_listed": false
   }
