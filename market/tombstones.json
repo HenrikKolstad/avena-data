@@ -269,8 +269,8 @@
     "last_price_eur": 341370,
     "last_pm2_eur": 9753,
     "last_seen_date": "2026-08-07",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-09",
+    "still_listed": true
   },
   {
     "avn_id": "N9099",
@@ -1712,6 +1712,84 @@
     "last_price_eur": 522000,
     "last_pm2_eur": 6525,
     "last_seen_date": "2026-09-08",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N5809",
+    "town": "Orihuela Costa",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 63,
+    "last_price_eur": 325000,
+    "last_pm2_eur": 5159,
+    "last_seen_date": "2026-09-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9686",
+    "town": "Monda",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 116,
+    "last_price_eur": 750000,
+    "last_pm2_eur": 6466,
+    "last_seen_date": "2026-09-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9687",
+    "town": "Monda",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 94,
+    "last_price_eur": 600000,
+    "last_pm2_eur": 6383,
+    "last_seen_date": "2026-09-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9688",
+    "town": "Monda",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 94,
+    "last_price_eur": 600000,
+    "last_pm2_eur": 6383,
+    "last_seen_date": "2026-09-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9863",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 65,
+    "last_price_eur": 355000,
+    "last_pm2_eur": 5462,
+    "last_seen_date": "2026-09-09",
+    "relisted_on": null,
+    "still_listed": true
+  },
+  {
+    "avn_id": "SP1785",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 99,
+    "last_price_eur": 884400,
+    "last_pm2_eur": 8933,
+    "last_seen_date": "2026-09-09",
     "relisted_on": null,
     "still_listed": false
   }

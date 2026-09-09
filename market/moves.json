@@ -2768,5 +2768,285 @@
     "change_pct": 5.11,
     "town": "Fuengirola",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N3758",
+    "date": "2026-09-09",
+    "prev_date": "2026-08-06",
+    "prev_price_eur": 388000,
+    "new_price_eur": 380000,
+    "change_pct": -2.06,
+    "town": "Daya Nueva",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N6154",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 260560,
+    "new_price_eur": 350000,
+    "change_pct": 34.33,
+    "town": "La Manga del Mar Menor",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N7593",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 400000,
+    "new_price_eur": 450000,
+    "change_pct": 12.5,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8097",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 158311,
+    "new_price_eur": 164862,
+    "change_pct": 4.14,
+    "town": "Algorfa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8126",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 275000,
+    "new_price_eur": 279000,
+    "change_pct": 1.45,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8130",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 405000,
+    "new_price_eur": 412000,
+    "change_pct": 1.73,
+    "town": "Los Alcazares",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8188",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 310000,
+    "new_price_eur": 362000,
+    "change_pct": 16.77,
+    "town": "Santa Pola",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8567",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 319900,
+    "new_price_eur": 299900,
+    "change_pct": -6.25,
+    "town": "San Miguel de Salinas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8922",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 486000,
+    "new_price_eur": 491000,
+    "change_pct": 1.03,
+    "town": "Calpe",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8923",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 495000,
+    "new_price_eur": 500000,
+    "change_pct": 1.01,
+    "town": "Calpe",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8924",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 915000,
+    "new_price_eur": 955000,
+    "change_pct": 4.37,
+    "town": "Calpe",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8973",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 355900,
+    "new_price_eur": 356900,
+    "change_pct": 0.28,
+    "town": "Orihuela",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8974",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 416900,
+    "new_price_eur": 417900,
+    "change_pct": 0.24,
+    "town": "Orihuela",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9026",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 590000,
+    "new_price_eur": 560000,
+    "change_pct": -5.08,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9284",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 840000,
+    "new_price_eur": 845000,
+    "change_pct": 0.6,
+    "town": "Algorfa",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9669",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 408000,
+    "new_price_eur": 409000,
+    "change_pct": 0.25,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9718",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 253000,
+    "new_price_eur": 265000,
+    "change_pct": 4.74,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9803",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 440000,
+    "new_price_eur": 506000,
+    "change_pct": 15,
+    "town": "La Linea De La Concepcion",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0448",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 863000,
+    "new_price_eur": 955000,
+    "change_pct": 10.66,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0601",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 850000,
+    "new_price_eur": 775000,
+    "change_pct": -8.82,
+    "town": "Estepona",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0942",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 695000,
+    "new_price_eur": 753000,
+    "change_pct": 8.35,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1069",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 850000,
+    "new_price_eur": 950000,
+    "change_pct": 11.76,
+    "town": "Marbella",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1278",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 399360,
+    "new_price_eur": 399000,
+    "change_pct": -0.09,
+    "town": "Fuengirola",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1650",
+    "date": "2026-09-09",
+    "prev_date": "2026-08-07",
+    "prev_price_eur": 341370,
+    "new_price_eur": 315086,
+    "change_pct": -7.7,
+    "town": "La Linea De La Concepcion",
+    "type": "Studio"
+  },
+  {
+    "avn_id": "SP1651",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 581749,
+    "new_price_eur": 580422,
+    "change_pct": -0.23,
+    "town": "La Linea De La Concepcion",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1652",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 875394,
+    "new_price_eur": 873398,
+    "change_pct": -0.23,
+    "town": "La Linea De La Concepcion",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1782",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 531400,
+    "new_price_eur": 556500,
+    "change_pct": 4.72,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1788",
+    "date": "2026-09-09",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 670100,
+    "new_price_eur": 646600,
+    "change_pct": -3.51,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]
