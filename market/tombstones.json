@@ -1778,7 +1778,7 @@
     "last_pm2_eur": 5462,
     "last_seen_date": "2026-09-09",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "SP1785",
@@ -1790,6 +1790,19 @@
     "last_price_eur": 884400,
     "last_pm2_eur": 8933,
     "last_seen_date": "2026-09-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9709",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 61,
+    "last_price_eur": 290000,
+    "last_pm2_eur": 4754,
+    "last_seen_date": "2026-09-10",
     "relisted_on": null,
     "still_listed": false
   }
