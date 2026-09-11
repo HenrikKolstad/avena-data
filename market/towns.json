@@ -74,13 +74,13 @@
   {
     "town": "Los Alcazares",
     "costa": "Costa Calida",
-    "n_listings": 81,
-    "median_price_eur": 409000,
-    "median_pm2_eur": 4754,
-    "p25_pm2_eur": 4240,
-    "p75_pm2_eur": 5635,
+    "n_listings": 79,
+    "median_price_eur": 399900,
+    "median_pm2_eur": 4726,
+    "p25_pm2_eur": 4238,
+    "p75_pm2_eur": 5506,
     "median_built_m2": 85,
-    "villa_share_pct": 42,
+    "villa_share_pct": 41,
     "median_beach_km": 0.9
   },
   {
@@ -136,12 +136,12 @@
     "costa": "Costa Blanca South",
     "n_listings": 47,
     "median_price_eur": 334000,
-    "median_pm2_eur": 4818,
-    "p25_pm2_eur": 4151,
-    "p75_pm2_eur": 5671,
+    "median_pm2_eur": 4917,
+    "p25_pm2_eur": 4175,
+    "p75_pm2_eur": 5704,
     "median_built_m2": 69,
     "villa_share_pct": 2,
-    "median_beach_km": 1.4
+    "median_beach_km": 1
   },
   {
     "town": "Benijofar",
@@ -180,18 +180,6 @@
     "median_beach_km": 5.75
   },
   {
-    "town": "Algorfa",
-    "costa": "Costa Blanca South",
-    "n_listings": 32,
-    "median_price_eur": 419000,
-    "median_pm2_eur": 4828,
-    "p25_pm2_eur": 3423,
-    "p75_pm2_eur": 5544,
-    "median_built_m2": 88,
-    "villa_share_pct": 78,
-    "median_beach_km": 14
-  },
-  {
     "town": "Pinoso",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 31,
@@ -202,6 +190,18 @@
     "median_built_m2": 140,
     "villa_share_pct": 100,
     "median_beach_km": 50
+  },
+  {
+    "town": "Algorfa",
+    "costa": "Costa Blanca South",
+    "n_listings": 30,
+    "median_price_eur": 419000,
+    "median_pm2_eur": 4782,
+    "p25_pm2_eur": 3396,
+    "p75_pm2_eur": 5693,
+    "median_built_m2": 88,
+    "villa_share_pct": 77,
+    "median_beach_km": 14
   },
   {
     "town": "Villajoyosa",
@@ -228,12 +228,24 @@
     "median_beach_km": 9
   },
   {
+    "town": "Málaga",
+    "costa": "Costa del Sol",
+    "n_listings": 27,
+    "median_price_eur": 980000,
+    "median_pm2_eur": 9699,
+    "p25_pm2_eur": 6707,
+    "p75_pm2_eur": 15351,
+    "median_built_m2": 91,
+    "villa_share_pct": 19,
+    "median_beach_km": 0.9
+  },
+  {
     "town": "Rojales",
     "costa": "Costa Blanca South",
     "n_listings": 27,
     "median_price_eur": 529000,
-    "median_pm2_eur": 4882,
-    "p25_pm2_eur": 4152,
+    "median_pm2_eur": 4843,
+    "p25_pm2_eur": 4105,
     "p75_pm2_eur": 6577,
     "median_built_m2": 100,
     "villa_share_pct": 100,
@@ -250,18 +262,6 @@
     "median_built_m2": 102,
     "villa_share_pct": 77,
     "median_beach_km": 30
-  },
-  {
-    "town": "Málaga",
-    "costa": "Costa del Sol",
-    "n_listings": 25,
-    "median_price_eur": 910000,
-    "median_pm2_eur": 10889,
-    "p25_pm2_eur": 6550,
-    "p75_pm2_eur": 16024,
-    "median_built_m2": 90,
-    "villa_share_pct": 12,
-    "median_beach_km": 0.3
   },
   {
     "town": "Benalmádena",
@@ -317,7 +317,7 @@
     "n_listings": 20,
     "median_price_eur": 700000,
     "median_pm2_eur": 8345,
-    "p25_pm2_eur": 6529,
+    "p25_pm2_eur": 5632,
     "p75_pm2_eur": 9938,
     "median_built_m2": 107,
     "villa_share_pct": 25,
@@ -350,12 +350,12 @@
   {
     "town": "Alicante",
     "costa": "Costa Blanca North",
-    "n_listings": 15,
-    "median_price_eur": 289900,
-    "median_pm2_eur": 4578,
-    "p25_pm2_eur": 4397,
-    "p75_pm2_eur": 5038,
-    "median_built_m2": 64,
+    "n_listings": 14,
+    "median_price_eur": 292450,
+    "median_pm2_eur": 4573,
+    "p25_pm2_eur": 4360,
+    "p75_pm2_eur": 4877,
+    "median_built_m2": 65,
     "villa_share_pct": 0,
     "median_beach_km": 3
   },
@@ -456,12 +456,24 @@
     "median_beach_km": 0.3
   },
   {
+    "town": "Alhama De Murcia",
+    "costa": "Costa Calida - Inland",
+    "n_listings": 12,
+    "median_price_eur": 290500,
+    "median_pm2_eur": 4133,
+    "p25_pm2_eur": 3839,
+    "p75_pm2_eur": 4502,
+    "median_built_m2": 77,
+    "villa_share_pct": 75,
+    "median_beach_km": 20
+  },
+  {
     "town": "Hondón de las Nieves",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 12,
-    "median_price_eur": 275000,
-    "median_pm2_eur": 3382,
-    "p25_pm2_eur": 2876,
+    "median_price_eur": 287500,
+    "median_pm2_eur": 3501,
+    "p25_pm2_eur": 2921,
     "p75_pm2_eur": 3732,
     "median_built_m2": 87,
     "villa_share_pct": 25,
@@ -480,18 +492,6 @@
     "median_beach_km": 2.5
   },
   {
-    "town": "San Pedro De Alcantara",
-    "costa": "Costa del Sol",
-    "n_listings": 12,
-    "median_price_eur": 762400,
-    "median_pm2_eur": 8979,
-    "p25_pm2_eur": 7269,
-    "p75_pm2_eur": 10204,
-    "median_built_m2": 103,
-    "villa_share_pct": 0,
-    "median_beach_km": 1.2
-  },
-  {
     "town": "Vélez Málaga",
     "costa": "Costa del Sol",
     "n_listings": 12,
@@ -502,18 +502,6 @@
     "median_built_m2": 90,
     "villa_share_pct": 25,
     "median_beach_km": 0.3
-  },
-  {
-    "town": "Alhama De Murcia",
-    "costa": "Costa Calida - Inland",
-    "n_listings": 11,
-    "median_price_eur": 294000,
-    "median_pm2_eur": 4122,
-    "p25_pm2_eur": 3823,
-    "p75_pm2_eur": 4297,
-    "median_built_m2": 77,
-    "villa_share_pct": 73,
-    "median_beach_km": 20
   },
   {
     "town": "Benissa",
@@ -538,6 +526,18 @@
     "median_built_m2": 77,
     "villa_share_pct": 9,
     "median_beach_km": 0.5
+  },
+  {
+    "town": "San Pedro De Alcantara",
+    "costa": "Costa del Sol",
+    "n_listings": 11,
+    "median_price_eur": 723800,
+    "median_pm2_eur": 9716,
+    "p25_pm2_eur": 7368,
+    "p75_pm2_eur": 11511,
+    "median_built_m2": 103,
+    "villa_share_pct": 0,
+    "median_beach_km": 1.2
   },
   {
     "town": "Cartagena",
@@ -747,10 +747,10 @@
     "town": "Alfas del Pi",
     "costa": "Costa Blanca North",
     "n_listings": 5,
-    "median_price_eur": 327000,
-    "median_pm2_eur": 4825,
-    "p25_pm2_eur": 4746,
-    "p75_pm2_eur": 5190,
+    "median_price_eur": 331000,
+    "median_pm2_eur": 4921,
+    "p25_pm2_eur": 4794,
+    "p75_pm2_eur": 5254,
     "median_built_m2": 63,
     "villa_share_pct": 20,
     "median_beach_km": 4

@@ -5,30 +5,30 @@ Torrevieja,Costa Blanca South,116,305000,5026,4267,5708,62,27,0.6
 Fuengirola,Costa del Sol,98,722500,7413,6252,9572,90,14,1.5
 Pilar de La Horadada,Costa Blanca South,93,359000,4722,4273,5482,80,75,2
 Marbella,Costa del Sol,86,1097500,8203,6571,11712,120,31,2
-Los Alcazares,Costa Calida,81,409000,4754,4240,5635,85,42,0.9
+Los Alcazares,Costa Calida,79,399900,4726,4238,5506,85,41,0.9
 Finestrat,Costa Blanca North,69,580000,5736,5042,6690,106,55,3
 Torre Pacheco,Costa Calida,53,314900,4075,3683,4864,80,66,9
 Casares,Costa del Sol,51,565000,5962,5060,6989,97,6,1.8
 San Pedro del Pinatar,Costa Calida,50,293500,4305,3906,5115,69,48,1
-Guardamar del Segura,Costa Blanca South,47,334000,4818,4151,5671,69,2,1.4
+Guardamar del Segura,Costa Blanca South,47,334000,4917,4175,5704,69,2,1
 Benijofar,Costa Blanca South,42,393400,4796,4245,5332,75,31,8
 Manilva,Costa del Sol,37,520000,6080,4374,8085,94,14,0.3
 Benahavís,Costa del Sol,36,1279500,9961,7494,12783,131,22,5.75
-Algorfa,Costa Blanca South,32,419000,4828,3423,5544,88,78,14
 Pinoso,Costa Blanca South - Inland,31,473500,3055,2791,3773,140,100,50
+Algorfa,Costa Blanca South,30,419000,4782,3396,5693,88,77,14
 Villajoyosa,Costa Blanca North,30,442500,6509,5618,7458,71,0,0.5
 San Miguel de Salinas,Costa Blanca South,28,292400,4131,3856,5018,73,71,9
-Rojales,Costa Blanca South,27,529000,4882,4152,6577,100,100,6
+Málaga,Costa del Sol,27,980000,9699,6707,15351,91,19,0.9
+Rojales,Costa Blanca South,27,529000,4843,4105,6577,100,100,6
 Baños y Mendigo,Costa Calida,26,473750,4590,4042,5424,102,77,30
-Málaga,Costa del Sol,25,910000,10889,6550,16024,90,12,0.3
 Benalmádena,Costa del Sol,22,780000,6503,5703,8468,106,23,1.4
 Orihuela Costa,Costa Blanca South,22,794950,6435,5159,7469,148,86,0.75
 Polop,Costa Blanca North,22,643650,6155,5623,6519,101,100,8.5
 Torremolinos,Costa del Sol,21,625000,7370,6111,8460,88,5,0.7
-Calpe,Costa Blanca North,20,700000,8345,6529,9938,107,25,0.4
+Calpe,Costa Blanca North,20,700000,8345,5632,9938,107,25,0.4
 San Javier,Costa Calida,17,380000,4714,3899,6166,80,82,2.5
 San Roque,Costa del Sol (Cadiz),16,598250,5776,5248,7708,96,0,1.5
-Alicante,Costa Blanca North,15,289900,4578,4397,5038,64,0,3
+Alicante,Costa Blanca North,14,292450,4573,4360,4877,65,0,3
 El Verger,Costa Blanca North,13,370000,5802,5090,6228,68,31,0.7
 Fuente Álamo,Costa Calida - Inland,13,379845,3825,3063,5000,100,85,23
 Jávea Xàbia,Costa Blanca North,13,647000,7137,6178,8542,108,38,0.8
@@ -37,13 +37,13 @@ la Nucia,Costa Blanca North,13,449427,5635,4871,6161,73,31,7
 Orihuela,Costa Blanca South,13,395000,4590,4389,5453,90,100,14
 rincon de la victoria,Costa del Sol,13,424000,5740,5205,6505,73,8,3.5
 Aguilas,Costa Calida,12,392000,5343,4350,6542,72,17,0.3
-Hondón de las Nieves,Costa Blanca South - Inland,12,275000,3382,2876,3732,87,25,37
+Alhama De Murcia,Costa Calida - Inland,12,290500,4133,3839,4502,77,75,20
+Hondón de las Nieves,Costa Blanca South - Inland,12,287500,3501,2921,3732,87,25,37
 La Manga Club,Costa Calida,12,450000,4722,4389,5396,95,58,2.5
-San Pedro De Alcantara,Costa del Sol,12,762400,8979,7269,10204,103,0,1.2
 Vélez Málaga,Costa del Sol,12,432210,5140,4553,5891,90,25,0.3
-Alhama De Murcia,Costa Calida - Inland,11,294000,4122,3823,4297,77,73,20
 Benissa,Costa Blanca North,11,2600000,9828,7832,11568,250,100,2
 Denia,Costa Blanca North,11,489000,6317,5086,6547,77,9,0.5
+San Pedro De Alcantara,Costa del Sol,11,723800,9716,7368,11511,103,0,1.2
 Cartagena,Costa Calida,10,480500,4932,4343,5560,99,50,0.5
 Dolores,Costa Blanca South,10,417450,3928,3832,4671,85,100,12
 La Manga del Mar Menor,Costa Calida,10,330000,4425,3363,4830,84,20,0.1
@@ -61,7 +61,7 @@ El Campello,Costa Blanca North,6,536000,7284,6385,8792,66,33,0.2
 Monforte del Cid,Costa Blanca North - Inland,6,514900,4398,3469,5208,105,83,20
 Ojen,Costa del Sol,6,1017500,8468,8177,10691,120,17,5
 Torrox,Costa del Sol,6,357500,4734,4450,5052,75,0,0.2
-Alfas del Pi,Costa Blanca North,5,327000,4825,4746,5190,63,20,4
+Alfas del Pi,Costa Blanca North,5,331000,4921,4794,5254,63,20,4
 Catral,Costa Blanca South - Inland,5,213000,2760,2700,2840,75,0,15
 La Marina,Costa Blanca South,5,299000,4211,3786,5100,71,40,0.8
 Los Montesinos,Costa Blanca South,5,495000,4950,4182,5350,100,100,9

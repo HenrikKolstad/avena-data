@@ -8,7 +8,6 @@ N9260,Mijas,costa-del-sol,Villa,,,2275000,5789,2026-08-07,2026-08-08,false
 N9491,Los Alcazares,costa-calida,Apartment,,,369900,4932,2026-08-07,2026-09-03,true
 N9519,Puerto de Mazarron,costa-calida,Townhouse,,,249900,5206,2026-08-07,2026-08-08,false
 SP0242,Altea,cb-north,Villa,,,1750000,7778,2026-08-07,,false
-SP0664,Villajoyosa,cb-north,Apartment,,,389000,6078,2026-08-07,,false
 SP1080,Estepona,costa-del-sol,Apartment,,,341000,5328,2026-08-07,2026-08-08,false
 SP1160,Villajoyosa,cb-north,Apartment,,,338000,5121,2026-08-07,,false
 SP1300,Guardamar del Segura,cb-south,Apartment,,,299000,4271,2026-08-07,,false
@@ -46,7 +45,7 @@ N8647,Polop,cb-north,Townhouse,3,100,505280,5053,2026-08-14,,false
 N8648,Polop,cb-north,Townhouse,3,100,547690,5477,2026-08-14,,false
 N8805,Polop,cb-north,Villa,3,128,625000,4883,2026-08-14,,false
 N8966,Los Alcazares,costa-calida,Apartment,2,75,279000,3720,2026-08-14,,false
-N8967,Los Alcazares,costa-calida,Apartment,3,90,359000,3989,2026-08-14,,false
+N8967,Los Alcazares,costa-calida,Apartment,3,90,359000,3989,2026-08-14,2026-09-11,true
 SP0788,Estepona,costa-del-sol,Apartment,2,133,799000,6008,2026-08-14,,false
 SP1409,San Pedro De Alcantara,costa-del-sol,Penthouse,3,109,830000,7615,2026-08-14,,false
 SP1750,Mijas,costa-del-sol,Apartment,2,91,798000,8769,2026-08-14,,false
@@ -88,7 +87,6 @@ N9174,Marbella,costa-del-sol,Apartment,2,75,456000,6080,2026-08-26,,false
 N9775,Altea,cb-north,Villa,4,400,3450000,8625,2026-08-28,,false
 SP1838,Mijas,costa-del-sol,Apartment,1,50,256000,5120,2026-08-28,,false
 SP1646,Alicante,cb-north,Apartment,2,52,222500,4279,2026-08-29,2026-09-08,true
-SP1648,Alicante,cb-north,Apartment,2,52,283500,5452,2026-08-29,2026-09-01,true
 SP1843,Benitachell,cb-north,Villa,4,180,2891000,16061,2026-08-29,,false
 SP1844,Benitachell,cb-north,Villa,3,190,2350000,12368,2026-08-29,,false
 SP1845,Benitachell,cb-north,Villa,4,195,2600000,13333,2026-08-29,,false
@@ -138,3 +136,12 @@ N9688,Monda,costa-del-sol,Apartment,3,94,600000,6383,2026-09-09,,false
 N9863,Guardamar del Segura,cb-south,Apartment,2,65,355000,5462,2026-09-09,,false
 SP1785,Mijas,costa-del-sol,Penthouse,3,99,884400,8933,2026-09-09,,false
 N9709,Torrevieja,cb-south,Penthouse,2,61,290000,4754,2026-09-10,,false
+N7033,Guardamar del Segura,cb-south,Apartment,3,90,344900,3832,2026-09-11,,false
+N8733,Algorfa,cb-south,Bungalow,2,65,318000,4892,2026-09-11,,false
+N8972,Los Alcazares,costa-calida,Villa,3,90,550000,6111,2026-09-11,,true
+N9188,Los Alcazares,costa-calida,Apartment,2,60,292000,4867,2026-09-11,,false
+N9315,Algorfa,cb-south,Villa,4,145,793000,5469,2026-09-11,,false
+N9726,Los Alcazares,costa-calida,Villa,3,90,645000,7167,2026-09-11,,false
+SP0664,Villajoyosa,cb-north,Apartment,2,64,397000,6203,2026-09-11,,true
+SP1408,San Pedro De Alcantara,costa-del-sol,Penthouse,2,86,839550,9762,2026-09-11,,false
+SP1648,Alicante,cb-north,Apartment,2,52,268500,5163,2026-09-11,,false

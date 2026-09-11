@@ -117,19 +117,6 @@
     "still_listed": false
   },
   {
-    "avn_id": "SP0664",
-    "town": "Villajoyosa",
-    "region": "cb-north",
-    "type": "Apartment",
-    "beds": null,
-    "built_m2": null,
-    "last_price_eur": 389000,
-    "last_pm2_eur": 6078,
-    "last_seen_date": "2026-08-07",
-    "relisted_on": null,
-    "still_listed": false
-  },
-  {
     "avn_id": "SP1080",
     "town": "Estepona",
     "region": "costa-del-sol",
@@ -620,8 +607,8 @@
     "last_price_eur": 359000,
     "last_pm2_eur": 3989,
     "last_seen_date": "2026-08-14",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-11",
+    "still_listed": true
   },
   {
     "avn_id": "SP0788",
@@ -1154,19 +1141,6 @@
     "last_pm2_eur": 4279,
     "last_seen_date": "2026-08-29",
     "relisted_on": "2026-09-08",
-    "still_listed": true
-  },
-  {
-    "avn_id": "SP1648",
-    "town": "Alicante",
-    "region": "cb-north",
-    "type": "Apartment",
-    "beds": 2,
-    "built_m2": 52,
-    "last_price_eur": 283500,
-    "last_pm2_eur": 5452,
-    "last_seen_date": "2026-08-29",
-    "relisted_on": "2026-09-01",
     "still_listed": true
   },
   {
@@ -1803,6 +1777,123 @@
     "last_price_eur": 290000,
     "last_pm2_eur": 4754,
     "last_seen_date": "2026-09-10",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7033",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 90,
+    "last_price_eur": 344900,
+    "last_pm2_eur": 3832,
+    "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8733",
+    "town": "Algorfa",
+    "region": "cb-south",
+    "type": "Bungalow",
+    "beds": 2,
+    "built_m2": 65,
+    "last_price_eur": 318000,
+    "last_pm2_eur": 4892,
+    "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8972",
+    "town": "Los Alcazares",
+    "region": "costa-calida",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 90,
+    "last_price_eur": 550000,
+    "last_pm2_eur": 6111,
+    "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": true
+  },
+  {
+    "avn_id": "N9188",
+    "town": "Los Alcazares",
+    "region": "costa-calida",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 60,
+    "last_price_eur": 292000,
+    "last_pm2_eur": 4867,
+    "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9315",
+    "town": "Algorfa",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 145,
+    "last_price_eur": 793000,
+    "last_pm2_eur": 5469,
+    "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9726",
+    "town": "Los Alcazares",
+    "region": "costa-calida",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 90,
+    "last_price_eur": 645000,
+    "last_pm2_eur": 7167,
+    "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0664",
+    "town": "Villajoyosa",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 64,
+    "last_price_eur": 397000,
+    "last_pm2_eur": 6203,
+    "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": true
+  },
+  {
+    "avn_id": "SP1408",
+    "town": "San Pedro De Alcantara",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 86,
+    "last_price_eur": 839550,
+    "last_pm2_eur": 9762,
+    "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1648",
+    "town": "Alicante",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 52,
+    "last_price_eur": 268500,
+    "last_pm2_eur": 5163,
+    "last_seen_date": "2026-09-11",
     "relisted_on": null,
     "still_listed": false
   }

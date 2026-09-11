@@ -3078,5 +3078,265 @@
     "change_pct": -10.13,
     "town": "Alhama De Murcia",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8207",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 227000,
+    "new_price_eur": 229000,
+    "change_pct": 0.88,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8507",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 258500,
+    "new_price_eur": 246000,
+    "change_pct": -4.84,
+    "town": "Aguilas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8777",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 220000,
+    "new_price_eur": 275000,
+    "change_pct": 25,
+    "town": "Hondón de las Nieves",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8967",
+    "date": "2026-09-11",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 359000,
+    "new_price_eur": 379000,
+    "change_pct": 5.57,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9014",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 410000,
+    "new_price_eur": 395000,
+    "change_pct": -3.66,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9117",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 950000,
+    "new_price_eur": 1075000,
+    "change_pct": 13.16,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9170",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 2650000,
+    "new_price_eur": 2600000,
+    "change_pct": -1.89,
+    "town": "Calpe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9171",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 1450000,
+    "new_price_eur": 1200000,
+    "change_pct": -17.24,
+    "town": "Calpe",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9172",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 2350000,
+    "new_price_eur": 2100000,
+    "change_pct": -10.64,
+    "town": "Calpe",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9723",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 269000,
+    "new_price_eur": 289000,
+    "change_pct": 7.43,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9900",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 299000,
+    "new_price_eur": 302000,
+    "change_pct": 1,
+    "town": "Alfas del Pi",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9902",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 304000,
+    "new_price_eur": 310000,
+    "change_pct": 1.97,
+    "town": "Alfas del Pi",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9903",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 327000,
+    "new_price_eur": 331000,
+    "change_pct": 1.22,
+    "town": "Alfas del Pi",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9968",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 329000,
+    "new_price_eur": 319000,
+    "change_pct": -3.04,
+    "town": "Alhama De Murcia",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9969",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 337000,
+    "new_price_eur": 369000,
+    "change_pct": 9.5,
+    "town": "Alhama De Murcia",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9997",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 655000,
+    "new_price_eur": 650000,
+    "change_pct": -0.76,
+    "town": "Algorfa",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0664",
+    "date": "2026-09-11",
+    "prev_date": "2026-08-07",
+    "prev_price_eur": 389000,
+    "new_price_eur": 397000,
+    "change_pct": 2.06,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0817",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 455000,
+    "new_price_eur": 495000,
+    "change_pct": 8.79,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1195",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 610000,
+    "new_price_eur": 595000,
+    "change_pct": -2.46,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1197",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 445000,
+    "new_price_eur": 395000,
+    "change_pct": -11.24,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1200",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 845000,
+    "new_price_eur": 795000,
+    "change_pct": -5.92,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1286",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 430000,
+    "new_price_eur": 400000,
+    "change_pct": -6.98,
+    "town": "Rojales",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1287",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 415000,
+    "new_price_eur": 397000,
+    "change_pct": -4.34,
+    "town": "Rojales",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1407",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 801000,
+    "new_price_eur": 1458250,
+    "change_pct": 82.05,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1649",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 291500,
+    "new_price_eur": 300500,
+    "change_pct": 3.09,
+    "town": "Alicante",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1765",
+    "date": "2026-09-11",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 935000,
+    "new_price_eur": 895000,
+    "change_pct": -4.28,
+    "town": "Estepona",
+    "type": "Apartment"
   }
 ]
