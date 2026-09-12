@@ -113,8 +113,8 @@
     "last_price_eur": 1750000,
     "last_pm2_eur": 7778,
     "last_seen_date": "2026-08-07",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-12",
+    "still_listed": true
   },
   {
     "avn_id": "SP1080",
@@ -971,8 +971,8 @@
     "last_price_eur": 499000,
     "last_pm2_eur": 4752,
     "last_seen_date": "2026-08-21",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-12",
+    "still_listed": true
   },
   {
     "avn_id": "N7630",
@@ -984,8 +984,8 @@
     "last_price_eur": 551000,
     "last_pm2_eur": 3510,
     "last_seen_date": "2026-08-21",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-12",
+    "still_listed": true
   },
   {
     "avn_id": "N9016",
@@ -997,8 +997,8 @@
     "last_price_eur": 450000,
     "last_pm2_eur": 5921,
     "last_seen_date": "2026-08-21",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-12",
+    "still_listed": true
   },
   {
     "avn_id": "N9792",
@@ -1817,7 +1817,7 @@
     "last_pm2_eur": 6111,
     "last_seen_date": "2026-09-11",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "N9188",
@@ -1869,7 +1869,7 @@
     "last_pm2_eur": 6203,
     "last_seen_date": "2026-09-11",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "SP1408",
@@ -1894,6 +1894,19 @@
     "last_price_eur": 268500,
     "last_pm2_eur": 5163,
     "last_seen_date": "2026-09-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7558",
+    "town": "Benalmádena",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 103,
+    "last_price_eur": 992000,
+    "last_pm2_eur": 9631,
+    "last_seen_date": "2026-09-12",
     "relisted_on": null,
     "still_listed": false
   }

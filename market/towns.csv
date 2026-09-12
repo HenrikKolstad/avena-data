@@ -1,10 +1,10 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,219,705000,6550,5420,8814,103,14,1
-Mijas,Costa del Sol,192,559650,6626,5571,8157,86,19,2
+Estepona,Costa del Sol,219,705000,6550,5420,8883,103,14,1
+Mijas,Costa del Sol,193,562800,6638,5606,8151,86,19,2
 Torrevieja,Costa Blanca South,116,305000,5026,4267,5708,62,27,0.6
 Fuengirola,Costa del Sol,98,722500,7413,6252,9572,90,14,1.5
-Pilar de La Horadada,Costa Blanca South,93,359000,4722,4273,5482,80,75,2
-Marbella,Costa del Sol,86,1097500,8203,6571,11712,120,31,2
+Pilar de La Horadada,Costa Blanca South,93,364000,4727,4273,5482,80,75,2
+Marbella,Costa del Sol,86,1137500,8311,6571,12086,120,31,2
 Los Alcazares,Costa Calida,79,399900,4726,4238,5506,85,41,0.9
 Finestrat,Costa Blanca North,69,580000,5736,5042,6690,106,55,3
 Torre Pacheco,Costa Calida,53,314900,4075,3683,4864,80,66,9
@@ -21,9 +21,9 @@ San Miguel de Salinas,Costa Blanca South,28,292400,4131,3856,5018,73,71,9
 Málaga,Costa del Sol,27,980000,9699,6707,15351,91,19,0.9
 Rojales,Costa Blanca South,27,529000,4843,4105,6577,100,100,6
 Baños y Mendigo,Costa Calida,26,473750,4590,4042,5424,102,77,30
-Benalmádena,Costa del Sol,22,780000,6503,5703,8468,106,23,1.4
-Orihuela Costa,Costa Blanca South,22,794950,6435,5159,7469,148,86,0.75
+Orihuela Costa,Costa Blanca South,23,699900,6400,4981,7469,140,83,0.7
 Polop,Costa Blanca North,22,643650,6155,5623,6519,101,100,8.5
+Benalmádena,Costa del Sol,21,750000,6420,5620,8358,109,24,1.4
 Torremolinos,Costa del Sol,21,625000,7370,6111,8460,88,5,0.7
 Calpe,Costa Blanca North,20,700000,8345,5632,9938,107,25,0.4
 San Javier,Costa Calida,17,380000,4714,3899,6166,80,82,2.5
@@ -65,4 +65,5 @@ Alfas del Pi,Costa Blanca North,5,331000,4921,4794,5254,63,20,4
 Catral,Costa Blanca South - Inland,5,213000,2760,2700,2840,75,0,15
 La Marina,Costa Blanca South,5,299000,4211,3786,5100,71,40,0.8
 Los Montesinos,Costa Blanca South,5,495000,4950,4182,5350,100,100,9
-Santa Pola,Costa Blanca South,5,292015,4493,4259,4550,65,0,0.6
+Santa Pola,Costa Blanca South,5,292015,4383,4259,4493,65,0,0.6
+Sotogrande,Costa del Sol (Cadiz),5,1014000,5761,4689,6413,176,100,4

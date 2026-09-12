@@ -3338,5 +3338,175 @@
     "change_pct": -4.28,
     "town": "Estepona",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N7559",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 998000,
+    "new_price_eur": 890000,
+    "change_pct": -10.82,
+    "town": "Benalmádena",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7560",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 1320000,
+    "new_price_eur": 1040000,
+    "change_pct": -21.21,
+    "town": "Benalmádena",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7631",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 638000,
+    "new_price_eur": 755000,
+    "change_pct": 18.34,
+    "town": "Sotogrande",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8723",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 480000,
+    "new_price_eur": 847000,
+    "change_pct": 76.46,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8726",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 494500,
+    "new_price_eur": 511750,
+    "change_pct": 3.49,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8895",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 963000,
+    "new_price_eur": 1640500,
+    "change_pct": 70.35,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9016",
+    "date": "2026-09-12",
+    "prev_date": "2026-08-20",
+    "prev_price_eur": 450000,
+    "new_price_eur": 560000,
+    "change_pct": 24.44,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9066",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 312900,
+    "new_price_eur": 322900,
+    "change_pct": 3.2,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9105",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 890000,
+    "new_price_eur": 904000,
+    "change_pct": 1.57,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9166",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 725000,
+    "new_price_eur": 825000,
+    "change_pct": 13.79,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9795",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 2600000,
+    "new_price_eur": 1950000,
+    "change_pct": -25,
+    "town": "Cabo de Palos",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9846",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 345000,
+    "new_price_eur": 354000,
+    "change_pct": 2.61,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9847",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 355000,
+    "new_price_eur": 364000,
+    "change_pct": 2.54,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9874",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 774000,
+    "new_price_eur": 770000,
+    "change_pct": -0.52,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9894",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 273000,
+    "new_price_eur": 263000,
+    "change_pct": -3.66,
+    "town": "Santa Pola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1344",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 492000,
+    "new_price_eur": 481000,
+    "change_pct": -2.24,
+    "town": "Torremolinos",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1362",
+    "date": "2026-09-12",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 530000,
+    "new_price_eur": 525000,
+    "change_pct": -0.94,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
   }
 ]
