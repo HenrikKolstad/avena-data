@@ -1,5 +1,5 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,219,705000,6550,5420,8883,103,14,1
+Estepona,Costa del Sol,219,705000,6550,5420,8911,103,14,1
 Mijas,Costa del Sol,193,562800,6638,5606,8151,86,19,2
 Torrevieja,Costa Blanca South,116,305000,5026,4267,5708,62,27,0.6
 Fuengirola,Costa del Sol,98,722500,7413,6252,9572,90,14,1.5
@@ -43,6 +43,7 @@ La Manga Club,Costa Calida,12,450000,4722,4389,5396,95,58,2.5
 Vélez Málaga,Costa del Sol,12,432210,5140,4553,5891,90,25,0.3
 Benissa,Costa Blanca North,11,2600000,9828,7832,11568,250,100,2
 Denia,Costa Blanca North,11,489000,6317,5086,6547,77,9,0.5
+El Campello,Costa Blanca North,11,595000,6359,5345,7567,95,64,0
 San Pedro De Alcantara,Costa del Sol,11,723800,9716,7368,11511,103,0,1.2
 Cartagena,Costa Calida,10,480500,4932,4343,5560,99,50,0.5
 Dolores,Costa Blanca South,10,417450,3928,3832,4671,85,100,12
@@ -57,12 +58,12 @@ Moraira_Teulada,Costa Blanca North,7,2175000,7967,7877,8938,273,100,2
 Puerto de Mazarron,Costa Calida,7,235000,3730,3657,4382,63,71,0.2
 San Fulgencio,Costa Blanca South,7,316900,4158,3947,5311,85,100,7
 Bigastro,Costa Blanca South,6,207400,3112,2962,3280,64,33,25
-El Campello,Costa Blanca North,6,536000,7284,6385,8792,66,33,0.2
 Monforte del Cid,Costa Blanca North - Inland,6,514900,4398,3469,5208,105,83,20
 Ojen,Costa del Sol,6,1017500,8468,8177,10691,120,17,5
 Torrox,Costa del Sol,6,357500,4734,4450,5052,75,0,0.2
 Alfas del Pi,Costa Blanca North,5,331000,4921,4794,5254,63,20,4
 Catral,Costa Blanca South - Inland,5,213000,2760,2700,2840,75,0,15
+Daya Nueva,Costa Blanca South,5,389000,4086,3963,4209,93,100,13
 La Marina,Costa Blanca South,5,299000,4211,3786,5100,71,40,0.8
 Los Montesinos,Costa Blanca South,5,495000,4950,4182,5350,100,100,9
 Santa Pola,Costa Blanca South,5,292015,4383,4259,4493,65,0,0.6

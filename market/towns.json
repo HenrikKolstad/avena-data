@@ -6,7 +6,7 @@
     "median_price_eur": 705000,
     "median_pm2_eur": 6550,
     "p25_pm2_eur": 5420,
-    "p75_pm2_eur": 8883,
+    "p75_pm2_eur": 8911,
     "median_built_m2": 103,
     "villa_share_pct": 14,
     "median_beach_km": 1
@@ -528,6 +528,18 @@
     "median_beach_km": 0.5
   },
   {
+    "town": "El Campello",
+    "costa": "Costa Blanca North",
+    "n_listings": 11,
+    "median_price_eur": 595000,
+    "median_pm2_eur": 6359,
+    "p25_pm2_eur": 5345,
+    "p75_pm2_eur": 7567,
+    "median_built_m2": 95,
+    "villa_share_pct": 64,
+    "median_beach_km": 0
+  },
+  {
     "town": "San Pedro De Alcantara",
     "costa": "Costa del Sol",
     "n_listings": 11,
@@ -696,18 +708,6 @@
     "median_beach_km": 25
   },
   {
-    "town": "El Campello",
-    "costa": "Costa Blanca North",
-    "n_listings": 6,
-    "median_price_eur": 536000,
-    "median_pm2_eur": 7284,
-    "p25_pm2_eur": 6385,
-    "p75_pm2_eur": 8792,
-    "median_built_m2": 66,
-    "villa_share_pct": 33,
-    "median_beach_km": 0.2
-  },
-  {
     "town": "Monforte del Cid",
     "costa": "Costa Blanca North - Inland",
     "n_listings": 6,
@@ -766,6 +766,18 @@
     "median_built_m2": 75,
     "villa_share_pct": 0,
     "median_beach_km": 15
+  },
+  {
+    "town": "Daya Nueva",
+    "costa": "Costa Blanca South",
+    "n_listings": 5,
+    "median_price_eur": 389000,
+    "median_pm2_eur": 4086,
+    "p25_pm2_eur": 3963,
+    "p75_pm2_eur": 4209,
+    "median_built_m2": 93,
+    "villa_share_pct": 100,
+    "median_beach_km": 13
   },
   {
     "town": "La Marina",
