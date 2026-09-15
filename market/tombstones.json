@@ -1909,5 +1909,83 @@
     "last_seen_date": "2026-09-12",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N7042",
+    "town": "Torre Pacheco",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": 2,
+    "built_m2": 70,
+    "last_price_eur": 311900,
+    "last_pm2_eur": 4456,
+    "last_seen_date": "2026-09-15",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7796",
+    "town": "El Verger",
+    "region": "cb-north",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 81,
+    "last_price_eur": 575000,
+    "last_pm2_eur": 7099,
+    "last_seen_date": "2026-09-15",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8106",
+    "town": "Pilar de La Horadada",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 110,
+    "last_price_eur": 594000,
+    "last_pm2_eur": 5400,
+    "last_seen_date": "2026-09-15",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8405",
+    "town": "Pilar de La Horadada",
+    "region": "cb-south",
+    "type": "Bungalow",
+    "beds": 3,
+    "built_m2": 76,
+    "last_price_eur": 334900,
+    "last_pm2_eur": 4407,
+    "last_seen_date": "2026-09-15",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9521",
+    "town": "Puerto de Mazarron",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 80,
+    "last_price_eur": 298000,
+    "last_pm2_eur": 3725,
+    "last_seen_date": "2026-09-15",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9788",
+    "town": "Puerto de Mazarron",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 80,
+    "last_price_eur": 287000,
+    "last_pm2_eur": 3588,
+    "last_seen_date": "2026-09-15",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

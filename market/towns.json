@@ -50,14 +50,26 @@
   {
     "town": "Pilar de La Horadada",
     "costa": "Costa Blanca South",
-    "n_listings": 93,
+    "n_listings": 91,
     "median_price_eur": 364000,
     "median_pm2_eur": 4727,
-    "p25_pm2_eur": 4273,
-    "p75_pm2_eur": 5482,
+    "p25_pm2_eur": 4262,
+    "p75_pm2_eur": 5499,
     "median_built_m2": 80,
     "villa_share_pct": 75,
     "median_beach_km": 2
+  },
+  {
+    "town": "Los Alcazares",
+    "costa": "Costa Calida",
+    "n_listings": 87,
+    "median_price_eur": 399000,
+    "median_pm2_eur": 4726,
+    "p25_pm2_eur": 4238,
+    "p75_pm2_eur": 5506,
+    "median_built_m2": 85,
+    "villa_share_pct": 39,
+    "median_beach_km": 0.9
   },
   {
     "town": "Marbella",
@@ -70,18 +82,6 @@
     "median_built_m2": 120,
     "villa_share_pct": 31,
     "median_beach_km": 2
-  },
-  {
-    "town": "Los Alcazares",
-    "costa": "Costa Calida",
-    "n_listings": 79,
-    "median_price_eur": 399900,
-    "median_pm2_eur": 4726,
-    "p25_pm2_eur": 4238,
-    "p75_pm2_eur": 5506,
-    "median_built_m2": 85,
-    "villa_share_pct": 41,
-    "median_beach_km": 0.9
   },
   {
     "town": "Finestrat",
@@ -98,13 +98,13 @@
   {
     "town": "Torre Pacheco",
     "costa": "Costa Calida",
-    "n_listings": 53,
-    "median_price_eur": 314900,
-    "median_pm2_eur": 4075,
-    "p25_pm2_eur": 3683,
-    "p75_pm2_eur": 4864,
+    "n_listings": 52,
+    "median_price_eur": 315400,
+    "median_pm2_eur": 4101,
+    "p25_pm2_eur": 3671,
+    "p75_pm2_eur": 4880,
     "median_built_m2": 80,
-    "villa_share_pct": 66,
+    "villa_share_pct": 65,
     "median_beach_km": 9
   },
   {
@@ -360,18 +360,6 @@
     "median_beach_km": 3
   },
   {
-    "town": "El Verger",
-    "costa": "Costa Blanca North",
-    "n_listings": 13,
-    "median_price_eur": 370000,
-    "median_pm2_eur": 5802,
-    "p25_pm2_eur": 5090,
-    "p75_pm2_eur": 6228,
-    "median_built_m2": 68,
-    "villa_share_pct": 31,
-    "median_beach_km": 0.7
-  },
-  {
     "town": "Fuente Álamo",
     "costa": "Costa Calida - Inland",
     "n_listings": 13,
@@ -466,6 +454,18 @@
     "median_built_m2": 77,
     "villa_share_pct": 75,
     "median_beach_km": 20
+  },
+  {
+    "town": "El Verger",
+    "costa": "Costa Blanca North",
+    "n_listings": 12,
+    "median_price_eur": 377250,
+    "median_pm2_eur": 5762,
+    "p25_pm2_eur": 5028,
+    "p75_pm2_eur": 6057,
+    "median_built_m2": 68,
+    "villa_share_pct": 33,
+    "median_beach_km": 0.7
   },
   {
     "town": "Hondón de las Nieves",
@@ -672,18 +672,6 @@
     "median_beach_km": 2
   },
   {
-    "town": "Puerto de Mazarron",
-    "costa": "Costa Calida",
-    "n_listings": 7,
-    "median_price_eur": 235000,
-    "median_pm2_eur": 3730,
-    "p25_pm2_eur": 3657,
-    "p75_pm2_eur": 4382,
-    "median_built_m2": 63,
-    "villa_share_pct": 71,
-    "median_beach_km": 0.2
-  },
-  {
     "town": "San Fulgencio",
     "costa": "Costa Blanca South",
     "n_listings": 7,
@@ -795,13 +783,25 @@
     "town": "Los Montesinos",
     "costa": "Costa Blanca South",
     "n_listings": 5,
-    "median_price_eur": 495000,
-    "median_pm2_eur": 4950,
+    "median_price_eur": 525000,
+    "median_pm2_eur": 5250,
     "p25_pm2_eur": 4182,
     "p75_pm2_eur": 5350,
     "median_built_m2": 100,
     "villa_share_pct": 100,
     "median_beach_km": 9
+  },
+  {
+    "town": "Puerto de Mazarron",
+    "costa": "Costa Calida",
+    "n_listings": 5,
+    "median_price_eur": 226000,
+    "median_pm2_eur": 4333,
+    "p25_pm2_eur": 3730,
+    "p75_pm2_eur": 4431,
+    "median_built_m2": 60,
+    "villa_share_pct": 60,
+    "median_beach_km": 0.2
   },
   {
     "town": "Santa Pola",

@@ -3508,5 +3508,115 @@
     "change_pct": -0.94,
     "town": "Guardamar del Segura",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N6403",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 495000,
+    "new_price_eur": 525000,
+    "change_pct": 6.06,
+    "town": "Los Montesinos",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7791",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 493000,
+    "new_price_eur": 517500,
+    "change_pct": 4.97,
+    "town": "El Verger",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7792",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 260000,
+    "new_price_eur": 254000,
+    "change_pct": -2.31,
+    "town": "El Verger",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7793",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 341000,
+    "new_price_eur": 327000,
+    "change_pct": -4.11,
+    "town": "El Verger",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7795",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 366000,
+    "new_price_eur": 384500,
+    "change_pct": 5.05,
+    "town": "El Verger",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8517",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 264900,
+    "new_price_eur": 284900,
+    "change_pct": 7.55,
+    "town": "Torre Pacheco",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9640",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 309000,
+    "new_price_eur": 299000,
+    "change_pct": -3.24,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9771",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 277400,
+    "new_price_eur": 283400,
+    "change_pct": 2.16,
+    "town": "San Pedro del Pinatar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9919",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 284900,
+    "new_price_eur": 299900,
+    "change_pct": 5.27,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9920",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 314900,
+    "new_price_eur": 319900,
+    "change_pct": 1.59,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1751",
+    "date": "2026-09-15",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 995000,
+    "new_price_eur": 1050000,
+    "change_pct": 5.53,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]
