@@ -3618,5 +3618,95 @@
     "change_pct": 5.53,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N8444",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 490000,
+    "new_price_eur": 464000,
+    "change_pct": -5.31,
+    "town": "Casares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8577",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 329000,
+    "new_price_eur": 335000,
+    "change_pct": 1.82,
+    "town": "Pilar de La Horadada",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8578",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 329000,
+    "new_price_eur": 445000,
+    "change_pct": 35.26,
+    "town": "Pilar de La Horadada",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8960",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 550000,
+    "new_price_eur": 565000,
+    "change_pct": 2.73,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8962",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 425000,
+    "new_price_eur": 422000,
+    "change_pct": -0.71,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8963",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 865000,
+    "new_price_eur": 795000,
+    "change_pct": -8.09,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9151",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 745000,
+    "new_price_eur": 700000,
+    "change_pct": -6.04,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1197",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 395000,
+    "new_price_eur": 485000,
+    "change_pct": 22.78,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1519",
+    "date": "2026-09-16",
+    "prev_date": "2026-09-15",
+    "prev_price_eur": 3950000,
+    "new_price_eur": 4250000,
+    "change_pct": 7.59,
+    "town": "Moraira_Teulada",
+    "type": "Villa"
   }
 ]

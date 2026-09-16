@@ -1987,5 +1987,18 @@
     "last_seen_date": "2026-09-15",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "SP0530",
+    "town": "La Linea De La Concepcion",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 108,
+    "last_price_eur": 433000,
+    "last_pm2_eur": 4009,
+    "last_seen_date": "2026-09-16",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

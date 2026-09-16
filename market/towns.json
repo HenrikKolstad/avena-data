@@ -14,13 +14,13 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 193,
-    "median_price_eur": 562800,
-    "median_pm2_eur": 6638,
-    "p25_pm2_eur": 5606,
-    "p75_pm2_eur": 8151,
+    "n_listings": 195,
+    "median_price_eur": 565000,
+    "median_pm2_eur": 6650,
+    "p25_pm2_eur": 5635,
+    "p75_pm2_eur": 8226,
     "median_built_m2": 86,
-    "villa_share_pct": 19,
+    "villa_share_pct": 18,
     "median_beach_km": 2
   },
   {
@@ -50,13 +50,13 @@
   {
     "town": "Pilar de La Horadada",
     "costa": "Costa Blanca South",
-    "n_listings": 91,
-    "median_price_eur": 364000,
-    "median_pm2_eur": 4727,
-    "p25_pm2_eur": 4262,
-    "p75_pm2_eur": 5499,
-    "median_built_m2": 80,
-    "villa_share_pct": 75,
+    "n_listings": 92,
+    "median_price_eur": 364500,
+    "median_pm2_eur": 4725,
+    "p25_pm2_eur": 4250,
+    "p75_pm2_eur": 5520,
+    "median_built_m2": 79,
+    "villa_share_pct": 74,
     "median_beach_km": 2
   },
   {
@@ -384,18 +384,6 @@
     "median_beach_km": 0.8
   },
   {
-    "town": "La Linea De La Concepcion",
-    "costa": "Costa del Sol (Cadiz)",
-    "n_listings": 13,
-    "median_price_eur": 500000,
-    "median_pm2_eur": 6517,
-    "p25_pm2_eur": 5881,
-    "p75_pm2_eur": 9002,
-    "median_built_m2": 84,
-    "villa_share_pct": 8,
-    "median_beach_km": 0.1
-  },
-  {
     "town": "la Nucia",
     "costa": "Costa Blanca North",
     "n_listings": 13,
@@ -478,6 +466,18 @@
     "median_built_m2": 87,
     "villa_share_pct": 25,
     "median_beach_km": 37
+  },
+  {
+    "town": "La Linea De La Concepcion",
+    "costa": "Costa del Sol (Cadiz)",
+    "n_listings": 12,
+    "median_price_eur": 503000,
+    "median_pm2_eur": 6751,
+    "p25_pm2_eur": 5963,
+    "p75_pm2_eur": 9320,
+    "median_built_m2": 79,
+    "villa_share_pct": 8,
+    "median_beach_km": 0.1
   },
   {
     "town": "La Manga Club",
