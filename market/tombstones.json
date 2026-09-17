@@ -2000,5 +2000,31 @@
     "last_seen_date": "2026-09-16",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N6093",
+    "town": "Denia",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 75,
+    "last_price_eur": 525000,
+    "last_pm2_eur": 7000,
+    "last_seen_date": "2026-09-17",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8317",
+    "town": "Els Poblets",
+    "region": "cb-north",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 76,
+    "last_price_eur": 415000,
+    "last_pm2_eur": 5461,
+    "last_seen_date": "2026-09-17",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

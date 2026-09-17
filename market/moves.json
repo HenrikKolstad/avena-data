@@ -3708,5 +3708,95 @@
     "change_pct": 7.59,
     "town": "Moraira_Teulada",
     "type": "Villa"
+  },
+  {
+    "avn_id": "N8130",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 412000,
+    "new_price_eur": 405000,
+    "change_pct": -1.7,
+    "town": "Los Alcazares",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8251",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 489000,
+    "new_price_eur": 499000,
+    "change_pct": 2.04,
+    "town": "Denia",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8509",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 582500,
+    "new_price_eur": 626500,
+    "change_pct": 7.55,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8513",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 477500,
+    "new_price_eur": 505500,
+    "change_pct": 5.86,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8514",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 566500,
+    "new_price_eur": 569500,
+    "change_pct": 0.53,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9083",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 415000,
+    "new_price_eur": 425000,
+    "change_pct": 2.41,
+    "town": "Dolores",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9864",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 259900,
+    "new_price_eur": 265000,
+    "change_pct": 1.96,
+    "town": "Mazarron",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9867",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 249000,
+    "new_price_eur": 269000,
+    "change_pct": 8.03,
+    "town": "El Verger",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9868",
+    "date": "2026-09-17",
+    "prev_date": "2026-09-16",
+    "prev_price_eur": 319000,
+    "new_price_eur": 335000,
+    "change_pct": 5.02,
+    "town": "El Verger",
+    "type": "Townhouse"
   }
 ]

@@ -14,11 +14,11 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 195,
+    "n_listings": 196,
     "median_price_eur": 565000,
-    "median_pm2_eur": 6650,
-    "p25_pm2_eur": 5635,
-    "p75_pm2_eur": 8226,
+    "median_pm2_eur": 6644,
+    "p25_pm2_eur": 5649,
+    "p75_pm2_eur": 8201,
     "median_built_m2": 86,
     "villa_share_pct": 18,
     "median_beach_km": 2
@@ -281,7 +281,7 @@
     "n_listings": 22,
     "median_price_eur": 643650,
     "median_pm2_eur": 6155,
-    "p25_pm2_eur": 5623,
+    "p25_pm2_eur": 5711,
     "p75_pm2_eur": 6519,
     "median_built_m2": 101,
     "villa_share_pct": 100,
@@ -449,7 +449,7 @@
     "n_listings": 12,
     "median_price_eur": 377250,
     "median_pm2_eur": 5762,
-    "p25_pm2_eur": 5028,
+    "p25_pm2_eur": 5133,
     "p75_pm2_eur": 6057,
     "median_built_m2": 68,
     "villa_share_pct": 33,
@@ -516,18 +516,6 @@
     "median_beach_km": 2
   },
   {
-    "town": "Denia",
-    "costa": "Costa Blanca North",
-    "n_listings": 11,
-    "median_price_eur": 489000,
-    "median_pm2_eur": 6317,
-    "p25_pm2_eur": 5086,
-    "p75_pm2_eur": 6547,
-    "median_built_m2": 77,
-    "villa_share_pct": 9,
-    "median_beach_km": 0.5
-  },
-  {
     "town": "El Campello",
     "costa": "Costa Blanca North",
     "n_listings": 11,
@@ -564,10 +552,22 @@
     "median_beach_km": 0.5
   },
   {
+    "town": "Denia",
+    "costa": "Costa Blanca North",
+    "n_listings": 10,
+    "median_price_eur": 474500,
+    "median_pm2_eur": 5869,
+    "p25_pm2_eur": 5012,
+    "p75_pm2_eur": 6445,
+    "median_built_m2": 79,
+    "villa_share_pct": 10,
+    "median_beach_km": 0.5
+  },
+  {
     "town": "Dolores",
     "costa": "Costa Blanca South",
     "n_listings": 10,
-    "median_price_eur": 417450,
+    "median_price_eur": 419950,
     "median_pm2_eur": 3928,
     "p25_pm2_eur": 3832,
     "p75_pm2_eur": 4671,
