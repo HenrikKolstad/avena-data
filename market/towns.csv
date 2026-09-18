@@ -1,11 +1,11 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,219,705000,6550,5420,8911,103,14,1
+Estepona,Costa del Sol,215,720000,6688,5387,8983,104,14,1
 Mijas,Costa del Sol,196,565000,6644,5649,8201,86,18,2
 Torrevieja,Costa Blanca South,116,305000,5026,4267,5708,62,27,0.6
-Fuengirola,Costa del Sol,98,722500,7413,6252,9572,90,14,1.5
+Fuengirola,Costa del Sol,97,725000,7450,6249,9686,90,14,1.5
 Pilar de La Horadada,Costa Blanca South,92,364500,4725,4250,5520,79,74,2
 Los Alcazares,Costa Calida,87,399000,4726,4238,5506,85,39,0.9
-Marbella,Costa del Sol,86,1137500,8311,6571,12086,120,31,2
+Marbella,Costa del Sol,85,1125000,8288,6563,12114,119,32,2
 Finestrat,Costa Blanca North,69,580000,5736,5042,6690,106,55,3
 Torre Pacheco,Costa Calida,52,315400,4101,3671,4880,80,65,9
 Casares,Costa del Sol,51,565000,5962,5060,6989,97,6,1.8
@@ -18,7 +18,7 @@ Pinoso,Costa Blanca South - Inland,31,473500,3055,2791,3773,140,100,50
 Algorfa,Costa Blanca South,30,419000,4782,3396,5693,88,77,14
 Villajoyosa,Costa Blanca North,30,442500,6509,5618,7458,71,0,0.5
 San Miguel de Salinas,Costa Blanca South,28,292400,4131,3856,5018,73,71,9
-Málaga,Costa del Sol,27,980000,9699,6707,15351,91,19,0.9
+Málaga,Costa del Sol,27,980000,10260,6509,15351,91,19,0.9
 Rojales,Costa Blanca South,27,529000,4843,4105,6577,100,100,6
 Baños y Mendigo,Costa Calida,26,473750,4590,4042,5424,102,77,30
 Orihuela Costa,Costa Blanca South,23,699900,6400,4981,7469,140,83,0.7
@@ -52,10 +52,10 @@ Ciudad Quesada,Costa Blanca South,9,549000,4886,4495,5490,100,100,7
 Mazarron,Costa Calida - Inland,9,269900,2406,2170,2900,60,67,9
 Mutxamel,Costa Blanca North,9,399000,4968,4125,5471,80,33,6
 Aspe,Costa Blanca South - Inland,8,468975,3377,3299,3688,132,100,25.5
-Almuñecar,Costa Tropical,7,350000,5000,3594,5206,75,43,0.3
 Cox,Costa Blanca South - Inland,7,235000,3483,3343,3589,70,100,25
 Moraira_Teulada,Costa Blanca North,7,2175000,7967,7877,8938,273,100,2
 San Fulgencio,Costa Blanca South,7,316900,4158,3947,5311,85,100,7
+Almuñecar,Costa Tropical,6,361500,4987,2905,5020,80,50,0.3
 Bigastro,Costa Blanca South,6,207400,3112,2962,3280,64,33,25
 Monforte del Cid,Costa Blanca North - Inland,6,514900,4398,3469,5208,105,83,20
 Ojen,Costa del Sol,6,1017500,8468,8177,10691,120,17,5

@@ -3798,5 +3798,205 @@
     "change_pct": 5.02,
     "town": "El Verger",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8507",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 246000,
+    "new_price_eur": 265000,
+    "change_pct": 7.72,
+    "town": "Aguilas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8949",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 249000,
+    "new_price_eur": 225000,
+    "change_pct": -9.64,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9760",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 550000,
+    "new_price_eur": 650000,
+    "change_pct": 18.18,
+    "town": "Benijofar",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9812",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 270000,
+    "new_price_eur": 213000,
+    "change_pct": -21.11,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1151",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 499900,
+    "new_price_eur": 469900,
+    "change_pct": -6,
+    "town": "Orihuela",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1375",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 537000,
+    "new_price_eur": 489000,
+    "change_pct": -8.94,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1376",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 614000,
+    "new_price_eur": 613000,
+    "change_pct": -0.16,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1379",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 800000,
+    "new_price_eur": 765000,
+    "change_pct": -4.38,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1593",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 716000,
+    "new_price_eur": 595000,
+    "change_pct": -16.9,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1655",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 513000,
+    "new_price_eur": 549000,
+    "change_pct": 7.02,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1679",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 378495,
+    "new_price_eur": 319000,
+    "change_pct": -15.72,
+    "town": "Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1680",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 450450,
+    "new_price_eur": 387000,
+    "change_pct": -14.09,
+    "town": "Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1681",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 566280,
+    "new_price_eur": 449000,
+    "change_pct": -20.71,
+    "town": "Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1682",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 366795,
+    "new_price_eur": 299000,
+    "change_pct": -18.48,
+    "town": "Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1683",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 411840,
+    "new_price_eur": 349000,
+    "change_pct": -15.26,
+    "town": "Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1684",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 495495,
+    "new_price_eur": 399000,
+    "change_pct": -19.47,
+    "town": "Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1685",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 707850,
+    "new_price_eur": 749000,
+    "change_pct": 5.81,
+    "town": "Málaga",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1686",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 630630,
+    "new_price_eur": 649000,
+    "change_pct": 2.91,
+    "town": "Málaga",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1687",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 720720,
+    "new_price_eur": 763000,
+    "change_pct": 5.87,
+    "town": "Málaga",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1768",
+    "date": "2026-09-18",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 935000,
+    "new_price_eur": 965000,
+    "change_pct": 3.21,
+    "town": "Estepona",
+    "type": "Penthouse"
   }
 ]
