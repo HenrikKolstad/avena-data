@@ -3998,5 +3998,225 @@
     "change_pct": 3.21,
     "town": "Estepona",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N10009",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 339000,
+    "new_price_eur": 299000,
+    "change_pct": -11.8,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8058",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 709900,
+    "new_price_eur": 789900,
+    "change_pct": 11.27,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8214",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 352900,
+    "new_price_eur": 392900,
+    "change_pct": 11.33,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8215",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 402900,
+    "new_price_eur": 442900,
+    "change_pct": 9.93,
+    "town": "Finestrat",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8929",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 332900,
+    "new_price_eur": 362900,
+    "change_pct": 9.01,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8930",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 372900,
+    "new_price_eur": 402900,
+    "change_pct": 8.05,
+    "town": "Finestrat",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9066",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 322900,
+    "new_price_eur": 352900,
+    "change_pct": 9.29,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9535",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 268900,
+    "new_price_eur": 279900,
+    "change_pct": 4.09,
+    "town": "San Javier",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1115",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 657900,
+    "new_price_eur": 595700,
+    "change_pct": -9.45,
+    "town": "Casares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1524",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 413000,
+    "new_price_eur": 389000,
+    "change_pct": -5.81,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1526",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 389000,
+    "new_price_eur": 376000,
+    "change_pct": -3.34,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1527",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 480000,
+    "new_price_eur": 438000,
+    "change_pct": -8.75,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1530",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 429420,
+    "new_price_eur": 438000,
+    "change_pct": 2,
+    "town": "Vélez Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1531",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 295575,
+    "new_price_eur": 290900,
+    "change_pct": -1.58,
+    "town": "Vélez Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1532",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 375900,
+    "new_price_eur": 390900,
+    "change_pct": 3.99,
+    "town": "Vélez Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1533",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 496080,
+    "new_price_eur": 516000,
+    "change_pct": 4.02,
+    "town": "Vélez Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1534",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 558800,
+    "new_price_eur": 570000,
+    "change_pct": 2,
+    "town": "Vélez Málaga",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1535",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 744640,
+    "new_price_eur": 759500,
+    "change_pct": 2,
+    "town": "Vélez Málaga",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1623",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 336000,
+    "new_price_eur": 340000,
+    "change_pct": 1.19,
+    "town": "Torre Pacheco",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1713",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 773000,
+    "new_price_eur": 861000,
+    "change_pct": 11.38,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1727",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 390600,
+    "new_price_eur": 395600,
+    "change_pct": 1.28,
+    "town": "Benalmádena",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1805",
+    "date": "2026-09-19",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 532000,
+    "new_price_eur": 542500,
+    "change_pct": 1.97,
+    "town": "Vélez Málaga",
+    "type": "Apartment"
   }
 ]

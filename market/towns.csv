@@ -1,12 +1,12 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,215,720000,6688,5387,8983,104,14,1
-Mijas,Costa del Sol,196,565000,6644,5649,8201,86,18,2
+Estepona,Costa del Sol,214,722000,6635,5383,8930,104,14,1
+Mijas,Costa del Sol,195,565000,6650,5596,8226,86,18,2
 Torrevieja,Costa Blanca South,116,305000,5026,4267,5708,62,27,0.6
 Fuengirola,Costa del Sol,97,725000,7450,6249,9686,90,14,1.5
-Pilar de La Horadada,Costa Blanca South,92,364500,4725,4250,5520,79,74,2
+Pilar de La Horadada,Costa Blanca South,93,365000,4727,4250,5533,80,74,2
 Los Alcazares,Costa Calida,87,399000,4726,4238,5506,85,39,0.9
 Marbella,Costa del Sol,85,1125000,8288,6563,12114,119,32,2
-Finestrat,Costa Blanca North,69,580000,5736,5042,6690,106,55,3
+Finestrat,Costa Blanca North,69,580000,5843,5042,6715,106,55,3
 Torre Pacheco,Costa Calida,52,315400,4101,3671,4880,80,65,9
 Casares,Costa del Sol,51,565000,5962,5060,6989,97,6,1.8
 San Pedro del Pinatar,Costa Calida,50,293500,4305,3906,5115,69,48,1
@@ -28,9 +28,10 @@ Torremolinos,Costa del Sol,21,625000,7370,6111,8460,88,5,0.7
 Calpe,Costa Blanca North,20,700000,8345,5632,9938,107,25,0.4
 San Javier,Costa Calida,17,380000,4714,3899,6166,80,82,2.5
 San Roque,Costa del Sol (Cadiz),16,598250,5776,5248,7708,96,0,1.5
-Alicante,Costa Blanca North,14,292450,4573,4360,4877,65,0,3
+Jávea Xàbia,Costa Blanca North,14,632500,6731,6170,8444,105,36,0.8
+Vélez Málaga,Costa del Sol,14,436500,5468,4648,6093,82,21,0.3
+Alicante,Costa Blanca North,13,295000,4568,4323,4770,66,0,3
 Fuente Álamo,Costa Calida - Inland,13,379845,3825,3063,5000,100,85,23
-Jávea Xàbia,Costa Blanca North,13,647000,7137,6178,8542,108,38,0.8
 la Nucia,Costa Blanca North,13,449427,5635,4871,6161,73,31,7
 Orihuela,Costa Blanca South,13,395000,4590,4389,5453,90,100,14
 rincon de la victoria,Costa del Sol,13,424000,5740,5205,6505,73,8,3.5
@@ -40,7 +41,6 @@ El Verger,Costa Blanca North,12,377250,5762,5133,6057,68,33,0.7
 Hondón de las Nieves,Costa Blanca South - Inland,12,287500,3501,2921,3732,87,25,37
 La Linea De La Concepcion,Costa del Sol (Cadiz),12,503000,6751,5963,9320,79,8,0.1
 La Manga Club,Costa Calida,12,450000,4722,4389,5396,95,58,2.5
-Vélez Málaga,Costa del Sol,12,432210,5140,4553,5891,90,25,0.3
 Benissa,Costa Blanca North,11,2600000,9828,7832,11568,250,100,2
 El Campello,Costa Blanca North,11,595000,6359,5345,7567,95,64,0
 San Pedro De Alcantara,Costa del Sol,11,723800,9716,7368,11511,103,0,1.2

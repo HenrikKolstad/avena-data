@@ -1530,8 +1530,8 @@
     "last_price_eur": 370000,
     "last_pm2_eur": 6167,
     "last_seen_date": "2026-09-05",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-19",
+    "still_listed": true
   },
   {
     "avn_id": "SP0473",
@@ -1634,8 +1634,8 @@
     "last_price_eur": 295575,
     "last_pm2_eur": 6718,
     "last_seen_date": "2026-09-05",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-19",
+    "still_listed": true
   },
   {
     "avn_id": "SP1534",
@@ -1647,8 +1647,8 @@
     "last_price_eur": 558800,
     "last_pm2_eur": 7761,
     "last_seen_date": "2026-09-05",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-09-19",
+    "still_listed": true
   },
   {
     "avn_id": "SP1553",
@@ -2128,6 +2128,45 @@
     "last_price_eur": 1350000,
     "last_pm2_eur": 10800,
     "last_seen_date": "2026-09-18",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8621",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 49,
+    "last_price_eur": 487700,
+    "last_pm2_eur": 9953,
+    "last_seen_date": "2026-09-19",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0936",
+    "town": "Alicante",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 52,
+    "last_price_eur": 255500,
+    "last_pm2_eur": 4913,
+    "last_seen_date": "2026-09-19",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1525",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 82,
+    "last_price_eur": 506000,
+    "last_pm2_eur": 6171,
+    "last_seen_date": "2026-09-19",
     "relisted_on": null,
     "still_listed": false
   }
