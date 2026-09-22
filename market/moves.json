@@ -4218,5 +4218,245 @@
     "change_pct": 1.97,
     "town": "Vélez Málaga",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N10003",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 595000,
+    "new_price_eur": 585000,
+    "change_pct": -1.68,
+    "town": "El Campello",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N10004",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 680000,
+    "new_price_eur": 550000,
+    "change_pct": -19.12,
+    "town": "El Campello",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N10009",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 299000,
+    "new_price_eur": 309000,
+    "change_pct": 3.34,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N6063",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 410000,
+    "new_price_eur": 420000,
+    "change_pct": 2.44,
+    "town": "Gran Alacant",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8153",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 307000,
+    "new_price_eur": 373000,
+    "change_pct": 21.5,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8227",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 550000,
+    "new_price_eur": 559000,
+    "change_pct": 1.64,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8557",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 660000,
+    "new_price_eur": 680000,
+    "change_pct": 3.03,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8616",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 176157,
+    "new_price_eur": 180250,
+    "change_pct": 2.32,
+    "town": "Fuente Álamo",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8937",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 343000,
+    "new_price_eur": 396000,
+    "change_pct": 15.45,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8938",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 269000,
+    "new_price_eur": 322000,
+    "change_pct": 19.7,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8940",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 558000,
+    "new_price_eur": 526000,
+    "change_pct": -5.73,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9042",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 435000,
+    "new_price_eur": 490000,
+    "change_pct": 12.64,
+    "town": "Vélez Málaga",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9127",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 399000,
+    "new_price_eur": 419000,
+    "change_pct": 5.01,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9257",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 350000,
+    "new_price_eur": 360000,
+    "change_pct": 2.86,
+    "town": "Gran Alacant",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9307",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 425000,
+    "new_price_eur": 382000,
+    "change_pct": -10.12,
+    "town": "Los Alcazares",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9425",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 440000,
+    "new_price_eur": 420000,
+    "change_pct": -4.55,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9640",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 299000,
+    "new_price_eur": 309000,
+    "change_pct": 3.34,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9743",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 390000,
+    "new_price_eur": 375000,
+    "change_pct": -3.85,
+    "town": "Manilva",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9744",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 520000,
+    "new_price_eur": 499000,
+    "change_pct": -4.04,
+    "town": "Manilva",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9746",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 540000,
+    "new_price_eur": 545000,
+    "change_pct": 0.93,
+    "town": "Manilva",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9747",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 530000,
+    "new_price_eur": 540000,
+    "change_pct": 1.89,
+    "town": "Manilva",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9748",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 625000,
+    "new_price_eur": 626000,
+    "change_pct": 0.16,
+    "town": "Manilva",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9876",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 537000,
+    "new_price_eur": 737000,
+    "change_pct": 37.24,
+    "town": "El Campello",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1270",
+    "date": "2026-09-22",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 1363500,
+    "new_price_eur": 1410500,
+    "change_pct": 3.45,
+    "town": "Torremolinos",
+    "type": "Apartment"
   }
 ]

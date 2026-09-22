@@ -2,11 +2,11 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 214,
-    "median_price_eur": 722000,
-    "median_pm2_eur": 6635,
-    "p25_pm2_eur": 5383,
-    "p75_pm2_eur": 8930,
+    "n_listings": 213,
+    "median_price_eur": 724000,
+    "median_pm2_eur": 6688,
+    "p25_pm2_eur": 5393,
+    "p75_pm2_eur": 8950,
     "median_built_m2": 104,
     "villa_share_pct": 14,
     "median_beach_km": 1
@@ -63,8 +63,8 @@
     "town": "Los Alcazares",
     "costa": "Costa Calida",
     "n_listings": 87,
-    "median_price_eur": 399000,
-    "median_pm2_eur": 4726,
+    "median_price_eur": 397650,
+    "median_pm2_eur": 4754,
     "p25_pm2_eur": 4238,
     "p75_pm2_eur": 5506,
     "median_built_m2": 85,
@@ -159,7 +159,7 @@
     "town": "Manilva",
     "costa": "Costa del Sol",
     "n_listings": 37,
-    "median_price_eur": 520000,
+    "median_price_eur": 499000,
     "median_pm2_eur": 6080,
     "p25_pm2_eur": 4374,
     "p75_pm2_eur": 8085,
@@ -360,18 +360,6 @@
     "median_beach_km": 0.8
   },
   {
-    "town": "Vélez Málaga",
-    "costa": "Costa del Sol",
-    "n_listings": 14,
-    "median_price_eur": 436500,
-    "median_pm2_eur": 5468,
-    "p25_pm2_eur": 4648,
-    "p75_pm2_eur": 6093,
-    "median_built_m2": 82,
-    "villa_share_pct": 21,
-    "median_beach_km": 0.3
-  },
-  {
     "town": "Alicante",
     "costa": "Costa Blanca North",
     "n_listings": 13,
@@ -430,6 +418,18 @@
     "median_built_m2": 73,
     "villa_share_pct": 8,
     "median_beach_km": 3.5
+  },
+  {
+    "town": "Vélez Málaga",
+    "costa": "Costa del Sol",
+    "n_listings": 13,
+    "median_price_eur": 438000,
+    "median_pm2_eur": 5320,
+    "p25_pm2_eur": 4854,
+    "p75_pm2_eur": 6108,
+    "median_built_m2": 78,
+    "villa_share_pct": 15,
+    "median_beach_km": 0.3
   },
   {
     "town": "Aguilas",
@@ -519,10 +519,10 @@
     "town": "El Campello",
     "costa": "Costa Blanca North",
     "n_listings": 11,
-    "median_price_eur": 595000,
-    "median_pm2_eur": 6359,
-    "p25_pm2_eur": 5345,
-    "p75_pm2_eur": 7567,
+    "median_price_eur": 585000,
+    "median_pm2_eur": 6462,
+    "p25_pm2_eur": 5323,
+    "p75_pm2_eur": 7932,
     "median_built_m2": 95,
     "villa_share_pct": 64,
     "median_beach_km": 0
@@ -754,18 +754,6 @@
     "median_built_m2": 75,
     "villa_share_pct": 0,
     "median_beach_km": 15
-  },
-  {
-    "town": "Daya Nueva",
-    "costa": "Costa Blanca South",
-    "n_listings": 5,
-    "median_price_eur": 389000,
-    "median_pm2_eur": 4086,
-    "p25_pm2_eur": 3963,
-    "p75_pm2_eur": 4209,
-    "median_built_m2": 93,
-    "villa_share_pct": 100,
-    "median_beach_km": 13
   },
   {
     "town": "La Marina",

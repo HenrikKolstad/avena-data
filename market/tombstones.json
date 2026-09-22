@@ -2169,5 +2169,44 @@
     "last_seen_date": "2026-09-19",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N6777",
+    "town": "Daya Nueva",
+    "region": "cb-south",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 80,
+    "last_price_eur": 317000,
+    "last_pm2_eur": 3963,
+    "last_seen_date": "2026-09-22",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8155",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 129,
+    "last_price_eur": 662000,
+    "last_pm2_eur": 5132,
+    "last_seen_date": "2026-09-22",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9781",
+    "town": "Vélez Málaga",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 4,
+    "built_m2": 105,
+    "last_price_eur": 635000,
+    "last_pm2_eur": 6048,
+    "last_seen_date": "2026-09-22",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]
