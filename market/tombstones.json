@@ -2208,5 +2208,18 @@
     "last_seen_date": "2026-09-22",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N9799",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": 1,
+    "built_m2": 45,
+    "last_price_eur": 320000,
+    "last_pm2_eur": 7111,
+    "last_seen_date": "2026-09-23",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]
