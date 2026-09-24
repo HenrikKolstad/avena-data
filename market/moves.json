@@ -4458,5 +4458,295 @@
     "change_pct": 3.45,
     "town": "Torremolinos",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N7284",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 233000,
+    "new_price_eur": 253000,
+    "change_pct": 8.58,
+    "town": "Torre Pacheco",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7397",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 519000,
+    "new_price_eur": 507000,
+    "change_pct": -2.31,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7398",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 449000,
+    "new_price_eur": 414000,
+    "change_pct": -7.8,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7399",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 575000,
+    "new_price_eur": 534000,
+    "change_pct": -7.13,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7631",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 755000,
+    "new_price_eur": 549000,
+    "change_pct": -27.28,
+    "town": "Sotogrande",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8777",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 275000,
+    "new_price_eur": 220000,
+    "change_pct": -20,
+    "town": "Hondón de las Nieves",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8792",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 308900,
+    "new_price_eur": 309900,
+    "change_pct": 0.32,
+    "town": "San Fulgencio",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8794",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 316900,
+    "new_price_eur": 319900,
+    "change_pct": 0.95,
+    "town": "San Fulgencio",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8842",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 648650,
+    "new_price_eur": 658650,
+    "change_pct": 1.54,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9001",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 545000,
+    "new_price_eur": 495000,
+    "change_pct": -9.17,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9002",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 638000,
+    "new_price_eur": 595000,
+    "change_pct": -6.74,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9023",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 638650,
+    "new_price_eur": 650650,
+    "change_pct": 1.88,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0664",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-11",
+    "prev_price_eur": 397000,
+    "new_price_eur": 368000,
+    "change_pct": -7.3,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1475",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 277300,
+    "new_price_eur": 265700,
+    "change_pct": -4.18,
+    "town": "Vélez Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1477",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 271800,
+    "new_price_eur": 273000,
+    "change_pct": 0.44,
+    "town": "Vélez Málaga",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1484",
+    "date": "2026-09-24",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 525000,
+    "new_price_eur": 650000,
+    "change_pct": 23.81,
+    "town": "Jávea Xàbia",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1649",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 300500,
+    "new_price_eur": 302500,
+    "change_pct": 0.67,
+    "town": "Alicante",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1731",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 360000,
+    "new_price_eur": 385000,
+    "change_pct": 6.94,
+    "town": "Baños y Mendigo",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1732",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 315000,
+    "new_price_eur": 335000,
+    "change_pct": 6.35,
+    "town": "Baños y Mendigo",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1733",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 375000,
+    "new_price_eur": 370000,
+    "change_pct": -1.33,
+    "town": "Baños y Mendigo",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1734",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 410000,
+    "new_price_eur": 465000,
+    "change_pct": 13.41,
+    "town": "Baños y Mendigo",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1735",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 475000,
+    "new_price_eur": 525000,
+    "change_pct": 10.53,
+    "town": "Baños y Mendigo",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1736",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 650000,
+    "new_price_eur": 640000,
+    "change_pct": -1.54,
+    "town": "Baños y Mendigo",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1737",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 680000,
+    "new_price_eur": 700000,
+    "change_pct": 2.94,
+    "town": "Baños y Mendigo",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1779",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 505200,
+    "new_price_eur": 556500,
+    "change_pct": 10.15,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1781",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 482400,
+    "new_price_eur": 496200,
+    "change_pct": 2.86,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1782",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 556500,
+    "new_price_eur": 618700,
+    "change_pct": 11.18,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1785",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-08",
+    "prev_price_eur": 884400,
+    "new_price_eur": 844100,
+    "change_pct": -4.56,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1788",
+    "date": "2026-09-24",
+    "prev_date": "2026-09-23",
+    "prev_price_eur": 646600,
+    "new_price_eur": 670100,
+    "change_pct": 3.63,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]
