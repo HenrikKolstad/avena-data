@@ -4748,5 +4748,165 @@
     "change_pct": 3.63,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N6846",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 539000,
+    "new_price_eur": 499000,
+    "change_pct": -7.42,
+    "town": "Torrevieja",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8027",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 330000,
+    "new_price_eur": 350000,
+    "change_pct": 6.06,
+    "town": "El Verger",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8028",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 423500,
+    "new_price_eur": 438500,
+    "change_pct": 3.54,
+    "town": "El Verger",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8076",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 405000,
+    "new_price_eur": 415000,
+    "change_pct": 2.47,
+    "town": "Aguilas",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8518",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 324900,
+    "new_price_eur": 344900,
+    "change_pct": 6.16,
+    "town": "Torre Pacheco",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8543",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 588000,
+    "new_price_eur": 649000,
+    "change_pct": 10.37,
+    "town": "Ciudad Quesada",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8639",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 315000,
+    "new_price_eur": 325000,
+    "change_pct": 3.17,
+    "town": "Orihuela",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9083",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 425000,
+    "new_price_eur": 415000,
+    "change_pct": -2.35,
+    "town": "Dolores",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9139",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 262900,
+    "new_price_eur": 256600,
+    "change_pct": -2.4,
+    "town": "San Miguel de Salinas",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9141",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 272152,
+    "new_price_eur": 265852,
+    "change_pct": -2.31,
+    "town": "San Miguel de Salinas",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP0148",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 863690,
+    "new_price_eur": 867527,
+    "change_pct": 0.44,
+    "town": "Rojales",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0766",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 1616016,
+    "new_price_eur": 1850250,
+    "change_pct": 14.49,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0840",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 395000,
+    "new_price_eur": 366000,
+    "change_pct": -7.34,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1282",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 1199900,
+    "new_price_eur": 1299900,
+    "change_pct": 8.33,
+    "town": "Fuengirola",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1316",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 327695,
+    "new_price_eur": 328700,
+    "change_pct": 0.31,
+    "town": "Rojales",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1657",
+    "date": "2026-09-25",
+    "prev_date": "2026-09-24",
+    "prev_price_eur": 296750,
+    "new_price_eur": 286200,
+    "change_pct": -3.56,
+    "town": "Villajoyosa",
+    "type": "Apartment"
   }
 ]

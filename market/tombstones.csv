@@ -100,7 +100,7 @@ N9030,San Fulgencio,cb-south,Villa,3,79,365000,4620,2026-09-02,,false
 N9552,Torre Pacheco,costa-calida,Townhouse,2,70,279900,3999,2026-09-02,,false
 N9652,Estepona,costa-del-sol,Apartment,3,101,699000,6921,2026-09-02,,false
 N9772,San Pedro del Pinatar,costa-calida,Apartment,2,65,277400,4268,2026-09-02,,false
-N9773,San Pedro del Pinatar,costa-calida,Penthouse,2,65,282400,4345,2026-09-02,,false
+N9773,San Pedro del Pinatar,costa-calida,Penthouse,2,65,282400,4345,2026-09-02,2026-09-25,true
 N9895,Santa Pola,cb-south,Penthouse,2,60,365000,6083,2026-09-02,,false
 N9959,Torrevieja,cb-south,Apartment,1,43,160000,3721,2026-09-02,,false
 SP1467,Marbella,costa-del-sol,Apartment,2,125,698000,5584,2026-09-02,,false
@@ -190,3 +190,11 @@ N9642,Los Alcazares,costa-calida,Penthouse,2,65,394000,6062,2026-09-24,,false
 N9643,Los Alcazares,costa-calida,Penthouse,3,80,409000,5113,2026-09-24,,false
 SP0059,Jávea Xàbia,cb-north,Apartment,3,76,385500,5072,2026-09-24,,false
 SP1073,Marbella,costa-del-sol,Bungalow,2,124,1250000,10081,2026-09-24,,false
+N7369,Orihuela Costa,cb-south,Villa,3,140,669900,4785,2026-09-25,,false
+N9578,Finestrat,cb-north,Villa,3,120,849000,7075,2026-09-25,,false
+N9579,Finestrat,cb-north,Villa,4,147,849000,5776,2026-09-25,,false
+N9580,Finestrat,cb-north,Villa,4,148,849000,5736,2026-09-25,,false
+N9581,Finestrat,cb-north,Villa,4,136,849000,6243,2026-09-25,,false
+N9721,Torre Pacheco,costa-calida,Townhouse,2,70,299900,4284,2026-09-25,,false
+SP0160,Rojales,cb-south,Villa,3,112,871162,7778,2026-09-25,,false
+SP1101,Mijas,costa-del-sol,Apartment,3,86,461000,5360,2026-09-25,,false
