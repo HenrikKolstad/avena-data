@@ -4908,5 +4908,195 @@
     "change_pct": -3.56,
     "town": "Villajoyosa",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N7708",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 410000,
+    "new_price_eur": 420000,
+    "change_pct": 2.44,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7709",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 450000,
+    "new_price_eur": 460000,
+    "change_pct": 2.22,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7710",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 465000,
+    "new_price_eur": 475000,
+    "change_pct": 2.15,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7711",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 455000,
+    "new_price_eur": 465000,
+    "change_pct": 2.2,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7712",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 520000,
+    "new_price_eur": 530000,
+    "change_pct": 1.92,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7713",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 580000,
+    "new_price_eur": 590000,
+    "change_pct": 1.72,
+    "town": "Marbella",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7979",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 253000,
+    "new_price_eur": 263000,
+    "change_pct": 3.95,
+    "town": "Benijofar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7980",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 263000,
+    "new_price_eur": 273000,
+    "change_pct": 3.8,
+    "town": "Benijofar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7981",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 354000,
+    "new_price_eur": 364000,
+    "change_pct": 2.82,
+    "town": "Benijofar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7982",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 441000,
+    "new_price_eur": 451000,
+    "change_pct": 2.27,
+    "town": "Benijofar",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8128",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 265000,
+    "new_price_eur": 320000,
+    "change_pct": 20.75,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8374",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 369000,
+    "new_price_eur": 389000,
+    "change_pct": 5.42,
+    "town": "San Javier",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8834",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 462900,
+    "new_price_eur": 485900,
+    "change_pct": 4.97,
+    "town": "Pilar de La Horadada",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9175",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 510000,
+    "new_price_eur": 470000,
+    "change_pct": -7.84,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9176",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 578000,
+    "new_price_eur": 540000,
+    "change_pct": -6.57,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9178",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 538000,
+    "new_price_eur": 500000,
+    "change_pct": -7.06,
+    "town": "Marbella",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0351",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 1595000,
+    "new_price_eur": 1095000,
+    "change_pct": -31.35,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0504",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 1324000,
+    "new_price_eur": 905000,
+    "change_pct": -31.65,
+    "town": "Mijas",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1609",
+    "date": "2026-09-26",
+    "prev_date": "2026-09-25",
+    "prev_price_eur": 950000,
+    "new_price_eur": 1235000,
+    "change_pct": 30,
+    "town": "Fuengirola",
+    "type": "Townhouse"
   }
 ]
