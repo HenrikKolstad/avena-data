@@ -2,11 +2,11 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 216,
-    "median_price_eur": 702500,
-    "median_pm2_eur": 6566,
-    "p25_pm2_eur": 5361,
-    "p75_pm2_eur": 8841,
+    "n_listings": 220,
+    "median_price_eur": 722000,
+    "median_pm2_eur": 6701,
+    "p25_pm2_eur": 5362,
+    "p75_pm2_eur": 9016,
     "median_built_m2": 103,
     "villa_share_pct": 14,
     "median_beach_km": 1
