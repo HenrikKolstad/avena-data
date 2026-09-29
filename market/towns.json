@@ -15,10 +15,10 @@
     "town": "Mijas",
     "costa": "Costa del Sol",
     "n_listings": 194,
-    "median_price_eur": 567700,
-    "median_pm2_eur": 6654,
+    "median_price_eur": 569350,
+    "median_pm2_eur": 6698,
     "p25_pm2_eur": 5591,
-    "p75_pm2_eur": 8250,
+    "p75_pm2_eur": 8277,
     "median_built_m2": 87,
     "villa_share_pct": 18,
     "median_beach_km": 2
@@ -26,13 +26,13 @@
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 115,
+    "n_listings": 114,
     "median_price_eur": 305000,
-    "median_pm2_eur": 4983,
-    "p25_pm2_eur": 4319,
-    "p75_pm2_eur": 5694,
-    "median_built_m2": 61,
-    "villa_share_pct": 27,
+    "median_pm2_eur": 4981,
+    "p25_pm2_eur": 4309,
+    "p75_pm2_eur": 5697,
+    "median_built_m2": 62,
+    "villa_share_pct": 25,
     "median_beach_km": 0.6
   },
   {
@@ -50,11 +50,11 @@
   {
     "town": "Pilar de La Horadada",
     "costa": "Costa Blanca South",
-    "n_listings": 90,
-    "median_price_eur": 367000,
-    "median_pm2_eur": 4867,
-    "p25_pm2_eur": 4325,
-    "p75_pm2_eur": 5594,
+    "n_listings": 89,
+    "median_price_eur": 365000,
+    "median_pm2_eur": 4874,
+    "p25_pm2_eur": 4347,
+    "p75_pm2_eur": 5614,
     "median_built_m2": 77,
     "villa_share_pct": 73,
     "median_beach_km": 2
@@ -74,11 +74,11 @@
   {
     "town": "Los Alcazares",
     "costa": "Costa Calida",
-    "n_listings": 78,
-    "median_price_eur": 398325,
-    "median_pm2_eur": 4705,
+    "n_listings": 77,
+    "median_price_eur": 399000,
+    "median_pm2_eur": 4684,
     "p25_pm2_eur": 4238,
-    "p75_pm2_eur": 5514,
+    "p75_pm2_eur": 5523,
     "median_built_m2": 85,
     "villa_share_pct": 40,
     "median_beach_km": 0.9
@@ -180,39 +180,39 @@
     "median_beach_km": 5.75
   },
   {
-    "town": "Pinoso",
-    "costa": "Costa Blanca South - Inland",
-    "n_listings": 31,
-    "median_price_eur": 473500,
-    "median_pm2_eur": 3055,
-    "p25_pm2_eur": 2791,
-    "p75_pm2_eur": 3773,
-    "median_built_m2": 140,
-    "villa_share_pct": 100,
-    "median_beach_km": 50
-  },
-  {
     "town": "Villajoyosa",
     "costa": "Costa Blanca North",
     "n_listings": 31,
     "median_price_eur": 440000,
     "median_pm2_eur": 6350,
-    "p25_pm2_eur": 5655,
+    "p25_pm2_eur": 5645,
     "p75_pm2_eur": 7417,
     "median_built_m2": 70,
     "villa_share_pct": 0,
     "median_beach_km": 0.5
   },
   {
+    "town": "Pinoso",
+    "costa": "Costa Blanca South - Inland",
+    "n_listings": 30,
+    "median_price_eur": 473500,
+    "median_pm2_eur": 3065,
+    "p25_pm2_eur": 2809,
+    "p75_pm2_eur": 3784,
+    "median_built_m2": 140,
+    "villa_share_pct": 100,
+    "median_beach_km": 50
+  },
+  {
     "town": "Algorfa",
     "costa": "Costa Blanca South",
-    "n_listings": 30,
-    "median_price_eur": 419000,
-    "median_pm2_eur": 4782,
-    "p25_pm2_eur": 3396,
-    "p75_pm2_eur": 5693,
-    "median_built_m2": 88,
-    "villa_share_pct": 77,
+    "n_listings": 29,
+    "median_price_eur": 473000,
+    "median_pm2_eur": 4823,
+    "p25_pm2_eur": 3383,
+    "p75_pm2_eur": 5767,
+    "median_built_m2": 90,
+    "villa_share_pct": 76,
     "median_beach_km": 14
   },
   {
@@ -303,9 +303,9 @@
     "town": "Torremolinos",
     "costa": "Costa del Sol",
     "n_listings": 21,
-    "median_price_eur": 625000,
-    "median_pm2_eur": 7370,
-    "p25_pm2_eur": 6111,
+    "median_price_eur": 675000,
+    "median_pm2_eur": 7796,
+    "p25_pm2_eur": 6344,
     "p75_pm2_eur": 8460,
     "median_built_m2": 88,
     "villa_share_pct": 5,
@@ -510,7 +510,7 @@
     "median_price_eur": 2600000,
     "median_pm2_eur": 9828,
     "p25_pm2_eur": 7832,
-    "p75_pm2_eur": 11568,
+    "p75_pm2_eur": 10943,
     "median_built_m2": 250,
     "villa_share_pct": 100,
     "median_beach_km": 2
@@ -526,18 +526,6 @@
     "median_built_m2": 95,
     "villa_share_pct": 64,
     "median_beach_km": 0
-  },
-  {
-    "town": "San Pedro De Alcantara",
-    "costa": "Costa del Sol",
-    "n_listings": 11,
-    "median_price_eur": 723800,
-    "median_pm2_eur": 9716,
-    "p25_pm2_eur": 7368,
-    "p75_pm2_eur": 11511,
-    "median_built_m2": 103,
-    "villa_share_pct": 0,
-    "median_beach_km": 1.2
   },
   {
     "town": "Cartagena",
@@ -588,6 +576,18 @@
     "median_beach_km": 0.1
   },
   {
+    "town": "San Pedro De Alcantara",
+    "costa": "Costa del Sol",
+    "n_listings": 10,
+    "median_price_eur": 710825,
+    "median_pm2_eur": 9056,
+    "p25_pm2_eur": 7299,
+    "p75_pm2_eur": 10936,
+    "median_built_m2": 103,
+    "villa_share_pct": 0,
+    "median_beach_km": 1.2
+  },
+  {
     "town": "Ciudad Quesada",
     "costa": "Costa Blanca South",
     "n_listings": 9,
@@ -626,14 +626,14 @@
   {
     "town": "Aspe",
     "costa": "Costa Blanca South - Inland",
-    "n_listings": 8,
-    "median_price_eur": 468975,
-    "median_pm2_eur": 3377,
-    "p25_pm2_eur": 3299,
-    "p75_pm2_eur": 3688,
-    "median_built_m2": 132,
+    "n_listings": 7,
+    "median_price_eur": 469950,
+    "median_pm2_eur": 3386,
+    "p25_pm2_eur": 3343,
+    "p75_pm2_eur": 3763,
+    "median_built_m2": 139,
     "villa_share_pct": 100,
-    "median_beach_km": 25.5
+    "median_beach_km": 25
   },
   {
     "town": "Cox",
@@ -694,18 +694,6 @@
     "median_built_m2": 64,
     "villa_share_pct": 33,
     "median_beach_km": 25
-  },
-  {
-    "town": "Monforte del Cid",
-    "costa": "Costa Blanca North - Inland",
-    "n_listings": 6,
-    "median_price_eur": 514900,
-    "median_pm2_eur": 4398,
-    "p25_pm2_eur": 3469,
-    "p75_pm2_eur": 5208,
-    "median_built_m2": 105,
-    "villa_share_pct": 83,
-    "median_beach_km": 20
   },
   {
     "town": "Ojen",
@@ -778,6 +766,18 @@
     "median_built_m2": 100,
     "villa_share_pct": 100,
     "median_beach_km": 9
+  },
+  {
+    "town": "Monforte del Cid",
+    "costa": "Costa Blanca North - Inland",
+    "n_listings": 5,
+    "median_price_eur": 529900,
+    "median_pm2_eur": 5047,
+    "p25_pm2_eur": 3749,
+    "p75_pm2_eur": 5262,
+    "median_built_m2": 105,
+    "villa_share_pct": 100,
+    "median_beach_km": 20
   },
   {
     "town": "Puerto de Mazarron",

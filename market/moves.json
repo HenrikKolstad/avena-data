@@ -5098,5 +5098,185 @@
     "change_pct": 30,
     "town": "Fuengirola",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N3672",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 1390000,
+    "new_price_eur": 1395000,
+    "change_pct": 0.36,
+    "town": "Orihuela Costa",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8901",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 415950,
+    "new_price_eur": 419950,
+    "change_pct": 0.96,
+    "town": "Torre Pacheco",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8949",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 225000,
+    "new_price_eur": 249000,
+    "change_pct": 10.67,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9081",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 2175000,
+    "new_price_eur": 1950000,
+    "change_pct": -10.34,
+    "town": "Benissa",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9229",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 468000,
+    "new_price_eur": 469500,
+    "change_pct": 0.32,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9366",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 425000,
+    "new_price_eur": 430000,
+    "change_pct": 1.18,
+    "town": "Finestrat",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9783",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 429500,
+    "new_price_eur": 430000,
+    "change_pct": 0.12,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9784",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 508000,
+    "new_price_eur": 485000,
+    "change_pct": -4.53,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9824",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 355256,
+    "new_price_eur": 358184,
+    "change_pct": 0.82,
+    "town": "Lorca",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9924",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 183000,
+    "new_price_eur": 179000,
+    "change_pct": -2.19,
+    "town": "Torrevieja",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0834",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 563000,
+    "new_price_eur": 787000,
+    "change_pct": 39.79,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0835",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 655000,
+    "new_price_eur": 675000,
+    "change_pct": 3.05,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1406",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 663000,
+    "new_price_eur": 697850,
+    "change_pct": 5.26,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1417",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 1059000,
+    "new_price_eur": 1458250,
+    "change_pct": 37.7,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1748",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 695000,
+    "new_price_eur": 705000,
+    "change_pct": 1.44,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1749",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 795000,
+    "new_price_eur": 805000,
+    "change_pct": 1.26,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1750",
+    "date": "2026-09-29",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 798000,
+    "new_price_eur": 910000,
+    "change_pct": 14.04,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1751",
+    "date": "2026-09-29",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 1050000,
+    "new_price_eur": 1090000,
+    "change_pct": 3.81,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]

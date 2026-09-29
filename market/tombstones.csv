@@ -48,7 +48,7 @@ N8966,Los Alcazares,costa-calida,Apartment,2,75,279000,3720,2026-08-14,,false
 N8967,Los Alcazares,costa-calida,Apartment,3,90,359000,3989,2026-08-14,2026-09-11,true
 SP0788,Estepona,costa-del-sol,Apartment,2,133,799000,6008,2026-08-14,,false
 SP1409,San Pedro De Alcantara,costa-del-sol,Penthouse,3,109,830000,7615,2026-08-14,,false
-SP1750,Mijas,costa-del-sol,Apartment,2,91,798000,8769,2026-08-14,,false
+SP1750,Mijas,costa-del-sol,Apartment,2,91,798000,8769,2026-08-14,2026-09-29,true
 N7843,Torrevieja,cb-south,Apartment,2,68,275000,4044,2026-08-15,,false
 N9227,Mijas,costa-del-sol,Apartment,3,85,749400,8816,2026-08-15,,false
 N9283,Mijas,costa-del-sol,Apartment,4,148,1200000,8108,2026-08-15,,false
@@ -91,7 +91,7 @@ SP1843,Benitachell,cb-north,Villa,4,180,2891000,16061,2026-08-29,,false
 SP1844,Benitachell,cb-north,Villa,3,190,2350000,12368,2026-08-29,,false
 SP1845,Benitachell,cb-north,Villa,4,195,2600000,13333,2026-08-29,,false
 N9819,Algorfa,cb-south,Villa,3,100,489000,4890,2026-08-31,,false
-N9927,Torrevieja,cb-south,Penthouse,2,55,320000,5818,2026-08-31,,false
+N9927,Torrevieja,cb-south,Penthouse,2,55,320000,5818,2026-08-31,2026-09-29,true
 N8764,Estepona,costa-del-sol,Apartment,2,75,394000,5253,2026-09-01,,false
 N7870,Finestrat,cb-north,Townhouse,3,95,565000,5947,2026-09-02,,false
 N8634,Pilar de La Horadada,cb-south,Bungalow,3,75,355000,4733,2026-09-02,,false
@@ -219,3 +219,14 @@ SP0350,Estepona,costa-del-sol,Apartment,2,110,745000,6773,2026-09-26,,false
 SP0759,Mijas,costa-del-sol,Townhouse,3,125,933900,7471,2026-09-26,,false
 SP1009,Fuengirola,costa-del-sol,Penthouse,3,180,1999000,11106,2026-09-26,,false
 SP1153,Fuengirola,costa-del-sol,Penthouse,2,68,446000,6559,2026-09-26,,false
+N6422,Pilar de La Horadada,cb-south,Villa,3,100,422500,4225,2026-09-29,,false
+N7912,Torrevieja,cb-south,Bungalow,3,58,304900,5257,2026-09-29,,false
+N7913,Torrevieja,cb-south,Bungalow,3,58,334900,5774,2026-09-29,,false
+N8385,Los Alcazares,costa-calida,Apartment,2,63,305000,4841,2026-09-29,,false
+N9082,Monforte del Cid,cb-north,Apartment,2,80,270000,3375,2026-09-29,,false
+N9127,Mijas,costa-del-sol,Apartment,2,70,419000,5986,2026-09-29,,false
+N9318,Algorfa,cb-south,Bungalow,3,85,349000,4106,2026-09-29,,false
+N9711,Istán,costa-del-sol,Apartment,2,90,475000,5278,2026-09-29,,false
+N9949,Pinoso,cb-south,Villa,3,124,341500,2754,2026-09-29,,false
+N9955,Aspe,cb-south,Villa,3,124,376500,3036,2026-09-29,,false
+SP1410,San Pedro De Alcantara,costa-del-sol,Penthouse,4,212,2953200,13930,2026-09-29,,false
