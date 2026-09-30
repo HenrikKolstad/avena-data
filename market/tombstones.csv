@@ -86,7 +86,6 @@ N9018,San Fulgencio,cb-south,Townhouse,3,90,395000,4389,2026-08-26,,false
 N9174,Marbella,costa-del-sol,Apartment,2,75,456000,6080,2026-08-26,,false
 N9775,Altea,cb-north,Villa,4,400,3450000,8625,2026-08-28,,false
 SP1838,Mijas,costa-del-sol,Apartment,1,50,256000,5120,2026-08-28,,false
-SP1646,Alicante,cb-north,Apartment,2,52,222500,4279,2026-08-29,2026-09-08,true
 SP1843,Benitachell,cb-north,Villa,4,180,2891000,16061,2026-08-29,,false
 SP1844,Benitachell,cb-north,Villa,3,190,2350000,12368,2026-08-29,,false
 SP1845,Benitachell,cb-north,Villa,4,195,2600000,13333,2026-08-29,,false
@@ -165,7 +164,7 @@ SP1721,Fuengirola,costa-del-sol,Apartment,2,73,457000,6260,2026-09-18,,false
 SP1819,Marbella,costa-del-sol,Penthouse,3,125,1350000,10800,2026-09-18,,false
 N8621,Estepona,costa-del-sol,Apartment,2,49,487700,9953,2026-09-19,,false
 SP0936,Alicante,cb-north,Apartment,2,52,255500,4913,2026-09-19,,false
-SP1525,Mijas,costa-del-sol,Apartment,3,82,506000,6171,2026-09-19,,false
+SP1525,Mijas,costa-del-sol,Apartment,3,82,506000,6171,2026-09-19,2026-09-30,true
 N6777,Daya Nueva,cb-south,Townhouse,3,80,317000,3963,2026-09-22,,false
 N8155,Estepona,costa-del-sol,Penthouse,3,129,662000,5132,2026-09-22,,false
 N9781,Vélez Málaga,costa-del-sol,Townhouse,4,105,635000,6048,2026-09-22,,false
@@ -230,3 +229,13 @@ N9711,Istán,costa-del-sol,Apartment,2,90,475000,5278,2026-09-29,,false
 N9949,Pinoso,cb-south,Villa,3,124,341500,2754,2026-09-29,,false
 N9955,Aspe,cb-south,Villa,3,124,376500,3036,2026-09-29,,false
 SP1410,San Pedro De Alcantara,costa-del-sol,Penthouse,4,212,2953200,13930,2026-09-29,,false
+N6057,Torrevieja,cb-south,Bungalow,2,80,380000,4750,2026-09-30,,false
+N8188,Santa Pola,cb-south,Penthouse,2,85,362000,4259,2026-09-30,,false
+N9500,Guardamar del Segura,cb-south,Penthouse,3,81,301000,3716,2026-09-30,,false
+SP1318,Estepona,costa-del-sol,Villa,4,280,2400000,8571,2026-09-30,,false
+SP1646,Alicante,cb-north,Apartment,2,52,222500,4279,2026-09-30,,false
+SP1649,Alicante,cb-north,Apartment,3,63,302500,4802,2026-09-30,,false
+SP1662,Finestrat,cb-north,Apartment,2,70,409000,5843,2026-09-30,,false
+SP1663,Finestrat,cb-north,Apartment,2,70,430000,6143,2026-09-30,,false
+SP1664,Finestrat,cb-north,Penthouse,3,95,675000,7105,2026-09-30,,false
+SP1799,Finestrat,cb-north,Apartment,1,43,289000,6721,2026-09-30,,false

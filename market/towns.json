@@ -2,9 +2,9 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 220,
-    "median_price_eur": 722000,
-    "median_pm2_eur": 6701,
+    "n_listings": 221,
+    "median_price_eur": 724000,
+    "median_pm2_eur": 6714,
     "p25_pm2_eur": 5362,
     "p75_pm2_eur": 9016,
     "median_built_m2": 103,
@@ -14,11 +14,11 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 194,
-    "median_price_eur": 569350,
-    "median_pm2_eur": 6698,
-    "p25_pm2_eur": 5591,
-    "p75_pm2_eur": 8277,
+    "n_listings": 197,
+    "median_price_eur": 570000,
+    "median_pm2_eur": 6726,
+    "p25_pm2_eur": 5606,
+    "p75_pm2_eur": 8299,
     "median_built_m2": 87,
     "villa_share_pct": 18,
     "median_beach_km": 2
@@ -26,25 +26,25 @@
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 114,
+    "n_listings": 113,
     "median_price_eur": 305000,
-    "median_pm2_eur": 4981,
-    "p25_pm2_eur": 4309,
-    "p75_pm2_eur": 5697,
-    "median_built_m2": 62,
+    "median_pm2_eur": 4983,
+    "p25_pm2_eur": 4300,
+    "p75_pm2_eur": 5700,
+    "median_built_m2": 61,
     "villa_share_pct": 25,
     "median_beach_km": 0.6
   },
   {
     "town": "Fuengirola",
     "costa": "Costa del Sol",
-    "n_listings": 95,
-    "median_price_eur": 725000,
-    "median_pm2_eur": 7468,
-    "p25_pm2_eur": 6265,
-    "p75_pm2_eur": 9458,
-    "median_built_m2": 90,
-    "villa_share_pct": 15,
+    "n_listings": 100,
+    "median_price_eur": 740500,
+    "median_pm2_eur": 7475,
+    "p25_pm2_eur": 6295,
+    "p75_pm2_eur": 9701,
+    "median_built_m2": 91,
+    "villa_share_pct": 14,
     "median_beach_km": 1.5
   },
   {
@@ -86,26 +86,14 @@
   {
     "town": "Finestrat",
     "costa": "Costa Blanca North",
-    "n_listings": 64,
-    "median_price_eur": 552500,
-    "median_pm2_eur": 5838,
-    "p25_pm2_eur": 4885,
-    "p75_pm2_eur": 6696,
-    "median_built_m2": 100,
-    "villa_share_pct": 52,
+    "n_listings": 60,
+    "median_price_eur": 566750,
+    "median_pm2_eur": 5671,
+    "p25_pm2_eur": 4774,
+    "p75_pm2_eur": 6584,
+    "median_built_m2": 106,
+    "villa_share_pct": 55,
     "median_beach_km": 3
-  },
-  {
-    "town": "Guardamar del Segura",
-    "costa": "Costa Blanca South",
-    "n_listings": 53,
-    "median_price_eur": 318240,
-    "median_pm2_eur": 4818,
-    "p25_pm2_eur": 4200,
-    "p75_pm2_eur": 5683,
-    "median_built_m2": 65,
-    "villa_share_pct": 2,
-    "median_beach_km": 1
   },
   {
     "town": "San Pedro del Pinatar",
@@ -117,6 +105,18 @@
     "p75_pm2_eur": 5155,
     "median_built_m2": 68,
     "villa_share_pct": 49,
+    "median_beach_km": 1
+  },
+  {
+    "town": "Guardamar del Segura",
+    "costa": "Costa Blanca South",
+    "n_listings": 52,
+    "median_price_eur": 319120,
+    "median_pm2_eur": 4868,
+    "p25_pm2_eur": 4253,
+    "p75_pm2_eur": 5693,
+    "median_built_m2": 65,
+    "villa_share_pct": 2,
     "median_beach_km": 1
   },
   {
@@ -180,6 +180,18 @@
     "median_beach_km": 5.75
   },
   {
+    "town": "San Miguel de Salinas",
+    "costa": "Costa Blanca South",
+    "n_listings": 33,
+    "median_price_eur": 269900,
+    "median_pm2_eur": 4073,
+    "p25_pm2_eur": 3599,
+    "p75_pm2_eur": 4998,
+    "median_built_m2": 73,
+    "villa_share_pct": 61,
+    "median_beach_km": 9
+  },
+  {
     "town": "Villajoyosa",
     "costa": "Costa Blanca North",
     "n_listings": 31,
@@ -226,18 +238,6 @@
     "median_built_m2": 91,
     "villa_share_pct": 19,
     "median_beach_km": 0.9
-  },
-  {
-    "town": "San Miguel de Salinas",
-    "costa": "Costa Blanca South",
-    "n_listings": 27,
-    "median_price_eur": 284900,
-    "median_pm2_eur": 4089,
-    "p25_pm2_eur": 3837,
-    "p75_pm2_eur": 5037,
-    "median_built_m2": 73,
-    "villa_share_pct": 74,
-    "median_beach_km": 9
   },
   {
     "town": "Baños y Mendigo",
@@ -372,18 +372,6 @@
     "median_beach_km": 0.8
   },
   {
-    "town": "Alicante",
-    "costa": "Costa Blanca North",
-    "n_listings": 13,
-    "median_price_eur": 295000,
-    "median_pm2_eur": 4568,
-    "p25_pm2_eur": 4323,
-    "p75_pm2_eur": 4802,
-    "median_built_m2": 66,
-    "villa_share_pct": 0,
-    "median_beach_km": 3
-  },
-  {
     "town": "Fuente Álamo",
     "costa": "Costa Calida - Inland",
     "n_listings": 13,
@@ -483,9 +471,9 @@
     "town": "Hondón de las Nieves",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 12,
-    "median_price_eur": 275000,
+    "median_price_eur": 250000,
     "median_pm2_eur": 3382,
-    "p25_pm2_eur": 2876,
+    "p25_pm2_eur": 2834,
     "p75_pm2_eur": 3732,
     "median_built_m2": 87,
     "villa_share_pct": 25,
@@ -502,6 +490,18 @@
     "median_built_m2": 79,
     "villa_share_pct": 8,
     "median_beach_km": 0.1
+  },
+  {
+    "town": "Alicante",
+    "costa": "Costa Blanca North",
+    "n_listings": 11,
+    "median_price_eur": 295000,
+    "median_pm2_eur": 4568,
+    "p25_pm2_eur": 4397,
+    "p75_pm2_eur": 4982,
+    "median_built_m2": 70,
+    "villa_share_pct": 0,
+    "median_beach_km": 2.7
   },
   {
     "town": "Benissa",
@@ -790,18 +790,6 @@
     "median_built_m2": 60,
     "villa_share_pct": 60,
     "median_beach_km": 0.2
-  },
-  {
-    "town": "Santa Pola",
-    "costa": "Costa Blanca South",
-    "n_listings": 5,
-    "median_price_eur": 292015,
-    "median_pm2_eur": 4383,
-    "p25_pm2_eur": 4259,
-    "p75_pm2_eur": 4493,
-    "median_built_m2": 65,
-    "villa_share_pct": 0,
-    "median_beach_km": 0.6
   },
   {
     "town": "Sotogrande",

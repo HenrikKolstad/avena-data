@@ -5278,5 +5278,115 @@
     "change_pct": 3.81,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N8776",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 300000,
+    "new_price_eur": 250000,
+    "change_pct": -16.67,
+    "town": "Hondón de las Nieves",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9665",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 429000,
+    "new_price_eur": 439000,
+    "change_pct": 2.33,
+    "town": "Los Alcazares",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0769",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 4139500,
+    "new_price_eur": 4350000,
+    "change_pct": 5.09,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0798",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 1400000,
+    "new_price_eur": 1500000,
+    "change_pct": 7.14,
+    "town": "Manilva",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1157",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 480000,
+    "new_price_eur": 520000,
+    "change_pct": 8.33,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1525",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 506000,
+    "new_price_eur": 479000,
+    "change_pct": -5.34,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1614",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 400000,
+    "new_price_eur": 375000,
+    "change_pct": -6.25,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1711",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 676000,
+    "new_price_eur": 670000,
+    "change_pct": -0.89,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1712",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 738000,
+    "new_price_eur": 785000,
+    "change_pct": 6.37,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1722",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 473000,
+    "new_price_eur": 520000,
+    "change_pct": 9.94,
+    "town": "Fuengirola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1727",
+    "date": "2026-09-30",
+    "prev_date": "2026-09-29",
+    "prev_price_eur": 395600,
+    "new_price_eur": 389600,
+    "change_pct": -1.52,
+    "town": "Benalmádena",
+    "type": "Apartment"
   }
 ]
