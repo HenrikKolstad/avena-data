@@ -3118,5 +3118,44 @@
     "last_seen_date": "2026-09-30",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N8233",
+    "town": "Rojales",
+    "region": "cb-south",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 95,
+    "last_price_eur": 396900,
+    "last_pm2_eur": 4178,
+    "last_seen_date": "2026-10-01",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9619",
+    "town": "San Pedro del Pinatar",
+    "region": "costa-calida",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 76,
+    "last_price_eur": 289000,
+    "last_pm2_eur": 3803,
+    "last_seen_date": "2026-10-01",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1786",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 4,
+    "built_m2": 200,
+    "last_price_eur": 1423900,
+    "last_pm2_eur": 7120,
+    "last_seen_date": "2026-10-01",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

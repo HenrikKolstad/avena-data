@@ -1,18 +1,18 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,221,724000,6714,5362,9016,103,14,1
-Mijas,Costa del Sol,197,570000,6726,5606,8299,87,18,2
+Estepona,Costa del Sol,221,725000,6755,5362,9016,103,14,1
+Mijas,Costa del Sol,196,575500,6729,5601,8302,87,17,2
 Torrevieja,Costa Blanca South,113,305000,4983,4300,5700,61,25,0.6
 Fuengirola,Costa del Sol,100,740500,7475,6295,9701,91,14,1.5
 Pilar de La Horadada,Costa Blanca South,89,365000,4874,4347,5614,77,73,2
 Marbella,Costa del Sol,84,1097500,8203,6528,12117,119,31,2.1
 Los Alcazares,Costa Calida,77,399000,4684,4238,5523,85,40,0.9
 Finestrat,Costa Blanca North,60,566750,5671,4774,6584,106,55,3
-San Pedro del Pinatar,Costa Calida,53,289000,4338,3912,5155,68,49,1
 Guardamar del Segura,Costa Blanca South,52,319120,4868,4253,5693,65,2,1
+San Pedro del Pinatar,Costa Calida,52,293500,4341,3977,5159,67,50,1
 Casares,Costa del Sol,51,565000,5962,5060,6989,97,6,1.8
 Torre Pacheco,Costa Calida,50,318450,4153,3690,4913,80,66,8.5
 Benijofar,Costa Blanca South,42,393400,4796,4245,5337,75,31,8
-Manilva,Costa del Sol,40,490500,5909,4445,7841,92,13,0.6
+Manilva,Costa del Sol,40,490500,5934,4363,7841,92,13,0.6
 Benahavís,Costa del Sol,36,1279500,9961,7494,12783,131,22,5.75
 San Miguel de Salinas,Costa Blanca South,33,269900,4073,3599,4998,73,61,9
 Villajoyosa,Costa Blanca North,31,440000,6350,5645,7417,70,0,0.5
@@ -20,7 +20,7 @@ Pinoso,Costa Blanca South - Inland,30,473500,3065,2809,3784,140,100,50
 Algorfa,Costa Blanca South,29,473000,4823,3383,5767,90,76,14
 Málaga,Costa del Sol,27,980000,10260,6509,15351,91,19,0.9
 Baños y Mendigo,Costa Calida,26,484450,4590,4211,5595,102,77,30
-Rojales,Costa Blanca South,26,516500,4757,4094,6421,99,100,6
+Rojales,Costa Blanca South,25,529000,4843,4084,6487,100,100,6
 Orihuela Costa,Costa Blanca South,22,794950,6435,5159,7469,138,82,0.7
 Polop,Costa Blanca North,22,654650,6155,5711,6573,101,100,8.5
 Benalmádena,Costa del Sol,21,750000,6420,5620,8358,109,24,1.4
@@ -57,7 +57,7 @@ Moraira_Teulada,Costa Blanca North,7,2175000,7967,7877,8938,273,100,2
 San Fulgencio,Costa Blanca South,7,319900,4158,3954,5311,85,100,7
 Almuñecar,Costa Tropical,6,361500,4987,2905,5020,80,50,0.3
 Bigastro,Costa Blanca South,6,207400,3112,2962,3280,64,33,25
-Ojen,Costa del Sol,6,1017500,8468,8177,10691,120,17,5
+Ojen,Costa del Sol,6,1045550,8622,8486,10679,120,17,5
 Torrox,Costa del Sol,6,357500,4734,4450,5052,75,0,0.2
 Alfas del Pi,Costa Blanca North,5,331000,4921,4794,5254,63,20,4
 Catral,Costa Blanca South - Inland,5,213000,2760,2700,2840,75,0,15

@@ -5388,5 +5388,135 @@
     "change_pct": -1.52,
     "town": "Benalmádena",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N6389",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 399000,
+    "new_price_eur": 450000,
+    "change_pct": 12.78,
+    "town": "Formentera del Segura",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8172",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 1070000,
+    "new_price_eur": 1170000,
+    "change_pct": 9.35,
+    "town": "Manilva",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9013",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 487000,
+    "new_price_eur": 538000,
+    "change_pct": 10.47,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9014",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 395000,
+    "new_price_eur": 415000,
+    "change_pct": 5.06,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9015",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 497000,
+    "new_price_eur": 490000,
+    "change_pct": -1.41,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9016",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 560000,
+    "new_price_eur": 640000,
+    "change_pct": 14.29,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9100",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 470000,
+    "new_price_eur": 485000,
+    "change_pct": 3.19,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9102",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 429000,
+    "new_price_eur": 434000,
+    "change_pct": 1.17,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9104",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 654000,
+    "new_price_eur": 729000,
+    "change_pct": 11.47,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9869",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 960000,
+    "new_price_eur": 942500,
+    "change_pct": -1.82,
+    "town": "Ojen",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9870",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 980000,
+    "new_price_eur": 1015000,
+    "change_pct": 3.57,
+    "town": "Ojen",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9871",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 985000,
+    "new_price_eur": 1041100,
+    "change_pct": 5.7,
+    "town": "Ojen",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0280",
+    "date": "2026-10-01",
+    "prev_date": "2026-09-30",
+    "prev_price_eur": 420000,
+    "new_price_eur": 395500,
+    "change_pct": -5.83,
+    "town": "Manilva",
+    "type": "Townhouse"
   }
 ]
