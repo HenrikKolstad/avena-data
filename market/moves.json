@@ -5518,5 +5518,85 @@
     "change_pct": -5.83,
     "town": "Manilva",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8462",
+    "date": "2026-10-02",
+    "prev_date": "2026-10-01",
+    "prev_price_eur": 270900,
+    "new_price_eur": 272200,
+    "change_pct": 0.48,
+    "town": "Torrevieja",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9385",
+    "date": "2026-10-02",
+    "prev_date": "2026-10-01",
+    "prev_price_eur": 248000,
+    "new_price_eur": 258000,
+    "change_pct": 4.03,
+    "town": "La Marina",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9718",
+    "date": "2026-10-02",
+    "prev_date": "2026-10-01",
+    "prev_price_eur": 265000,
+    "new_price_eur": 253000,
+    "change_pct": -4.53,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9719",
+    "date": "2026-10-02",
+    "prev_date": "2026-10-01",
+    "prev_price_eur": 445000,
+    "new_price_eur": 315000,
+    "change_pct": -29.21,
+    "town": "Guardamar del Segura",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0946",
+    "date": "2026-10-02",
+    "prev_date": "2026-10-01",
+    "prev_price_eur": 310000,
+    "new_price_eur": 314000,
+    "change_pct": 1.29,
+    "town": "Torrox",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1298",
+    "date": "2026-10-02",
+    "prev_date": "2026-10-01",
+    "prev_price_eur": 920000,
+    "new_price_eur": 599000,
+    "change_pct": -34.89,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1522",
+    "date": "2026-10-02",
+    "prev_date": "2026-10-01",
+    "prev_price_eur": 2430000,
+    "new_price_eur": 2095000,
+    "change_pct": -13.79,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1611",
+    "date": "2026-10-02",
+    "prev_date": "2026-10-01",
+    "prev_price_eur": 1227000,
+    "new_price_eur": 1226000,
+    "change_pct": -0.08,
+    "town": "Fuengirola",
+    "type": "Townhouse"
   }
 ]

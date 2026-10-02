@@ -1738,8 +1738,8 @@
     "last_price_eur": 355000,
     "last_pm2_eur": 5462,
     "last_seen_date": "2026-09-09",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-02",
+    "still_listed": true
   },
   {
     "avn_id": "SP1785",
@@ -3155,6 +3155,32 @@
     "last_price_eur": 1423900,
     "last_pm2_eur": 7120,
     "last_seen_date": "2026-10-01",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N6457",
+    "town": "Calpe",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 62,
+    "last_price_eur": 620000,
+    "last_pm2_eur": 10000,
+    "last_seen_date": "2026-10-02",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8651",
+    "town": "Pilar de La Horadada",
+    "region": "cb-south",
+    "type": "Bungalow",
+    "beds": 3,
+    "built_m2": 75,
+    "last_price_eur": 314900,
+    "last_pm2_eur": 4199,
+    "last_seen_date": "2026-10-02",
     "relisted_on": null,
     "still_listed": false
   }

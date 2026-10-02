@@ -132,7 +132,7 @@ N5809,Orihuela Costa,cb-south,Apartment,2,63,325000,5159,2026-09-09,,false
 N9686,Monda,costa-del-sol,Townhouse,3,116,750000,6466,2026-09-09,,false
 N9687,Monda,costa-del-sol,Apartment,3,94,600000,6383,2026-09-09,,false
 N9688,Monda,costa-del-sol,Apartment,3,94,600000,6383,2026-09-09,,false
-N9863,Guardamar del Segura,cb-south,Apartment,2,65,355000,5462,2026-09-09,,false
+N9863,Guardamar del Segura,cb-south,Apartment,2,65,355000,5462,2026-09-09,2026-10-02,true
 SP1785,Mijas,costa-del-sol,Penthouse,3,99,884400,8933,2026-09-09,2026-09-24,true
 N9709,Torrevieja,cb-south,Penthouse,2,61,290000,4754,2026-09-10,,false
 N7033,Guardamar del Segura,cb-south,Apartment,3,90,344900,3832,2026-09-11,,false
@@ -242,3 +242,5 @@ SP1799,Finestrat,cb-north,Apartment,1,43,289000,6721,2026-09-30,,false
 N8233,Rojales,cb-south,Townhouse,3,95,396900,4178,2026-10-01,,false
 N9619,San Pedro del Pinatar,costa-calida,Apartment,3,76,289000,3803,2026-10-01,,false
 SP1786,Mijas,costa-del-sol,Townhouse,4,200,1423900,7120,2026-10-01,,false
+N6457,Calpe,cb-north,Apartment,2,62,620000,10000,2026-10-02,,false
+N8651,Pilar de La Horadada,cb-south,Bungalow,3,75,314900,4199,2026-10-02,,false

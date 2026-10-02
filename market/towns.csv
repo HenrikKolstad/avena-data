@@ -1,13 +1,13 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
 Estepona,Costa del Sol,221,725000,6755,5362,9016,103,14,1
 Mijas,Costa del Sol,196,575500,6729,5601,8302,87,17,2
-Torrevieja,Costa Blanca South,113,305000,4983,4300,5700,61,25,0.6
+Torrevieja,Costa Blanca South,113,305000,4983,4321,5700,61,25,0.6
 Fuengirola,Costa del Sol,100,740500,7475,6295,9701,91,14,1.5
-Pilar de La Horadada,Costa Blanca South,89,365000,4874,4347,5614,77,73,2
+Pilar de La Horadada,Costa Blanca South,88,367000,4904,4350,5621,77,73,2
 Marbella,Costa del Sol,84,1097500,8203,6528,12117,119,31,2.1
 Los Alcazares,Costa Calida,77,399000,4684,4238,5523,85,40,0.9
-Finestrat,Costa Blanca North,60,566750,5671,4774,6584,106,55,3
-Guardamar del Segura,Costa Blanca South,52,319120,4868,4253,5693,65,2,1
+Finestrat,Costa Blanca North,60,566750,5671,4855,6584,106,55,3
+Guardamar del Segura,Costa Blanca South,53,318240,4917,4271,5683,65,2,1
 San Pedro del Pinatar,Costa Calida,52,293500,4341,3977,5159,67,50,1
 Casares,Costa del Sol,51,565000,5962,5060,6989,97,6,1.8
 Torre Pacheco,Costa Calida,50,318450,4153,3690,4913,80,66,8.5
@@ -25,7 +25,7 @@ Orihuela Costa,Costa Blanca South,22,794950,6435,5159,7469,138,82,0.7
 Polop,Costa Blanca North,22,654650,6155,5711,6573,101,100,8.5
 Benalmádena,Costa del Sol,21,750000,6420,5620,8358,109,24,1.4
 Torremolinos,Costa del Sol,21,675000,7796,6344,8460,88,5,0.7
-Calpe,Costa Blanca North,20,700000,8345,5632,9938,107,25,0.4
+Calpe,Costa Blanca North,19,730000,8202,5522,9885,109,26,0.4
 San Javier,Costa Calida,17,389000,4863,3899,6166,80,82,2.5
 San Roque,Costa del Sol (Cadiz),16,598250,5776,5248,7708,96,0,1.5
 Aguilas,Costa Calida,14,370750,4828,3738,6457,75,14,0.3
@@ -58,7 +58,7 @@ San Fulgencio,Costa Blanca South,7,319900,4158,3954,5311,85,100,7
 Almuñecar,Costa Tropical,6,361500,4987,2905,5020,80,50,0.3
 Bigastro,Costa Blanca South,6,207400,3112,2962,3280,64,33,25
 Ojen,Costa del Sol,6,1045550,8622,8486,10679,120,17,5
-Torrox,Costa del Sol,6,357500,4734,4450,5052,75,0,0.2
+Torrox,Costa del Sol,6,357500,4763,4464,5052,75,0,0.2
 Alfas del Pi,Costa Blanca North,5,331000,4921,4794,5254,63,20,4
 Catral,Costa Blanca South - Inland,5,213000,2760,2700,2840,75,0,15
 La Marina,Costa Blanca South,5,299000,4211,3786,5100,71,40,0.8
