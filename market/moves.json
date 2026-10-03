@@ -5598,5 +5598,215 @@
     "change_pct": -0.08,
     "town": "Fuengirola",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N5894",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 359000,
+    "new_price_eur": 365000,
+    "change_pct": 1.67,
+    "town": "Calasparra",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N6327",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 389900,
+    "new_price_eur": 399900,
+    "change_pct": 2.56,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N6328",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 413400,
+    "new_price_eur": 423400,
+    "change_pct": 2.42,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N6329",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 469900,
+    "new_price_eur": 479900,
+    "change_pct": 2.13,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8056",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 1550000,
+    "new_price_eur": 1580000,
+    "change_pct": 1.94,
+    "town": "Estepona",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8057",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 1700000,
+    "new_price_eur": 1620000,
+    "change_pct": -4.71,
+    "town": "Estepona",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8540",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 359000,
+    "new_price_eur": 365000,
+    "change_pct": 1.67,
+    "town": "Calasparra",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8707",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 304900,
+    "new_price_eur": 299900,
+    "change_pct": -1.64,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8962",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 422000,
+    "new_price_eur": 428000,
+    "change_pct": 1.42,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9385",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 258000,
+    "new_price_eur": 248000,
+    "change_pct": -3.88,
+    "town": "La Marina",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9657",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 496400,
+    "new_price_eur": 506400,
+    "change_pct": 2.01,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9919",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 299900,
+    "new_price_eur": 315900,
+    "change_pct": 5.34,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9920",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 319900,
+    "new_price_eur": 329900,
+    "change_pct": 3.13,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP0664",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 368000,
+    "new_price_eur": 395000,
+    "change_pct": 7.34,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0934",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 265500,
+    "new_price_eur": 272400,
+    "change_pct": 2.6,
+    "town": "Alicante",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0937",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 295000,
+    "new_price_eur": 301900,
+    "change_pct": 2.34,
+    "town": "Alicante",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1013",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 298000,
+    "new_price_eur": 318000,
+    "change_pct": 6.71,
+    "town": "San Pedro del Pinatar",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1015",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 304000,
+    "new_price_eur": 328000,
+    "change_pct": 7.89,
+    "town": "San Pedro del Pinatar",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1056",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 333000,
+    "new_price_eur": 326000,
+    "change_pct": -2.1,
+    "town": "Denia",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1057",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 395000,
+    "new_price_eur": 387500,
+    "change_pct": -1.9,
+    "town": "Denia",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1058",
+    "date": "2026-10-03",
+    "prev_date": "2026-10-02",
+    "prev_price_eur": 412000,
+    "new_price_eur": 410000,
+    "change_pct": -0.49,
+    "town": "Denia",
+    "type": "Penthouse"
   }
 ]

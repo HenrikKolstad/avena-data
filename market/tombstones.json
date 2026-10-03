@@ -3064,8 +3064,8 @@
     "last_price_eur": 302500,
     "last_pm2_eur": 4802,
     "last_seen_date": "2026-09-30",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-03",
+    "still_listed": true
   },
   {
     "avn_id": "SP1662",
@@ -3181,6 +3181,97 @@
     "last_price_eur": 314900,
     "last_pm2_eur": 4199,
     "last_seen_date": "2026-10-02",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8037",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 271,
+    "last_price_eur": 3250000,
+    "last_pm2_eur": 11993,
+    "last_seen_date": "2026-10-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8038",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 450,
+    "last_price_eur": 4600000,
+    "last_pm2_eur": 10222,
+    "last_seen_date": "2026-10-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8165",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 80,
+    "last_price_eur": 431000,
+    "last_pm2_eur": 5388,
+    "last_seen_date": "2026-10-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9567",
+    "town": "Benejúzar",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 44,
+    "last_price_eur": 131250,
+    "last_pm2_eur": 2983,
+    "last_seen_date": "2026-10-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9991",
+    "town": "Finestrat",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 5,
+    "built_m2": 118,
+    "last_price_eur": 859900,
+    "last_pm2_eur": 7287,
+    "last_seen_date": "2026-10-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1012",
+    "town": "San Pedro del Pinatar",
+    "region": "costa-calida",
+    "type": "Bungalow",
+    "beds": 2,
+    "built_m2": 60,
+    "last_price_eur": 276000,
+    "last_pm2_eur": 4600,
+    "last_seen_date": "2026-10-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1014",
+    "town": "San Pedro del Pinatar",
+    "region": "costa-calida",
+    "type": "Bungalow",
+    "beds": 2,
+    "built_m2": 60,
+    "last_price_eur": 288000,
+    "last_pm2_eur": 4800,
+    "last_seen_date": "2026-10-03",
     "relisted_on": null,
     "still_listed": false
   }
