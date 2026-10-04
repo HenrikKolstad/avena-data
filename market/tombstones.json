@@ -516,8 +516,8 @@
     "last_price_eur": 528125,
     "last_pm2_eur": 5281,
     "last_seen_date": "2026-08-14",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-04",
+    "still_listed": true
   },
   {
     "avn_id": "N7505",
@@ -529,8 +529,8 @@
     "last_price_eur": 563160,
     "last_pm2_eur": 5632,
     "last_seen_date": "2026-08-14",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-04",
+    "still_listed": true
   },
   {
     "avn_id": "N7506",
@@ -542,8 +542,8 @@
     "last_price_eur": 663115,
     "last_pm2_eur": 5526,
     "last_seen_date": "2026-08-14",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-04",
+    "still_listed": true
   },
   {
     "avn_id": "N8647",
@@ -555,8 +555,8 @@
     "last_price_eur": 505280,
     "last_pm2_eur": 5053,
     "last_seen_date": "2026-08-14",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-04",
+    "still_listed": true
   },
   {
     "avn_id": "N8648",
@@ -568,8 +568,8 @@
     "last_price_eur": 547690,
     "last_pm2_eur": 5477,
     "last_seen_date": "2026-08-14",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-04",
+    "still_listed": true
   },
   {
     "avn_id": "N8805",

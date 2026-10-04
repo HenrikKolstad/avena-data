@@ -5808,5 +5808,55 @@
     "change_pct": -0.49,
     "town": "Denia",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7504",
+    "date": "2026-10-04",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 528125,
+    "new_price_eur": 598125,
+    "change_pct": 13.25,
+    "town": "Polop",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N7505",
+    "date": "2026-10-04",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 563160,
+    "new_price_eur": 643160,
+    "change_pct": 14.21,
+    "town": "Polop",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N7506",
+    "date": "2026-10-04",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 663115,
+    "new_price_eur": 743115,
+    "change_pct": 12.06,
+    "town": "Polop",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8647",
+    "date": "2026-10-04",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 505280,
+    "new_price_eur": 605280,
+    "change_pct": 19.79,
+    "town": "Polop",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8648",
+    "date": "2026-10-04",
+    "prev_date": "2026-08-13",
+    "prev_price_eur": 547690,
+    "new_price_eur": 725000,
+    "change_pct": 32.37,
+    "town": "Polop",
+    "type": "Townhouse"
   }
 ]

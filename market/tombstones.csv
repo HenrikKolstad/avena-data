@@ -38,11 +38,11 @@ N9653,Estepona,costa-del-sol,Apartment,,,599000,6582,2026-08-12,2026-09-02,true
 SP1222,Estepona,costa-del-sol,Penthouse,,,999000,8841,2026-08-12,,false
 SP1473,Fuengirola,costa-del-sol,Penthouse,,,395000,6930,2026-08-12,,false
 N7413,Estepona,costa-del-sol,Penthouse,3,103,739000,7175,2026-08-14,,false
-N7504,Polop,cb-north,Townhouse,3,100,528125,5281,2026-08-14,,false
-N7505,Polop,cb-north,Townhouse,3,100,563160,5632,2026-08-14,,false
-N7506,Polop,cb-north,Townhouse,3,120,663115,5526,2026-08-14,,false
-N8647,Polop,cb-north,Townhouse,3,100,505280,5053,2026-08-14,,false
-N8648,Polop,cb-north,Townhouse,3,100,547690,5477,2026-08-14,,false
+N7504,Polop,cb-north,Townhouse,3,100,528125,5281,2026-08-14,2026-10-04,true
+N7505,Polop,cb-north,Townhouse,3,100,563160,5632,2026-08-14,2026-10-04,true
+N7506,Polop,cb-north,Townhouse,3,120,663115,5526,2026-08-14,2026-10-04,true
+N8647,Polop,cb-north,Townhouse,3,100,505280,5053,2026-08-14,2026-10-04,true
+N8648,Polop,cb-north,Townhouse,3,100,547690,5477,2026-08-14,2026-10-04,true
 N8805,Polop,cb-north,Villa,3,128,625000,4883,2026-08-14,,false
 N8966,Los Alcazares,costa-calida,Apartment,2,75,279000,3720,2026-08-14,,false
 N8967,Los Alcazares,costa-calida,Apartment,3,90,359000,3989,2026-08-14,2026-09-11,true

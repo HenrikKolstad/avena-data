@@ -538,5 +538,14 @@
     "median_abs_move_pct": 2.34,
     "delistings": 7,
     "relistings": 1
+  },
+  {
+    "date": "2026-10-04",
+    "listings_observed": 2030,
+    "price_increases": 5,
+    "price_reductions": 0,
+    "median_abs_move_pct": 14.21,
+    "delistings": 0,
+    "relistings": 5
   }
 ]

@@ -240,6 +240,18 @@
     "median_beach_km": 0.9
   },
   {
+    "town": "Polop",
+    "costa": "Costa Blanca North",
+    "n_listings": 27,
+    "median_price_eur": 650650,
+    "median_pm2_eur": 6167,
+    "p25_pm2_eur": 5938,
+    "p75_pm2_eur": 6558,
+    "median_built_m2": 100,
+    "villa_share_pct": 100,
+    "median_beach_km": 9
+  },
+  {
     "town": "Baños y Mendigo",
     "costa": "Costa Calida",
     "n_listings": 26,
@@ -274,18 +286,6 @@
     "median_built_m2": 138,
     "villa_share_pct": 82,
     "median_beach_km": 0.7
-  },
-  {
-    "town": "Polop",
-    "costa": "Costa Blanca North",
-    "n_listings": 22,
-    "median_price_eur": 654650,
-    "median_pm2_eur": 6155,
-    "p25_pm2_eur": 5711,
-    "p75_pm2_eur": 6573,
-    "median_built_m2": 101,
-    "villa_share_pct": 100,
-    "median_beach_km": 8.5
   },
   {
     "town": "Benalmádena",
@@ -348,6 +348,18 @@
     "median_beach_km": 1.5
   },
   {
+    "town": "Orihuela",
+    "costa": "Costa Blanca South",
+    "n_listings": 15,
+    "median_price_eur": 417900,
+    "median_pm2_eur": 4625,
+    "p25_pm2_eur": 4418,
+    "p75_pm2_eur": 6373,
+    "median_built_m2": 94,
+    "villa_share_pct": 100,
+    "median_beach_km": 14
+  },
+  {
     "town": "Aguilas",
     "costa": "Costa Calida",
     "n_listings": 14,
@@ -406,18 +418,6 @@
     "median_built_m2": 73,
     "villa_share_pct": 31,
     "median_beach_km": 7
-  },
-  {
-    "town": "Orihuela",
-    "costa": "Costa Blanca South",
-    "n_listings": 13,
-    "median_price_eur": 395000,
-    "median_pm2_eur": 4590,
-    "p25_pm2_eur": 4389,
-    "p75_pm2_eur": 5453,
-    "median_built_m2": 90,
-    "villa_share_pct": 100,
-    "median_beach_km": 14
   },
   {
     "town": "rincon de la victoria",
