@@ -3274,5 +3274,18 @@
     "last_seen_date": "2026-10-03",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N8071",
+    "town": "Aguilas",
+    "region": "costa-calida",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 80,
+    "last_price_eur": 288000,
+    "last_pm2_eur": 3600,
+    "last_seen_date": "2026-10-05",
+    "relisted_on": null,
+    "still_listed": true
   }
 ]

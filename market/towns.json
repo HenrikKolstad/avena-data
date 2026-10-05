@@ -150,7 +150,7 @@
     "median_price_eur": 393400,
     "median_pm2_eur": 4796,
     "p25_pm2_eur": 4245,
-    "p75_pm2_eur": 5337,
+    "p75_pm2_eur": 5350,
     "median_built_m2": 75,
     "villa_share_pct": 31,
     "median_beach_km": 8
@@ -360,18 +360,6 @@
     "median_beach_km": 14
   },
   {
-    "town": "Aguilas",
-    "costa": "Costa Calida",
-    "n_listings": 14,
-    "median_price_eur": 370750,
-    "median_pm2_eur": 4828,
-    "p25_pm2_eur": 3738,
-    "p75_pm2_eur": 6457,
-    "median_built_m2": 75,
-    "villa_share_pct": 14,
-    "median_beach_km": 0.3
-  },
-  {
     "town": "Jávea Xàbia",
     "costa": "Costa Blanca North",
     "n_listings": 14,
@@ -382,6 +370,18 @@
     "median_built_m2": 92,
     "villa_share_pct": 36,
     "median_beach_km": 0.8
+  },
+  {
+    "town": "Aguilas",
+    "costa": "Costa Calida",
+    "n_listings": 13,
+    "median_price_eur": 385000,
+    "median_pm2_eur": 5015,
+    "p25_pm2_eur": 4170,
+    "p75_pm2_eur": 6525,
+    "median_built_m2": 74,
+    "villa_share_pct": 15,
+    "median_beach_km": 0.3
   },
   {
     "town": "Fuente Álamo",
@@ -531,9 +531,9 @@
     "town": "El Campello",
     "costa": "Costa Blanca North",
     "n_listings": 11,
-    "median_price_eur": 585000,
+    "median_price_eur": 600000,
     "median_pm2_eur": 6462,
-    "p25_pm2_eur": 5323,
+    "p25_pm2_eur": 5874,
     "p75_pm2_eur": 7932,
     "median_built_m2": 95,
     "villa_share_pct": 64,

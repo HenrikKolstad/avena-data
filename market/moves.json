@@ -5858,5 +5858,125 @@
     "change_pct": 32.37,
     "town": "Polop",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N10009",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 309000,
+    "new_price_eur": 314000,
+    "change_pct": 1.62,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7520",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 620000,
+    "new_price_eur": 650000,
+    "change_pct": 4.84,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8076",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 415000,
+    "new_price_eur": 417000,
+    "change_pct": 0.48,
+    "town": "Aguilas",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8461",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 479900,
+    "new_price_eur": 484900,
+    "change_pct": 1.04,
+    "town": "San Pedro del Pinatar",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9462",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 399900,
+    "new_price_eur": 449900,
+    "change_pct": 12.5,
+    "town": "Benijofar",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9482",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 289900,
+    "new_price_eur": 279900,
+    "change_pct": -3.45,
+    "town": "Avileses",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0817",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 495000,
+    "new_price_eur": 465000,
+    "change_pct": -6.06,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0887",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 864000,
+    "new_price_eur": 810000,
+    "change_pct": -6.25,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0888",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 1322000,
+    "new_price_eur": 1330000,
+    "change_pct": 0.61,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0890",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 815000,
+    "new_price_eur": 770000,
+    "change_pct": -5.52,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0891",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 1848000,
+    "new_price_eur": 1390000,
+    "change_pct": -24.78,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1876",
+    "date": "2026-10-05",
+    "prev_date": "2026-10-04",
+    "prev_price_eur": 550000,
+    "new_price_eur": 680000,
+    "change_pct": 23.64,
+    "town": "El Campello",
+    "type": "Townhouse"
   }
 ]
