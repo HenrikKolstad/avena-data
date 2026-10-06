@@ -5978,5 +5978,135 @@
     "change_pct": 23.64,
     "town": "El Campello",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N7520",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 650000,
+    "new_price_eur": 620000,
+    "change_pct": -4.62,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9949",
+    "date": "2026-10-06",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 341500,
+    "new_price_eur": 350040,
+    "change_pct": 2.5,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9950",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 365000,
+    "new_price_eur": 417550,
+    "change_pct": 14.4,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9951",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 434950,
+    "new_price_eur": 395781,
+    "change_pct": -9.01,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9952",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 440500,
+    "new_price_eur": 527579,
+    "change_pct": 19.77,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9953",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 552567,
+    "new_price_eur": 644550,
+    "change_pct": 16.65,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9954",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 600000,
+    "new_price_eur": 665600,
+    "change_pct": 10.93,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9955",
+    "date": "2026-10-06",
+    "prev_date": "2026-09-28",
+    "prev_price_eur": 376500,
+    "new_price_eur": 401040,
+    "change_pct": 6.52,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9956",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 469950,
+    "new_price_eur": 446782,
+    "change_pct": -4.93,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1701",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 395000,
+    "new_price_eur": 375000,
+    "change_pct": -5.06,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1702",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 583000,
+    "new_price_eur": 540000,
+    "change_pct": -7.38,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1703",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 375000,
+    "new_price_eur": 335000,
+    "change_pct": -10.67,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1704",
+    "date": "2026-10-06",
+    "prev_date": "2026-10-05",
+    "prev_price_eur": 452000,
+    "new_price_eur": 455000,
+    "change_pct": 0.66,
+    "town": "Finestrat",
+    "type": "Apartment"
   }
 ]

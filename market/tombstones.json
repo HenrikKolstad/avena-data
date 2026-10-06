@@ -2960,8 +2960,8 @@
     "last_price_eur": 341500,
     "last_pm2_eur": 2754,
     "last_seen_date": "2026-09-29",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-06",
+    "still_listed": true
   },
   {
     "avn_id": "N9955",
@@ -2973,8 +2973,8 @@
     "last_price_eur": 376500,
     "last_pm2_eur": 3036,
     "last_seen_date": "2026-09-29",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-06",
+    "still_listed": true
   },
   {
     "avn_id": "SP1410",
@@ -3286,6 +3286,45 @@
     "last_pm2_eur": 3600,
     "last_seen_date": "2026-10-05",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7982",
+    "town": "Benijofar",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 65,
+    "last_price_eur": 451000,
+    "last_pm2_eur": 6938,
+    "last_seen_date": "2026-10-06",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9961",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": 1,
+    "built_m2": 33,
+    "last_price_eur": 229000,
+    "last_pm2_eur": 6939,
+    "last_seen_date": "2026-10-06",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1293",
+    "town": "Los Alcazares",
+    "region": "costa-calida",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 95,
+    "last_price_eur": 465000,
+    "last_pm2_eur": 4895,
+    "last_seen_date": "2026-10-06",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

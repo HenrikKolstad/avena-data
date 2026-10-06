@@ -26,12 +26,12 @@
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 113,
+    "n_listings": 112,
     "median_price_eur": 305000,
-    "median_pm2_eur": 4983,
-    "p25_pm2_eur": 4321,
-    "p75_pm2_eur": 5700,
-    "median_built_m2": 61,
+    "median_pm2_eur": 4981,
+    "p25_pm2_eur": 4283,
+    "p75_pm2_eur": 5691,
+    "median_built_m2": 62,
     "villa_share_pct": 25,
     "median_beach_km": 0.6
   },
@@ -74,22 +74,22 @@
   {
     "town": "Los Alcazares",
     "costa": "Costa Calida",
-    "n_listings": 77,
-    "median_price_eur": 399000,
-    "median_pm2_eur": 4684,
-    "p25_pm2_eur": 4238,
-    "p75_pm2_eur": 5523,
+    "n_listings": 76,
+    "median_price_eur": 398325,
+    "median_pm2_eur": 4667,
+    "p25_pm2_eur": 4235,
+    "p75_pm2_eur": 5551,
     "median_built_m2": 85,
-    "villa_share_pct": 40,
+    "villa_share_pct": 41,
     "median_beach_km": 0.9
   },
   {
     "town": "Finestrat",
     "costa": "Costa Blanca North",
     "n_listings": 59,
-    "median_price_eur": 555000,
-    "median_pm2_eur": 5643,
-    "p25_pm2_eur": 4840,
+    "median_price_eur": 550000,
+    "median_pm2_eur": 5598,
+    "p25_pm2_eur": 4813,
     "p75_pm2_eur": 6496,
     "median_built_m2": 106,
     "villa_share_pct": 54,
@@ -146,13 +146,13 @@
   {
     "town": "Benijofar",
     "costa": "Costa Blanca South",
-    "n_listings": 42,
-    "median_price_eur": 393400,
-    "median_pm2_eur": 4796,
-    "p25_pm2_eur": 4245,
-    "p75_pm2_eur": 5350,
+    "n_listings": 41,
+    "median_price_eur": 389900,
+    "median_pm2_eur": 4708,
+    "p25_pm2_eur": 4227,
+    "p75_pm2_eur": 5339,
     "median_built_m2": 75,
-    "villa_share_pct": 31,
+    "villa_share_pct": 32,
     "median_beach_km": 8
   },
   {
@@ -192,6 +192,18 @@
     "median_beach_km": 9
   },
   {
+    "town": "Pinoso",
+    "costa": "Costa Blanca South - Inland",
+    "n_listings": 31,
+    "median_price_eur": 473500,
+    "median_pm2_eur": 3055,
+    "p25_pm2_eur": 2914,
+    "p75_pm2_eur": 3748,
+    "median_built_m2": 140,
+    "villa_share_pct": 100,
+    "median_beach_km": 50
+  },
+  {
     "town": "Villajoyosa",
     "costa": "Costa Blanca North",
     "n_listings": 31,
@@ -202,18 +214,6 @@
     "median_built_m2": 70,
     "villa_share_pct": 0,
     "median_beach_km": 0.5
-  },
-  {
-    "town": "Pinoso",
-    "costa": "Costa Blanca South - Inland",
-    "n_listings": 30,
-    "median_price_eur": 473500,
-    "median_pm2_eur": 3065,
-    "p25_pm2_eur": 2809,
-    "p75_pm2_eur": 3784,
-    "median_built_m2": 140,
-    "villa_share_pct": 100,
-    "median_beach_km": 50
   },
   {
     "town": "Algorfa",
@@ -626,14 +626,14 @@
   {
     "town": "Aspe",
     "costa": "Costa Blanca South - Inland",
-    "n_listings": 7,
-    "median_price_eur": 469950,
-    "median_pm2_eur": 3386,
-    "p25_pm2_eur": 3343,
-    "p75_pm2_eur": 3763,
-    "median_built_m2": 139,
+    "n_listings": 8,
+    "median_price_eur": 459000,
+    "median_pm2_eur": 3377,
+    "p25_pm2_eur": 3299,
+    "p75_pm2_eur": 3673,
+    "median_built_m2": 132,
     "villa_share_pct": 100,
-    "median_beach_km": 25
+    "median_beach_km": 25.5
   },
   {
     "town": "Cox",
@@ -694,6 +694,18 @@
     "median_built_m2": 64,
     "villa_share_pct": 33,
     "median_beach_km": 25
+  },
+  {
+    "town": "La Romana",
+    "costa": "Costa Blanca South - Inland",
+    "n_listings": 6,
+    "median_price_eur": 382500,
+    "median_pm2_eur": 3341,
+    "p25_pm2_eur": 3052,
+    "p75_pm2_eur": 3561,
+    "median_built_m2": 118,
+    "villa_share_pct": 100,
+    "median_beach_km": 40
   },
   {
     "town": "Ojen",

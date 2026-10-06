@@ -226,8 +226,8 @@ N9082,Monforte del Cid,cb-north,Apartment,2,80,270000,3375,2026-09-29,,false
 N9127,Mijas,costa-del-sol,Apartment,2,70,419000,5986,2026-09-29,,false
 N9318,Algorfa,cb-south,Bungalow,3,85,349000,4106,2026-09-29,,false
 N9711,Istán,costa-del-sol,Apartment,2,90,475000,5278,2026-09-29,,false
-N9949,Pinoso,cb-south,Villa,3,124,341500,2754,2026-09-29,,false
-N9955,Aspe,cb-south,Villa,3,124,376500,3036,2026-09-29,,false
+N9949,Pinoso,cb-south,Villa,3,124,341500,2754,2026-09-29,2026-10-06,true
+N9955,Aspe,cb-south,Villa,3,124,376500,3036,2026-09-29,2026-10-06,true
 SP1410,San Pedro De Alcantara,costa-del-sol,Penthouse,4,212,2953200,13930,2026-09-29,,false
 N6057,Torrevieja,cb-south,Bungalow,2,80,380000,4750,2026-09-30,,false
 N8188,Santa Pola,cb-south,Penthouse,2,85,362000,4259,2026-09-30,,false
@@ -251,4 +251,7 @@ N9567,Benejúzar,cb-south,Apartment,2,44,131250,2983,2026-10-03,,false
 N9991,Finestrat,cb-north,Villa,5,118,859900,7287,2026-10-03,,false
 SP1012,San Pedro del Pinatar,costa-calida,Bungalow,2,60,276000,4600,2026-10-03,,false
 SP1014,San Pedro del Pinatar,costa-calida,Bungalow,2,60,288000,4800,2026-10-03,,false
-N8071,Aguilas,costa-calida,Apartment,3,80,288000,3600,2026-10-05,,true
+N8071,Aguilas,costa-calida,Apartment,3,80,288000,3600,2026-10-05,,false
+N7982,Benijofar,cb-south,Penthouse,2,65,451000,6938,2026-10-06,,false
+N9961,Torrevieja,cb-south,Penthouse,1,33,229000,6939,2026-10-06,,false
+SP1293,Los Alcazares,costa-calida,Penthouse,3,95,465000,4895,2026-10-06,,false
