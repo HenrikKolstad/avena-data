@@ -115,7 +115,6 @@ N9468,Torrevieja,cb-south,Apartment,1,46,209000,4543,2026-09-04,,false
 SP0385,Marbella,costa-del-sol,Villa,4,229,4200000,18341,2026-09-04,,false
 N3099V,Finestrat,cb-north,Villa,5,118,859000,7280,2026-09-05,,false
 N7402,San Fulgencio,cb-south,Villa,3,143,873000,6105,2026-09-05,,false
-SP0058,Jávea Xàbia,cb-north,Apartment,2,60,370000,6167,2026-09-05,2026-09-19,true
 SP0473,Estepona,costa-del-sol,Apartment,3,80,405500,5069,2026-09-05,,false
 SP0476,Estepona,costa-del-sol,Penthouse,2,68,461000,6779,2026-09-05,,false
 SP0478,Estepona,costa-del-sol,Penthouse,4,98,566000,5776,2026-09-05,,false
@@ -255,3 +254,14 @@ N8071,Aguilas,costa-calida,Apartment,3,80,288000,3600,2026-10-05,,false
 N7982,Benijofar,cb-south,Penthouse,2,65,451000,6938,2026-10-06,,false
 N9961,Torrevieja,cb-south,Penthouse,1,33,229000,6939,2026-10-06,,false
 SP1293,Los Alcazares,costa-calida,Penthouse,3,95,465000,4895,2026-10-06,,false
+N8902,Torre Pacheco,costa-calida,Villa,3,90,389950,4333,2026-10-07,,false
+N9203,Villajoyosa,cb-north,Apartment,2,70,375000,5357,2026-10-07,,false
+N9391,Pilar de La Horadada,cb-south,Bungalow,2,80,359000,4488,2026-10-07,,false
+N9392,Pilar de La Horadada,cb-south,Bungalow,2,80,369000,4613,2026-10-07,,false
+N9407,Fuente Álamo,costa-calida,Villa,3,123,519900,4227,2026-10-07,,false
+SP0058,Jávea Xàbia,cb-north,Apartment,2,60,370000,6167,2026-10-07,,false
+SP1027,Málaga,costa-del-sol,Apartment,1,54,755000,13981,2026-10-07,,true
+SP1028,Málaga,costa-del-sol,Apartment,2,68,1190000,17500,2026-10-07,,true
+SP1029,Málaga,costa-del-sol,Apartment,3,109,1300000,11927,2026-10-07,,true
+SP1030,Málaga,costa-del-sol,Apartment,4,181,3690000,20387,2026-10-07,,true
+SP1373,Málaga,costa-del-sol,Penthouse,4,184,5295000,28777,2026-10-07,,true

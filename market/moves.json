@@ -6108,5 +6108,215 @@
     "change_pct": 0.66,
     "town": "Finestrat",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N6034",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 598000,
+    "new_price_eur": 645000,
+    "change_pct": 7.86,
+    "town": "Ciudad Quesada",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7816",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 308000,
+    "new_price_eur": 323000,
+    "change_pct": 4.87,
+    "town": "Mutxamel",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8079",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 282900,
+    "new_price_eur": 284900,
+    "change_pct": 0.71,
+    "town": "San Pedro del Pinatar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8080",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 317900,
+    "new_price_eur": 319900,
+    "change_pct": 0.63,
+    "town": "San Pedro del Pinatar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8082",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 322900,
+    "new_price_eur": 324900,
+    "change_pct": 0.62,
+    "town": "San Pedro del Pinatar",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8682",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 785000,
+    "new_price_eur": 825000,
+    "change_pct": 5.1,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9385",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 248000,
+    "new_price_eur": 258000,
+    "change_pct": 4.03,
+    "town": "La Marina",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9720",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 268900,
+    "new_price_eur": 271900,
+    "change_pct": 1.12,
+    "town": "Torre Pacheco",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9987",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 587000,
+    "new_price_eur": 568000,
+    "change_pct": -3.24,
+    "town": "Ciudad Quesada",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0637",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 498500,
+    "new_price_eur": 525700,
+    "change_pct": 5.46,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0664",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 395000,
+    "new_price_eur": 350000,
+    "change_pct": -11.39,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0665",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 440000,
+    "new_price_eur": 425000,
+    "change_pct": -3.41,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0998",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 492000,
+    "new_price_eur": 442000,
+    "change_pct": -10.16,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0999",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 608000,
+    "new_price_eur": 451000,
+    "change_pct": -25.82,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1161",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 285000,
+    "new_price_eur": 240000,
+    "change_pct": -15.79,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1162",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 370000,
+    "new_price_eur": 325000,
+    "change_pct": -12.16,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1340",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 435000,
+    "new_price_eur": 405000,
+    "change_pct": -6.9,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1341",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 501500,
+    "new_price_eur": 531000,
+    "change_pct": 5.88,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1342",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 440000,
+    "new_price_eur": 425000,
+    "change_pct": -3.41,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1343",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 532000,
+    "new_price_eur": 493000,
+    "change_pct": -7.33,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1868",
+    "date": "2026-10-07",
+    "prev_date": "2026-10-06",
+    "prev_price_eur": 578500,
+    "new_price_eur": 581000,
+    "change_pct": 0.43,
+    "town": "Finestrat",
+    "type": "Townhouse"
   }
 ]

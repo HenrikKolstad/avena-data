@@ -1,8 +1,8 @@
 {
   "name": "Avena Spanish Coastal New-Build Market Observations",
-  "version": "v2026-10-06",
+  "version": "v2026-10-07",
   "schema_version": 2,
-  "generated_at": "2026-10-06T11:59:23.465Z",
+  "generated_at": "2026-10-07T11:44:24.263Z",
   "license": "CC-BY-4.0",
   "attribution": "Avena Terminal (avenaterminal.com)",
   "doi": "10.5281/zenodo.19520064",
@@ -12,17 +12,17 @@
   },
   "observation_ledger": {
     "first_date": "2026-08-05",
-    "latest_date": "2026-10-06",
-    "observation_days": 63,
-    "refs_observed": 2264,
-    "moves_recorded": 611,
-    "delistings_recorded": 256,
-    "relistings_recorded": 36,
-    "delistings_still_listed": 31,
-    "delistings_currently_absent": 225
+    "latest_date": "2026-10-07",
+    "observation_days": 64,
+    "refs_observed": 2273,
+    "moves_recorded": 632,
+    "delistings_recorded": 266,
+    "relistings_recorded": 35,
+    "delistings_still_listed": 35,
+    "delistings_currently_absent": 231
   },
   "cross_section": {
-    "live_listings": 2030,
+    "live_listings": 2028,
     "towns_published": 68,
     "town_k_threshold": 5
   },
@@ -36,7 +36,7 @@
     "Prices are ASKING prices observed in listings. Spanish transaction prices are not public at unit level; nothing here is a registered sale price.",
     "The observation ledger begins 2026-08-05. Earlier internal tables exist but repeated a frozen snapshot rather than recording observations, and are excluded on principle.",
     "A delisting means the unit left the observed feed — strong evidence of absorption, not a notarised sale.",
-    "36 of the 256 delisted units were later observed listed again (relisted_on). Of those, 31 are on the market as of the latest observation day (still_listed=true) and are NOT evidence of absorption; the rest returned and left again. 225 of the 256 tombstoned units are absent today. Tombstones are never deleted — a withdrawal followed by a return is itself an observation, and one no public source records.",
+    "35 of the 266 delisted units were later observed listed again (relisted_on). Of those, 35 are on the market as of the latest observation day (still_listed=true) and are NOT evidence of absorption; the rest returned and left again. 231 of the 266 tombstoned units are absent today. Tombstones are never deleted — a withdrawal followed by a return is itself an observation, and one no public source records.",
     "Cross-sectional aggregates cover only towns with at least 5 live listings.",
     "No listing descriptions, images, URLs, or project/developer names are redistributed — only numeric observations and derived statistics.",
     "AVM accuracy, measured nightly against the whole book, is published at https://avenaterminal.com/model-stats.json (in-sample, caveats included)."
