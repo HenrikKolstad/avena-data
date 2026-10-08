@@ -2,11 +2,11 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 221,
+    "n_listings": 216,
     "median_price_eur": 725000,
-    "median_pm2_eur": 6755,
+    "median_pm2_eur": 6701,
     "p25_pm2_eur": 5361,
-    "p75_pm2_eur": 9016,
+    "p75_pm2_eur": 8967,
     "median_built_m2": 103,
     "villa_share_pct": 13,
     "median_beach_km": 1
@@ -18,7 +18,7 @@
     "median_price_eur": 570000,
     "median_pm2_eur": 6731,
     "p25_pm2_eur": 5606,
-    "p75_pm2_eur": 8309,
+    "p75_pm2_eur": 8299,
     "median_built_m2": 86,
     "villa_share_pct": 17,
     "median_beach_km": 2
@@ -96,6 +96,18 @@
     "median_beach_km": 3
   },
   {
+    "town": "Guardamar del Segura",
+    "costa": "Costa Blanca South",
+    "n_listings": 57,
+    "median_price_eur": 332500,
+    "median_pm2_eur": 4700,
+    "p25_pm2_eur": 4271,
+    "p75_pm2_eur": 5724,
+    "median_built_m2": 65,
+    "villa_share_pct": 2,
+    "median_beach_km": 1
+  },
+  {
     "town": "Casares",
     "costa": "Costa del Sol",
     "n_listings": 52,
@@ -106,18 +118,6 @@
     "median_built_m2": 97,
     "villa_share_pct": 6,
     "median_beach_km": 1.65
-  },
-  {
-    "town": "Guardamar del Segura",
-    "costa": "Costa Blanca South",
-    "n_listings": 52,
-    "median_price_eur": 316620,
-    "median_pm2_eur": 4809,
-    "p25_pm2_eur": 4253,
-    "p75_pm2_eur": 5693,
-    "median_built_m2": 65,
-    "villa_share_pct": 2,
-    "median_beach_km": 1
   },
   {
     "town": "San Pedro del Pinatar",
@@ -598,6 +598,18 @@
     "median_built_m2": 103,
     "villa_share_pct": 0,
     "median_beach_km": 1.2
+  },
+  {
+    "town": "Santa Pola",
+    "costa": "Costa Blanca South",
+    "n_listings": 10,
+    "median_price_eur": 274000,
+    "median_pm2_eur": 4199,
+    "p25_pm2_eur": 4106,
+    "p75_pm2_eur": 4421,
+    "median_built_m2": 64,
+    "villa_share_pct": 0,
+    "median_beach_km": 1
   },
   {
     "town": "Ciudad Quesada",

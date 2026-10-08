@@ -1,14 +1,14 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,221,725000,6755,5361,9016,103,13,1
-Mijas,Costa del Sol,197,570000,6731,5606,8309,86,17,2
+Estepona,Costa del Sol,216,725000,6701,5361,8967,103,13,1
+Mijas,Costa del Sol,197,570000,6731,5606,8299,86,17,2
 Torrevieja,Costa Blanca South,112,305000,4981,4283,5691,62,25,0.6
 Fuengirola,Costa del Sol,100,740500,7475,6295,9701,91,14,1.5
 Pilar de La Horadada,Costa Blanca South,86,367250,4942,4348,5636,77,72,2
 Marbella,Costa del Sol,84,1097500,8203,6528,12117,119,31,2.1
 Los Alcazares,Costa Calida,76,398325,4667,4235,5551,85,41,0.9
 Finestrat,Costa Blanca North,59,550000,5598,4813,6496,106,54,3
+Guardamar del Segura,Costa Blanca South,57,332500,4700,4271,5724,65,2,1
 Casares,Costa del Sol,52,564000,5936,4979,6978,97,6,1.65
-Guardamar del Segura,Costa Blanca South,52,316620,4809,4253,5693,65,2,1
 San Pedro del Pinatar,Costa Calida,51,299950,4345,3956,5242,68,49,0.9
 Torre Pacheco,Costa Calida,49,315900,4141,3683,4929,80,65,8
 Benijofar,Costa Blanca South,41,389900,4708,4227,5339,75,32,8
@@ -49,6 +49,7 @@ Dolores,Costa Blanca South,10,417450,3928,3832,4671,85,100,12
 La Manga del Mar Menor,Costa Calida,10,330000,4425,3363,4830,84,20,0.1
 Mazarron,Costa Calida - Inland,10,279450,2517,2204,4038,65,70,9
 San Pedro De Alcantara,Costa del Sol,10,710825,9056,7299,10936,103,0,1.2
+Santa Pola,Costa Blanca South,10,274000,4199,4106,4421,64,0,1
 Ciudad Quesada,Costa Blanca South,9,549000,4886,4495,5490,100,100,7
 Mutxamel,Costa Blanca North,9,399000,5210,4125,5471,80,33,6
 Aspe,Costa Blanca South - Inland,8,459000,3377,3299,3673,132,100,25.5

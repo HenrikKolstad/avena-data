@@ -6318,5 +6318,45 @@
     "change_pct": 0.43,
     "town": "Finestrat",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9113",
+    "date": "2026-10-08",
+    "prev_date": "2026-10-07",
+    "prev_price_eur": 703000,
+    "new_price_eur": 648000,
+    "change_pct": -7.82,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1881",
+    "date": "2026-10-08",
+    "prev_date": "2026-10-07",
+    "prev_price_eur": 3237000,
+    "new_price_eur": 4200000,
+    "change_pct": 29.75,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1882",
+    "date": "2026-10-08",
+    "prev_date": "2026-10-07",
+    "prev_price_eur": 3003000,
+    "new_price_eur": 3200000,
+    "change_pct": 6.56,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1884",
+    "date": "2026-10-08",
+    "prev_date": "2026-10-07",
+    "prev_price_eur": 6500000,
+    "new_price_eur": 7300000,
+    "change_pct": 12.31,
+    "town": "Estepona",
+    "type": "Penthouse"
   }
 ]

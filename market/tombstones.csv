@@ -260,8 +260,13 @@ N9391,Pilar de La Horadada,cb-south,Bungalow,2,80,359000,4488,2026-10-07,,false
 N9392,Pilar de La Horadada,cb-south,Bungalow,2,80,369000,4613,2026-10-07,,false
 N9407,Fuente Álamo,costa-calida,Villa,3,123,519900,4227,2026-10-07,,false
 SP0058,Jávea Xàbia,cb-north,Apartment,2,60,370000,6167,2026-10-07,,false
-SP1027,Málaga,costa-del-sol,Apartment,1,54,755000,13981,2026-10-07,,true
-SP1028,Málaga,costa-del-sol,Apartment,2,68,1190000,17500,2026-10-07,,true
-SP1029,Málaga,costa-del-sol,Apartment,3,109,1300000,11927,2026-10-07,,true
-SP1030,Málaga,costa-del-sol,Apartment,4,181,3690000,20387,2026-10-07,,true
-SP1373,Málaga,costa-del-sol,Penthouse,4,184,5295000,28777,2026-10-07,,true
+SP1027,Málaga,costa-del-sol,Apartment,1,54,755000,13981,2026-10-07,,false
+SP1028,Málaga,costa-del-sol,Apartment,2,68,1190000,17500,2026-10-07,,false
+SP1029,Málaga,costa-del-sol,Apartment,3,109,1300000,11927,2026-10-07,,false
+SP1030,Málaga,costa-del-sol,Apartment,4,181,3690000,20387,2026-10-07,,false
+SP1373,Málaga,costa-del-sol,Penthouse,4,184,5295000,28777,2026-10-07,,false
+N8588,Estepona,costa-del-sol,Apartment,1,39,390000,10000,2026-10-08,,false
+N8590,Estepona,costa-del-sol,Apartment,1,65,440000,6769,2026-10-08,,false
+N8591,Estepona,costa-del-sol,Apartment,2,108,550000,5093,2026-10-08,,false
+N8593,Estepona,costa-del-sol,Penthouse,3,122,1100000,9016,2026-10-08,,false
+SP1883,Estepona,costa-del-sol,Apartment,4,250,5700500,22802,2026-10-08,,false
