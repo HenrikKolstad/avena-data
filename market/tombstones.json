@@ -841,8 +841,8 @@
     "last_price_eur": 509000,
     "last_pm2_eur": 8483,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-09",
+    "still_listed": true
   },
   {
     "avn_id": "SP1498",
@@ -854,8 +854,8 @@
     "last_price_eur": 655000,
     "last_pm2_eur": 5078,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-09",
+    "still_listed": true
   },
   {
     "avn_id": "SP1499",
@@ -867,8 +867,8 @@
     "last_price_eur": 859000,
     "last_pm2_eur": 7342,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-09",
+    "still_listed": true
   },
   {
     "avn_id": "SP1501",
@@ -880,8 +880,8 @@
     "last_price_eur": 839000,
     "last_pm2_eur": 5448,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-09",
+    "still_listed": true
   },
   {
     "avn_id": "SP1502",
@@ -893,8 +893,8 @@
     "last_price_eur": 589000,
     "last_pm2_eur": 9817,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-09",
+    "still_listed": true
   },
   {
     "avn_id": "SP1503",
@@ -906,8 +906,8 @@
     "last_price_eur": 865000,
     "last_pm2_eur": 9830,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-09",
+    "still_listed": true
   },
   {
     "avn_id": "SP1504",
@@ -919,8 +919,8 @@
     "last_price_eur": 999000,
     "last_pm2_eur": 9606,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-09",
+    "still_listed": true
   },
   {
     "avn_id": "SP1629",
@@ -3519,6 +3519,71 @@
     "last_price_eur": 5700500,
     "last_pm2_eur": 22802,
     "last_seen_date": "2026-10-08",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0870",
+    "town": "Benahavís",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 177,
+    "last_price_eur": 2250000,
+    "last_pm2_eur": 12712,
+    "last_seen_date": "2026-10-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1775",
+    "town": "La Manga Club",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": 2,
+    "built_m2": 85,
+    "last_price_eur": 365000,
+    "last_pm2_eur": 4294,
+    "last_seen_date": "2026-10-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1776",
+    "town": "La Manga Club",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 450000,
+    "last_pm2_eur": 4500,
+    "last_seen_date": "2026-10-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1777",
+    "town": "La Manga Club",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": 2,
+    "built_m2": 85,
+    "last_price_eur": 400000,
+    "last_pm2_eur": 4706,
+    "last_seen_date": "2026-10-09",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1811",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 94,
+    "last_price_eur": 590000,
+    "last_pm2_eur": 6277,
+    "last_seen_date": "2026-10-09",
     "relisted_on": null,
     "still_listed": false
   }

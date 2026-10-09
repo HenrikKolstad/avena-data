@@ -6358,5 +6358,165 @@
     "change_pct": 12.31,
     "town": "Estepona",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8408",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 725000,
+    "new_price_eur": 790000,
+    "change_pct": 8.97,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8410",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 695000,
+    "new_price_eur": 845000,
+    "change_pct": 21.58,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8507",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 265000,
+    "new_price_eur": 246000,
+    "change_pct": -7.17,
+    "town": "Aguilas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8619",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 379845,
+    "new_price_eur": 405000,
+    "change_pct": 6.62,
+    "town": "Fuente Álamo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9682",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 209900,
+    "new_price_eur": 219900,
+    "change_pct": 4.76,
+    "town": "San Miguel de Salinas",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1405",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 638700,
+    "new_price_eur": 547000,
+    "change_pct": -14.36,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1406",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 697850,
+    "new_price_eur": 734000,
+    "change_pct": 5.18,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1407",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 1458250,
+    "new_price_eur": 1545000,
+    "change_pct": 5.95,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1497",
+    "date": "2026-10-09",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 509000,
+    "new_price_eur": 425000,
+    "change_pct": -16.5,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1498",
+    "date": "2026-10-09",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 655000,
+    "new_price_eur": 665000,
+    "change_pct": 1.53,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1499",
+    "date": "2026-10-09",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 859000,
+    "new_price_eur": 795000,
+    "change_pct": -7.45,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1501",
+    "date": "2026-10-09",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 839000,
+    "new_price_eur": 742000,
+    "change_pct": -11.56,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1502",
+    "date": "2026-10-09",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 589000,
+    "new_price_eur": 489000,
+    "change_pct": -16.98,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1503",
+    "date": "2026-10-09",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 865000,
+    "new_price_eur": 845000,
+    "change_pct": -2.31,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1504",
+    "date": "2026-10-09",
+    "prev_date": "2026-08-18",
+    "prev_price_eur": 999000,
+    "new_price_eur": 949000,
+    "change_pct": -5.01,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1649",
+    "date": "2026-10-09",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 302500,
+    "new_price_eur": 296500,
+    "change_pct": -1.98,
+    "town": "Alicante",
+    "type": "Apartment"
   }
 ]

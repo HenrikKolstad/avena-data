@@ -63,13 +63,13 @@ SP1480,Jávea Xàbia,cb-north,Apartment,3,78,485000,6218,2026-08-19,,false
 SP1481,Jávea Xàbia,cb-north,Apartment,2,70,345000,4929,2026-08-19,,false
 SP1483,Jávea Xàbia,cb-north,Penthouse,2,63,485000,7698,2026-08-19,,false
 SP1484,Jávea Xàbia,cb-north,Penthouse,3,70,525000,7500,2026-08-19,2026-09-24,true
-SP1497,Estepona,costa-del-sol,Apartment,1,60,509000,8483,2026-08-19,,false
-SP1498,Estepona,costa-del-sol,Apartment,2,129,655000,5078,2026-08-19,,false
-SP1499,Estepona,costa-del-sol,Apartment,3,117,859000,7342,2026-08-19,,false
-SP1501,Estepona,costa-del-sol,Apartment,3,154,839000,5448,2026-08-19,,false
-SP1502,Estepona,costa-del-sol,Penthouse,1,60,589000,9817,2026-08-19,,false
-SP1503,Estepona,costa-del-sol,Penthouse,2,88,865000,9830,2026-08-19,,false
-SP1504,Estepona,costa-del-sol,Penthouse,3,104,999000,9606,2026-08-19,,false
+SP1497,Estepona,costa-del-sol,Apartment,1,60,509000,8483,2026-08-19,2026-10-09,true
+SP1498,Estepona,costa-del-sol,Apartment,2,129,655000,5078,2026-08-19,2026-10-09,true
+SP1499,Estepona,costa-del-sol,Apartment,3,117,859000,7342,2026-08-19,2026-10-09,true
+SP1501,Estepona,costa-del-sol,Apartment,3,154,839000,5448,2026-08-19,2026-10-09,true
+SP1502,Estepona,costa-del-sol,Penthouse,1,60,589000,9817,2026-08-19,2026-10-09,true
+SP1503,Estepona,costa-del-sol,Penthouse,2,88,865000,9830,2026-08-19,2026-10-09,true
+SP1504,Estepona,costa-del-sol,Penthouse,3,104,999000,9606,2026-08-19,2026-10-09,true
 SP1629,Estepona,costa-del-sol,Penthouse,2,108,467000,4324,2026-08-19,,false
 N8274,Pilar de La Horadada,cb-south,Bungalow,3,77,380000,4935,2026-08-20,,false
 SP1116,Casares,costa-del-sol,Apartment,2,78,587600,7533,2026-08-20,,false
@@ -270,3 +270,8 @@ N8590,Estepona,costa-del-sol,Apartment,1,65,440000,6769,2026-10-08,,false
 N8591,Estepona,costa-del-sol,Apartment,2,108,550000,5093,2026-10-08,,false
 N8593,Estepona,costa-del-sol,Penthouse,3,122,1100000,9016,2026-10-08,,false
 SP1883,Estepona,costa-del-sol,Apartment,4,250,5700500,22802,2026-10-08,,false
+SP0870,Benahavís,costa-del-sol,Penthouse,3,177,2250000,12712,2026-10-09,,false
+SP1775,La Manga Club,costa-calida,Townhouse,2,85,365000,4294,2026-10-09,,false
+SP1776,La Manga Club,costa-calida,Townhouse,3,100,450000,4500,2026-10-09,,false
+SP1777,La Manga Club,costa-calida,Townhouse,2,85,400000,4706,2026-10-09,,false
+SP1811,Mijas,costa-del-sol,Townhouse,3,94,590000,6277,2026-10-09,,false
