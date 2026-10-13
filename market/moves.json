@@ -6518,5 +6518,55 @@
     "change_pct": -1.98,
     "town": "Alicante",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N7720",
+    "date": "2026-10-13",
+    "prev_date": "2026-10-12",
+    "prev_price_eur": 299000,
+    "new_price_eur": 329000,
+    "change_pct": 10.03,
+    "town": "Pilar de La Horadada",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0641",
+    "date": "2026-10-13",
+    "prev_date": "2026-10-12",
+    "prev_price_eur": 695000,
+    "new_price_eur": 630000,
+    "change_pct": -9.35,
+    "town": "rincon de la victoria",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0664",
+    "date": "2026-10-13",
+    "prev_date": "2026-10-12",
+    "prev_price_eur": 350000,
+    "new_price_eur": 395000,
+    "change_pct": 12.86,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0665",
+    "date": "2026-10-13",
+    "prev_date": "2026-10-12",
+    "prev_price_eur": 425000,
+    "new_price_eur": 405000,
+    "change_pct": -4.71,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0843",
+    "date": "2026-10-13",
+    "prev_date": "2026-10-12",
+    "prev_price_eur": 635000,
+    "new_price_eur": 630000,
+    "change_pct": -0.79,
+    "town": "Villajoyosa",
+    "type": "Penthouse"
   }
 ]
