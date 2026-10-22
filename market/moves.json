@@ -6568,5 +6568,1065 @@
     "change_pct": -0.79,
     "town": "Villajoyosa",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7092",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 360000,
+    "new_price_eur": 375000,
+    "change_pct": 4.17,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7360",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 519900,
+    "new_price_eur": 537900,
+    "change_pct": 3.46,
+    "town": "Los Alcazares",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N7361",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 719900,
+    "new_price_eur": 749900,
+    "change_pct": 4.17,
+    "town": "Los Alcazares",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7396",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 434000,
+    "new_price_eur": 379000,
+    "change_pct": -12.67,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7397",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 507000,
+    "new_price_eur": 489000,
+    "change_pct": -3.55,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7398",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 414000,
+    "new_price_eur": 379000,
+    "change_pct": -8.45,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7399",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 534000,
+    "new_price_eur": 488000,
+    "change_pct": -8.61,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7400",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 625000,
+    "new_price_eur": 588000,
+    "change_pct": -5.92,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7401",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 774000,
+    "new_price_eur": 752000,
+    "change_pct": -2.84,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7523",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 1150000,
+    "new_price_eur": 1050000,
+    "change_pct": -8.7,
+    "town": "Marbella",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7606",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 370000,
+    "new_price_eur": 349000,
+    "change_pct": -5.68,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7879",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 529900,
+    "new_price_eur": 549900,
+    "change_pct": 3.77,
+    "town": "Monforte del Cid",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8566",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 319900,
+    "new_price_eur": 429900,
+    "change_pct": 34.39,
+    "town": "San Miguel de Salinas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8706",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 354900,
+    "new_price_eur": 409900,
+    "change_pct": 15.5,
+    "town": "Pilar de La Horadada",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8723",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 847000,
+    "new_price_eur": 478000,
+    "change_pct": -43.57,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8949",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 249000,
+    "new_price_eur": 240000,
+    "change_pct": -3.61,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8950",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 355000,
+    "new_price_eur": 328700,
+    "change_pct": -7.41,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8987",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 662948,
+    "new_price_eur": 646320,
+    "change_pct": -2.51,
+    "town": "Fuente Álamo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9042",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 490000,
+    "new_price_eur": 455000,
+    "change_pct": -7.14,
+    "town": "Vélez Málaga",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9046",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 601500,
+    "new_price_eur": 594000,
+    "change_pct": -1.25,
+    "town": "San Roque",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9083",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 415000,
+    "new_price_eur": 425000,
+    "change_pct": 2.41,
+    "town": "Dolores",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9205",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 550000,
+    "new_price_eur": 575000,
+    "change_pct": 4.55,
+    "town": "Villajoyosa",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9307",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 382000,
+    "new_price_eur": 475000,
+    "change_pct": 24.35,
+    "town": "Los Alcazares",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9351",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 287000,
+    "new_price_eur": 289000,
+    "change_pct": 0.7,
+    "town": "Torrevieja",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9353",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 599900,
+    "new_price_eur": 625900,
+    "change_pct": 4.33,
+    "town": "Monforte del Cid",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9385",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 258000,
+    "new_price_eur": 289000,
+    "change_pct": 12.02,
+    "town": "La Marina",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9422",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 204900,
+    "new_price_eur": 207900,
+    "change_pct": 1.46,
+    "town": "Bigastro",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9423",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 179900,
+    "new_price_eur": 180900,
+    "change_pct": 0.56,
+    "town": "Bigastro",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9424",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 209900,
+    "new_price_eur": 217900,
+    "change_pct": 3.81,
+    "town": "Bigastro",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9433",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 419900,
+    "new_price_eur": 444900,
+    "change_pct": 5.95,
+    "town": "Dolores",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9495",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 228000,
+    "new_price_eur": 229000,
+    "change_pct": 0.44,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9498",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 241000,
+    "new_price_eur": 246000,
+    "change_pct": 2.07,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9521",
+    "date": "2026-10-21",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 298000,
+    "new_price_eur": 309000,
+    "change_pct": 3.69,
+    "town": "Puerto de Mazarron",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9533",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 614000,
+    "new_price_eur": 461000,
+    "change_pct": -24.92,
+    "town": "Baños y Mendigo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9562",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 246900,
+    "new_price_eur": 249900,
+    "change_pct": 1.22,
+    "town": "Torre Pacheco",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9634",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 329000,
+    "new_price_eur": 340000,
+    "change_pct": 3.34,
+    "town": "Algorfa",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9720",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 271900,
+    "new_price_eur": 286900,
+    "change_pct": 5.52,
+    "town": "Torre Pacheco",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9722",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 283900,
+    "new_price_eur": 289900,
+    "change_pct": 2.11,
+    "town": "Torre Pacheco",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9781",
+    "date": "2026-10-21",
+    "prev_date": "2026-09-21",
+    "prev_price_eur": 635000,
+    "new_price_eur": 655000,
+    "change_pct": 3.15,
+    "town": "Vélez Málaga",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9788",
+    "date": "2026-10-21",
+    "prev_date": "2026-09-14",
+    "prev_price_eur": 287000,
+    "new_price_eur": 302000,
+    "change_pct": 5.23,
+    "town": "Puerto de Mazarron",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9791",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 310000,
+    "new_price_eur": 299000,
+    "change_pct": -3.55,
+    "town": "Fuente Álamo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9798",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 282000,
+    "new_price_eur": 287000,
+    "change_pct": 1.77,
+    "town": "Torrevieja",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9809",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 289000,
+    "new_price_eur": 299000,
+    "change_pct": 3.46,
+    "town": "Mazarron",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9810",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 319000,
+    "new_price_eur": 309000,
+    "change_pct": -3.13,
+    "town": "Mazarron",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9824",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 358184,
+    "new_price_eur": 355256,
+    "change_pct": -0.82,
+    "town": "Lorca",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9900",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 302000,
+    "new_price_eur": 278000,
+    "change_pct": -7.95,
+    "town": "Alfas del Pi",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9932",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 459900,
+    "new_price_eur": 464900,
+    "change_pct": 1.09,
+    "town": "Torre Pacheco",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9984",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 850000,
+    "new_price_eur": 825000,
+    "change_pct": -2.94,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0403",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 5350000,
+    "new_price_eur": 5650000,
+    "change_pct": 5.61,
+    "town": "Marbella",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0641",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 630000,
+    "new_price_eur": 695000,
+    "change_pct": 10.32,
+    "town": "rincon de la victoria",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0664",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 395000,
+    "new_price_eur": 350000,
+    "change_pct": -11.39,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0769",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 4350000,
+    "new_price_eur": 4290000,
+    "change_pct": -1.38,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0866",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 1249000,
+    "new_price_eur": 1295000,
+    "change_pct": 3.68,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0868",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 899000,
+    "new_price_eur": 949000,
+    "change_pct": 5.56,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0873",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 499000,
+    "new_price_eur": 560000,
+    "change_pct": 12.22,
+    "town": "Pilar de La Horadada",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0930",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 565000,
+    "new_price_eur": 550000,
+    "change_pct": -2.65,
+    "town": "Torrevieja",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP0936",
+    "date": "2026-10-21",
+    "prev_date": "2026-09-18",
+    "prev_price_eur": 255500,
+    "new_price_eur": 278900,
+    "change_pct": 9.16,
+    "town": "Alicante",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1095",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 620000,
+    "new_price_eur": 595000,
+    "change_pct": -4.03,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1097",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 990000,
+    "new_price_eur": 875000,
+    "change_pct": -11.62,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1155",
+    "date": "2026-10-21",
+    "prev_date": "2026-09-04",
+    "prev_price_eur": 460000,
+    "new_price_eur": 401000,
+    "change_pct": -12.83,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1157",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 520000,
+    "new_price_eur": 466000,
+    "change_pct": -10.38,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1158",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 565000,
+    "new_price_eur": 550000,
+    "change_pct": -2.65,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1263",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 1530000,
+    "new_price_eur": 1670000,
+    "change_pct": 9.15,
+    "town": "Fuengirola",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1276",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 590000,
+    "new_price_eur": 695000,
+    "change_pct": 17.8,
+    "town": "Fuengirola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1277",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 1125000,
+    "new_price_eur": 1690000,
+    "change_pct": 50.22,
+    "town": "Fuengirola",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1345",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 299000,
+    "new_price_eur": 294000,
+    "change_pct": -1.67,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1347",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 304000,
+    "new_price_eur": 277000,
+    "change_pct": -8.88,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1348",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 353000,
+    "new_price_eur": 347000,
+    "change_pct": -1.7,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1401",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 1321000,
+    "new_price_eur": 1320000,
+    "change_pct": -0.08,
+    "town": "Sotogrande",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1402",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 1388000,
+    "new_price_eur": 1511000,
+    "change_pct": 8.86,
+    "town": "Sotogrande",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1424",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 825000,
+    "new_price_eur": 715000,
+    "change_pct": -13.33,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1425",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 475000,
+    "new_price_eur": 473000,
+    "change_pct": -0.42,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1438",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 330000,
+    "new_price_eur": 355000,
+    "change_pct": 7.58,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1440",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 685000,
+    "new_price_eur": 750000,
+    "change_pct": 9.49,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1488",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 3200000,
+    "new_price_eur": 3150000,
+    "change_pct": -1.56,
+    "town": "Fuengirola",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1489",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 579700,
+    "new_price_eur": 615700,
+    "change_pct": 6.21,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1513",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 3300000,
+    "new_price_eur": 3500000,
+    "change_pct": 6.06,
+    "town": "Altea",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1648",
+    "date": "2026-10-21",
+    "prev_date": "2026-09-10",
+    "prev_price_eur": 268500,
+    "new_price_eur": 256500,
+    "change_pct": -4.47,
+    "town": "Alicante",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1649",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 296500,
+    "new_price_eur": 302500,
+    "change_pct": 2.02,
+    "town": "Alicante",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1650",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 315086,
+    "new_price_eur": 320014,
+    "change_pct": 1.56,
+    "town": "La Linea De La Concepcion",
+    "type": "Studio"
+  },
+  {
+    "avn_id": "SP1651",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 580422,
+    "new_price_eur": 589500,
+    "change_pct": 1.56,
+    "town": "La Linea De La Concepcion",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1652",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 873398,
+    "new_price_eur": 954396,
+    "change_pct": 9.27,
+    "town": "La Linea De La Concepcion",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1653",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 1279850,
+    "new_price_eur": 1296856,
+    "change_pct": 1.33,
+    "town": "La Linea De La Concepcion",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1673",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 382000,
+    "new_price_eur": 354000,
+    "change_pct": -7.33,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1674",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 455000,
+    "new_price_eur": 452000,
+    "change_pct": -0.66,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1675",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 590000,
+    "new_price_eur": 597000,
+    "change_pct": 1.19,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1677",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 956000,
+    "new_price_eur": 1040000,
+    "change_pct": 8.79,
+    "town": "Torremolinos",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1715",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 970000,
+    "new_price_eur": 960000,
+    "change_pct": -1.03,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1784",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 789100,
+    "new_price_eur": 820200,
+    "change_pct": 3.94,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1829",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 532000,
+    "new_price_eur": 515000,
+    "change_pct": -3.2,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1838",
+    "date": "2026-10-21",
+    "prev_date": "2026-08-27",
+    "prev_price_eur": 256000,
+    "new_price_eur": 231000,
+    "change_pct": -9.77,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1867",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 765000,
+    "new_price_eur": 775000,
+    "change_pct": 1.31,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP1875",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 585000,
+    "new_price_eur": 897000,
+    "change_pct": 53.33,
+    "town": "El Campello",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1877",
+    "date": "2026-10-21",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 465000,
+    "new_price_eur": 493000,
+    "change_pct": 6.02,
+    "town": "la Nucia",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N6130",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 1400000,
+    "new_price_eur": 1350000,
+    "change_pct": -3.57,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N7708",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 420000,
+    "new_price_eur": 375000,
+    "change_pct": -10.71,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8443",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 7800000,
+    "new_price_eur": 7950000,
+    "change_pct": 1.92,
+    "town": "Marbella",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8638",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 366000,
+    "new_price_eur": 376000,
+    "change_pct": 2.73,
+    "town": "Orihuela",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8656",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 659000,
+    "new_price_eur": 679000,
+    "change_pct": 3.03,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9063",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 296000,
+    "new_price_eur": 355000,
+    "change_pct": 19.93,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9589",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 379000,
+    "new_price_eur": 390000,
+    "change_pct": 2.9,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9668",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 318000,
+    "new_price_eur": 320000,
+    "change_pct": 0.63,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9669",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 409000,
+    "new_price_eur": 408000,
+    "change_pct": -0.24,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9765",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 890000,
+    "new_price_eur": 915000,
+    "change_pct": 2.81,
+    "town": "Finestrat",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9766",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-13",
+    "prev_price_eur": 279000,
+    "new_price_eur": 285000,
+    "change_pct": 2.15,
+    "town": "San Pedro del Pinatar",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1865",
+    "date": "2026-10-22",
+    "prev_date": "2026-10-21",
+    "prev_price_eur": 2900000,
+    "new_price_eur": 3200000,
+    "change_pct": 10.34,
+    "town": "Málaga",
+    "type": "Villa"
   }
 ]
