@@ -27,14 +27,24 @@ jobs:
           if [ ! -f delphi/index.csv ]; then
             echo "date,consensus_index,disagreement_index,n_questions,n_panelists" > delphi/index.csv
           fi
-          jq -r --arg d "$DATE" '[$d, .consensus_index, .disagreement_index, (.panel|length), .n_panelists // ""] | @csv' \
-            "delphi/daily/${DATE}.json" >> delphi/index.csv || true
+          # Idempotent: a re-run on the same UTC day (manual dispatch, retry)
+          # must not append the date twice.
+          if grep -qE "^\"?${DATE}\"?," delphi/index.csv; then
+            echo "delphi/index.csv already has ${DATE} — skipping append"
+          else
+            jq -r --arg d "$DATE" '[$d, .consensus_index, .disagreement_index, (.panel|length), .n_panelists // ""] | @csv' \
+              "delphi/daily/${DATE}.json" >> delphi/index.csv || true
+          fi
 
           if [ ! -f plab/index.csv ]; then
             echo "date,model,accuracy_pct" > plab/index.csv
           fi
-          jq -r --arg d "$DATE" '.scores[]? | [$d, .model_label, .accuracy] | @csv' \
-            "plab/daily/${DATE}.json" >> plab/index.csv || true
+          if grep -qE "^\"?${DATE}\"?," plab/index.csv; then
+            echo "plab/index.csv already has ${DATE} — skipping append"
+          else
+            jq -r --arg d "$DATE" '.scores[]? | [$d, .model_label, .accuracy] | @csv' \
+              "plab/daily/${DATE}.json" >> plab/index.csv || true
+          fi
 
           # Market observations — the uncopyable series (town aggregates,
           # movement ledger, observed price moves, delisting tombstones).
