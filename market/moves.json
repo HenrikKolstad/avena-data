@@ -7628,5 +7628,275 @@
     "change_pct": 10.34,
     "town": "Málaga",
     "type": "Villa"
+  },
+  {
+    "avn_id": "N6122",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 657000,
+    "new_price_eur": 670000,
+    "change_pct": 1.98,
+    "town": "Benijofar",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N6123",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 525000,
+    "new_price_eur": 534000,
+    "change_pct": 1.71,
+    "town": "Benijofar",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N6124",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 586000,
+    "new_price_eur": 617000,
+    "change_pct": 5.29,
+    "town": "Benijofar",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N6125",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 708000,
+    "new_price_eur": 722000,
+    "change_pct": 1.98,
+    "town": "Benijofar",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N6126",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 637000,
+    "new_price_eur": 649000,
+    "change_pct": 1.88,
+    "town": "Benijofar",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8094",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 158202,
+    "new_price_eur": 168164,
+    "change_pct": 6.3,
+    "town": "Algorfa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8095",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 209708,
+    "new_price_eur": 220193,
+    "change_pct": 5,
+    "town": "Algorfa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8097",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 164862,
+    "new_price_eur": 164643,
+    "change_pct": -0.13,
+    "town": "Algorfa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8098",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 208266,
+    "new_price_eur": 218679,
+    "change_pct": 5,
+    "town": "Algorfa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8099",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 159000,
+    "new_price_eur": 166950,
+    "change_pct": 5,
+    "town": "Algorfa",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8100",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 189000,
+    "new_price_eur": 196835,
+    "change_pct": 4.15,
+    "town": "Algorfa",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8101",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 225570,
+    "new_price_eur": 236849,
+    "change_pct": 5,
+    "town": "Algorfa",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8223",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 566000,
+    "new_price_eur": 576000,
+    "change_pct": 1.77,
+    "town": "Benijofar",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8566",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 429900,
+    "new_price_eur": 399900,
+    "change_pct": -6.98,
+    "town": "San Miguel de Salinas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8931",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 521000,
+    "new_price_eur": 535000,
+    "change_pct": 2.69,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8932",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 681000,
+    "new_price_eur": 703000,
+    "change_pct": 3.23,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8933",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 468000,
+    "new_price_eur": 479500,
+    "change_pct": 2.46,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8934",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 518000,
+    "new_price_eur": 532000,
+    "change_pct": 2.7,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8993",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 1095000,
+    "new_price_eur": 1190000,
+    "change_pct": 8.68,
+    "town": "la Nucia",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9264",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 473500,
+    "new_price_eur": 490000,
+    "change_pct": 3.48,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9265",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 484000,
+    "new_price_eur": 500500,
+    "change_pct": 3.41,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9267",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 473500,
+    "new_price_eur": 490000,
+    "change_pct": 3.48,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9268",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 484000,
+    "new_price_eur": 500500,
+    "change_pct": 3.41,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9359",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 209000,
+    "new_price_eur": 215000,
+    "change_pct": 2.87,
+    "town": "Cox",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1155",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 401000,
+    "new_price_eur": 425000,
+    "change_pct": 5.99,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1157",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 466000,
+    "new_price_eur": 490000,
+    "change_pct": 5.15,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1779",
+    "date": "2026-10-23",
+    "prev_date": "2026-10-22",
+    "prev_price_eur": 556500,
+    "new_price_eur": 609000,
+    "change_pct": 9.43,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]
