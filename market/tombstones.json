@@ -624,19 +624,6 @@
     "still_listed": false
   },
   {
-    "avn_id": "SP1750",
-    "town": "Mijas",
-    "region": "costa-del-sol",
-    "type": "Apartment",
-    "beds": 2,
-    "built_m2": 91,
-    "last_price_eur": 798000,
-    "last_pm2_eur": 8769,
-    "last_seen_date": "2026-08-14",
-    "relisted_on": "2026-09-29",
-    "still_listed": true
-  },
-  {
     "avn_id": "N7843",
     "town": "Torrevieja",
     "region": "cb-south",
@@ -3519,8 +3506,8 @@
     "last_price_eur": 2250000,
     "last_pm2_eur": 12712,
     "last_seen_date": "2026-10-09",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-24",
+    "still_listed": true
   },
   {
     "avn_id": "SP1775",
@@ -4195,6 +4182,84 @@
     "last_price_eur": 1285000,
     "last_pm2_eur": 9735,
     "last_seen_date": "2026-10-23",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7934",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 82,
+    "last_price_eur": 700000,
+    "last_pm2_eur": 8537,
+    "last_seen_date": "2026-10-24",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9168",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 93,
+    "last_price_eur": 1195000,
+    "last_pm2_eur": 12849,
+    "last_seen_date": "2026-10-24",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0840",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 75,
+    "last_price_eur": 366000,
+    "last_pm2_eur": 4880,
+    "last_seen_date": "2026-10-24",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1284",
+    "town": "Molina De Segura",
+    "region": "costa-calida",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 409000,
+    "last_pm2_eur": 4090,
+    "last_seen_date": "2026-10-24",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1285",
+    "town": "Molina De Segura",
+    "region": "costa-calida",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 110,
+    "last_price_eur": 519000,
+    "last_pm2_eur": 4718,
+    "last_seen_date": "2026-10-24",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1750",
+    "town": "Mijas",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 91,
+    "last_price_eur": 910000,
+    "last_pm2_eur": 10000,
+    "last_seen_date": "2026-10-24",
     "relisted_on": null,
     "still_listed": false
   }

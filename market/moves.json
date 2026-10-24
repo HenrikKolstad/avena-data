@@ -7898,5 +7898,135 @@
     "change_pct": 9.43,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N7551",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 1056000,
+    "new_price_eur": 985000,
+    "change_pct": -6.72,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7554",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 1756000,
+    "new_price_eur": 1685000,
+    "change_pct": -4.04,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7935",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 570000,
+    "new_price_eur": 580000,
+    "change_pct": 1.75,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8973",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 356900,
+    "new_price_eur": 385900,
+    "change_pct": 8.13,
+    "town": "Orihuela",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8974",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 417900,
+    "new_price_eur": 395900,
+    "change_pct": -5.26,
+    "town": "Orihuela",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8998",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 755000,
+    "new_price_eur": 775000,
+    "change_pct": 2.65,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9043",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 507000,
+    "new_price_eur": 508000,
+    "change_pct": 0.2,
+    "town": "San Roque",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9046",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 594000,
+    "new_price_eur": 604000,
+    "change_pct": 1.68,
+    "town": "San Roque",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9113",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 648000,
+    "new_price_eur": 703000,
+    "change_pct": 8.49,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9115",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 390000,
+    "new_price_eur": 395000,
+    "change_pct": 1.28,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9397",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 345000,
+    "new_price_eur": 350000,
+    "change_pct": 1.45,
+    "town": "Torrevieja",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0869",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 1549000,
+    "new_price_eur": 1395000,
+    "change_pct": -9.94,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0870",
+    "date": "2026-10-24",
+    "prev_date": "2026-10-08",
+    "prev_price_eur": 2250000,
+    "new_price_eur": 2490000,
+    "change_pct": 10.67,
+    "town": "Benahavís",
+    "type": "Penthouse"
   }
 ]

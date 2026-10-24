@@ -86,7 +86,7 @@
     "price_increases": 13,
     "price_reductions": 2,
     "median_abs_move_pct": 6.49,
-    "delistings": 12,
+    "delistings": 11,
     "relistings": 0
   },
   {
@@ -501,7 +501,7 @@
     "price_reductions": 3,
     "median_abs_move_pct": 2.62,
     "delistings": 11,
-    "relistings": 2
+    "relistings": 1
   },
   {
     "date": "2026-09-30",
@@ -655,5 +655,14 @@
     "median_abs_move_pct": 3.48,
     "delistings": 9,
     "relistings": 0
+  },
+  {
+    "date": "2026-10-24",
+    "listings_observed": 2040,
+    "price_increases": 9,
+    "price_reductions": 4,
+    "median_abs_move_pct": 4.04,
+    "delistings": 6,
+    "relistings": 1
   }
 ]

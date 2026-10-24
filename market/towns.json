@@ -2,11 +2,11 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 226,
+    "n_listings": 225,
     "median_price_eur": 730000,
-    "median_pm2_eur": 6793,
-    "p25_pm2_eur": 5467,
-    "p75_pm2_eur": 9000,
+    "median_pm2_eur": 6776,
+    "p25_pm2_eur": 5465,
+    "p75_pm2_eur": 8950,
     "median_built_m2": 103,
     "villa_share_pct": 13,
     "median_beach_km": 1.2
@@ -14,13 +14,13 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 190,
+    "n_listings": 187,
     "median_price_eur": 565000,
-    "median_pm2_eur": 6636,
-    "p25_pm2_eur": 5504,
-    "p75_pm2_eur": 8294,
+    "median_pm2_eur": 6633,
+    "p25_pm2_eur": 5508,
+    "p75_pm2_eur": 8289,
     "median_built_m2": 86,
-    "villa_share_pct": 17,
+    "villa_share_pct": 18,
     "median_beach_km": 2
   },
   {
@@ -170,14 +170,14 @@
   {
     "town": "Benahavís",
     "costa": "Costa del Sol",
-    "n_listings": 35,
-    "median_price_eur": 1295000,
-    "median_pm2_eur": 9421,
-    "p25_pm2_eur": 7487,
-    "p75_pm2_eur": 12784,
-    "median_built_m2": 125,
-    "villa_share_pct": 23,
-    "median_beach_km": 5.5
+    "n_listings": 36,
+    "median_price_eur": 1302500,
+    "median_pm2_eur": 9456,
+    "p25_pm2_eur": 7494,
+    "p75_pm2_eur": 13154,
+    "median_built_m2": 131,
+    "villa_share_pct": 22,
+    "median_beach_km": 5.75
   },
   {
     "town": "San Miguel de Salinas",
@@ -312,28 +312,28 @@
     "median_beach_km": 1.4
   },
   {
+    "town": "San Javier",
+    "costa": "Costa Calida",
+    "n_listings": 19,
+    "median_price_eur": 380000,
+    "median_pm2_eur": 4714,
+    "p25_pm2_eur": 3801,
+    "p75_pm2_eur": 5651,
+    "median_built_m2": 80,
+    "villa_share_pct": 74,
+    "median_beach_km": 2.5
+  },
+  {
     "town": "San Roque",
     "costa": "Costa del Sol (Cadiz)",
     "n_listings": 18,
-    "median_price_eur": 600000,
+    "median_price_eur": 604500,
     "median_pm2_eur": 5865,
     "p25_pm2_eur": 5258,
-    "p75_pm2_eur": 7460,
+    "p75_pm2_eur": 7555,
     "median_built_m2": 96,
     "villa_share_pct": 0,
     "median_beach_km": 1.5
-  },
-  {
-    "town": "San Javier",
-    "costa": "Costa Calida",
-    "n_listings": 17,
-    "median_price_eur": 389000,
-    "median_pm2_eur": 4863,
-    "p25_pm2_eur": 3899,
-    "p75_pm2_eur": 6166,
-    "median_built_m2": 80,
-    "villa_share_pct": 82,
-    "median_beach_km": 2.5
   },
   {
     "town": "Calpe",
@@ -351,9 +351,9 @@
     "town": "Orihuela",
     "costa": "Costa Blanca South",
     "n_listings": 16,
-    "median_price_eur": 438450,
+    "median_price_eur": 427450,
     "median_pm2_eur": 4662,
-    "p25_pm2_eur": 4432,
+    "p25_pm2_eur": 4364,
     "p75_pm2_eur": 6117,
     "median_built_m2": 97,
     "villa_share_pct": 100,

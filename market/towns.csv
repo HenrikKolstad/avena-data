@@ -1,6 +1,6 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,226,730000,6793,5467,9000,103,13,1.2
-Mijas,Costa del Sol,190,565000,6636,5504,8294,86,17,2
+Estepona,Costa del Sol,225,730000,6776,5465,8950,103,13,1.2
+Mijas,Costa del Sol,187,565000,6633,5508,8289,86,18,2
 Torrevieja,Costa Blanca South,118,308500,5084,4325,5818,62,24,0.5
 Fuengirola,Costa del Sol,100,722500,7510,6295,9701,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,90,369700,5071,4348,5859,77,69,2
@@ -13,7 +13,7 @@ San Pedro del Pinatar,Costa Calida,52,302475,4352,3977,5207,69,50,0.95
 Torre Pacheco,Costa Calida,48,309950,4141,3602,4880,80,65,6.5
 Benijofar,Costa Blanca South,41,389900,4786,4227,5339,75,32,8
 Manilva,Costa del Sol,40,490500,5934,4363,7841,92,13,0.6
-Benahavís,Costa del Sol,35,1295000,9421,7487,12784,125,23,5.5
+Benahavís,Costa del Sol,36,1302500,9456,7494,13154,131,22,5.75
 San Miguel de Salinas,Costa Blanca South,32,267876,4078,3566,5068,70,59,9
 Pinoso,Costa Blanca South - Inland,31,490000,3161,2956,3748,140,100,50
 Villajoyosa,Costa Blanca North,31,430000,6350,5513,7614,70,0,0.5
@@ -25,10 +25,10 @@ Málaga,Costa del Sol,24,945000,8180,5648,12884,91,29,1.35
 Orihuela Costa,Costa Blanca South,22,794950,6435,5159,7469,138,82,0.7
 Baños y Mendigo,Costa Calida,21,461000,4570,4080,5813,93,71,30
 Benalmádena,Costa del Sol,21,750000,6420,5620,8358,109,24,1.4
-San Roque,Costa del Sol (Cadiz),18,600000,5865,5258,7460,96,0,1.5
-San Javier,Costa Calida,17,389000,4863,3899,6166,80,82,2.5
+San Javier,Costa Calida,19,380000,4714,3801,5651,80,74,2.5
+San Roque,Costa del Sol (Cadiz),18,604500,5865,5258,7555,96,0,1.5
 Calpe,Costa Blanca North,16,657500,8345,5196,9869,99,25,0.4
-Orihuela,Costa Blanca South,16,438450,4662,4432,6117,97,100,14
+Orihuela,Costa Blanca South,16,427450,4662,4364,6117,97,100,14
 Alicante,Costa Blanca North,15,301900,4752,4549,5280,64,0,3
 Fuente Álamo,Costa Calida - Inland,14,343400,3787,3287,4657,90,86,23
 Vélez Málaga,Costa del Sol,14,446500,5468,4811,6206,82,21,0.3
