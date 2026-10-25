@@ -83,9 +83,9 @@
   {
     "date": "2026-08-14",
     "listings_observed": 2007,
-    "price_increases": 13,
+    "price_increases": 11,
     "price_reductions": 2,
-    "median_abs_move_pct": 6.49,
+    "median_abs_move_pct": 5.06,
     "delistings": 11,
     "relistings": 0
   },
@@ -101,9 +101,9 @@
   {
     "date": "2026-08-16",
     "listings_observed": 2017,
-    "price_increases": 1,
+    "price_increases": 0,
     "price_reductions": 0,
-    "median_abs_move_pct": 1.83,
+    "median_abs_move_pct": null,
     "delistings": 0,
     "relistings": 0
   },
@@ -200,18 +200,18 @@
   {
     "date": "2026-08-27",
     "listings_observed": 2041,
-    "price_increases": 6,
+    "price_increases": 5,
     "price_reductions": 0,
-    "median_abs_move_pct": 1.58,
+    "median_abs_move_pct": 1.62,
     "delistings": 0,
     "relistings": 0
   },
   {
     "date": "2026-08-28",
     "listings_observed": 2047,
-    "price_increases": 2,
+    "price_increases": 1,
     "price_reductions": 3,
-    "median_abs_move_pct": 3.77,
+    "median_abs_move_pct": 3.37,
     "delistings": 2,
     "relistings": 0
   },
@@ -254,9 +254,9 @@
   {
     "date": "2026-09-02",
     "listings_observed": 2033,
-    "price_increases": 8,
+    "price_increases": 7,
     "price_reductions": 4,
-    "median_abs_move_pct": 4.08,
+    "median_abs_move_pct": 4.03,
     "delistings": 11,
     "relistings": 0
   },
@@ -272,9 +272,9 @@
   {
     "date": "2026-09-04",
     "listings_observed": 2037,
-    "price_increases": 16,
+    "price_increases": 15,
     "price_reductions": 3,
-    "median_abs_move_pct": 3.86,
+    "median_abs_move_pct": 3.8,
     "delistings": 3,
     "relistings": 0
   },
@@ -335,8 +335,8 @@
   {
     "date": "2026-09-11",
     "listings_observed": 2035,
-    "price_increases": 13,
-    "price_reductions": 13,
+    "price_increases": 12,
+    "price_reductions": 12,
     "median_abs_move_pct": 4.59,
     "delistings": 9,
     "relistings": 1
@@ -344,9 +344,9 @@
   {
     "date": "2026-09-12",
     "listings_observed": 2036,
-    "price_increases": 10,
+    "price_increases": 8,
     "price_reductions": 7,
-    "median_abs_move_pct": 3.66,
+    "median_abs_move_pct": 3.49,
     "delistings": 1,
     "relistings": 4
   },
@@ -399,7 +399,7 @@
     "date": "2026-09-18",
     "listings_observed": 2038,
     "price_increases": 7,
-    "price_reductions": 13,
+    "price_reductions": 11,
     "median_abs_move_pct": 9.29,
     "delistings": 8,
     "relistings": 0
@@ -435,8 +435,8 @@
     "date": "2026-09-22",
     "listings_observed": 2036,
     "price_increases": 17,
-    "price_reductions": 7,
-    "median_abs_move_pct": 3.65,
+    "price_reductions": 6,
+    "median_abs_move_pct": 3.45,
     "delistings": 3,
     "relistings": 0
   },
@@ -452,27 +452,27 @@
   {
     "date": "2026-09-24",
     "listings_observed": 2034,
-    "price_increases": 17,
+    "price_increases": 16,
     "price_reductions": 12,
-    "median_abs_move_pct": 6.35,
+    "median_abs_move_pct": 5.46,
     "delistings": 20,
     "relistings": 4
   },
   {
     "date": "2026-09-25",
     "listings_observed": 2029,
-    "price_increases": 10,
+    "price_increases": 9,
     "price_reductions": 6,
-    "median_abs_move_pct": 3.55,
+    "median_abs_move_pct": 3.54,
     "delistings": 8,
     "relistings": 1
   },
   {
     "date": "2026-09-26",
     "listings_observed": 2028,
-    "price_increases": 14,
-    "price_reductions": 5,
-    "median_abs_move_pct": 3.95,
+    "price_increases": 13,
+    "price_reductions": 4,
+    "median_abs_move_pct": 3.8,
     "delistings": 21,
     "relistings": 0
   },
@@ -497,9 +497,9 @@
   {
     "date": "2026-09-29",
     "listings_observed": 2023,
-    "price_increases": 15,
+    "price_increases": 14,
     "price_reductions": 3,
-    "median_abs_move_pct": 2.62,
+    "median_abs_move_pct": 2.19,
     "delistings": 11,
     "relistings": 1
   },
@@ -525,8 +525,8 @@
     "date": "2026-10-02",
     "listings_observed": 2025,
     "price_increases": 3,
-    "price_reductions": 5,
-    "median_abs_move_pct": 4.28,
+    "price_reductions": 4,
+    "median_abs_move_pct": 4.03,
     "delistings": 2,
     "relistings": 1
   },
@@ -560,9 +560,9 @@
   {
     "date": "2026-10-06",
     "listings_observed": 2030,
-    "price_increases": 7,
-    "price_reductions": 6,
-    "median_abs_move_pct": 7.38,
+    "price_increases": 1,
+    "price_reductions": 4,
+    "median_abs_move_pct": 5.06,
     "delistings": 3,
     "relistings": 2
   },
@@ -570,8 +570,8 @@
     "date": "2026-10-07",
     "listings_observed": 2033,
     "price_increases": 11,
-    "price_reductions": 10,
-    "median_abs_move_pct": 5.1,
+    "price_reductions": 9,
+    "median_abs_move_pct": 4.98,
     "delistings": 11,
     "relistings": 0
   },
@@ -587,9 +587,9 @@
   {
     "date": "2026-10-09",
     "listings_observed": 2039,
-    "price_increases": 7,
-    "price_reductions": 9,
-    "median_abs_move_pct": 6.89,
+    "price_increases": 6,
+    "price_reductions": 5,
+    "median_abs_move_pct": 6.62,
     "delistings": 5,
     "relistings": 7
   },
@@ -632,9 +632,9 @@
   {
     "date": "2026-10-21",
     "listings_observed": 2034,
-    "price_increases": 53,
-    "price_reductions": 41,
-    "median_abs_move_pct": 4.17,
+    "price_increases": 49,
+    "price_reductions": 40,
+    "median_abs_move_pct": 4.03,
     "delistings": 38,
     "relistings": 8
   },
@@ -664,5 +664,14 @@
     "median_abs_move_pct": 4.04,
     "delistings": 6,
     "relistings": 1
+  },
+  {
+    "date": "2026-10-25",
+    "listings_observed": 2051,
+    "price_increases": 0,
+    "price_reductions": 0,
+    "median_abs_move_pct": null,
+    "delistings": 0,
+    "relistings": 0
   }
 ]

@@ -2,12 +2,12 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 225,
-    "median_price_eur": 730000,
-    "median_pm2_eur": 6776,
-    "p25_pm2_eur": 5465,
-    "p75_pm2_eur": 8950,
-    "median_built_m2": 103,
+    "n_listings": 230,
+    "median_price_eur": 724500,
+    "median_pm2_eur": 6793,
+    "p25_pm2_eur": 5475,
+    "p75_pm2_eur": 8896,
+    "median_built_m2": 102,
     "villa_share_pct": 13,
     "median_beach_km": 1.2
   },
@@ -324,6 +324,18 @@
     "median_beach_km": 2.5
   },
   {
+    "town": "Vélez Málaga",
+    "costa": "Costa del Sol",
+    "n_listings": 19,
+    "median_price_eur": 516000,
+    "median_pm2_eur": 5986,
+    "p25_pm2_eur": 5071,
+    "p75_pm2_eur": 6725,
+    "median_built_m2": 78,
+    "villa_share_pct": 16,
+    "median_beach_km": 0.5
+  },
+  {
     "town": "San Roque",
     "costa": "Costa del Sol (Cadiz)",
     "n_listings": 18,
@@ -334,6 +346,18 @@
     "median_built_m2": 96,
     "villa_share_pct": 0,
     "median_beach_km": 1.5
+  },
+  {
+    "town": "Alicante",
+    "costa": "Costa Blanca North",
+    "n_listings": 16,
+    "median_price_eur": 295900,
+    "median_pm2_eur": 4777,
+    "p25_pm2_eur": 4559,
+    "p75_pm2_eur": 5246,
+    "median_built_m2": 64,
+    "villa_share_pct": 0,
+    "median_beach_km": 3
   },
   {
     "town": "Calpe",
@@ -360,18 +384,6 @@
     "median_beach_km": 14
   },
   {
-    "town": "Alicante",
-    "costa": "Costa Blanca North",
-    "n_listings": 15,
-    "median_price_eur": 301900,
-    "median_pm2_eur": 4752,
-    "p25_pm2_eur": 4549,
-    "p75_pm2_eur": 5280,
-    "median_built_m2": 64,
-    "villa_share_pct": 0,
-    "median_beach_km": 3
-  },
-  {
     "town": "Fuente Álamo",
     "costa": "Costa Calida - Inland",
     "n_listings": 14,
@@ -382,18 +394,6 @@
     "median_built_m2": 90,
     "villa_share_pct": 86,
     "median_beach_km": 23
-  },
-  {
-    "town": "Vélez Málaga",
-    "costa": "Costa del Sol",
-    "n_listings": 14,
-    "median_price_eur": 446500,
-    "median_pm2_eur": 5468,
-    "p25_pm2_eur": 4811,
-    "p75_pm2_eur": 6206,
-    "median_built_m2": 82,
-    "villa_share_pct": 21,
-    "median_beach_km": 0.3
   },
   {
     "town": "Aguilas",
