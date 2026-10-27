@@ -7638,5 +7638,115 @@
     "change_pct": 10.67,
     "town": "Benahavís",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N10036",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 508096,
+    "new_price_eur": 493590,
+    "change_pct": -2.85,
+    "town": "La Romana",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N10037",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 362040,
+    "new_price_eur": 369927,
+    "change_pct": 2.18,
+    "town": "La Romana",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8866",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 439900,
+    "new_price_eur": 444900,
+    "change_pct": 1.14,
+    "town": "Fuente Álamo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9766",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 285000,
+    "new_price_eur": 289000,
+    "change_pct": 1.4,
+    "town": "San Pedro del Pinatar",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9949",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 350040,
+    "new_price_eur": 357927,
+    "change_pct": 2.25,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9950",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 417550,
+    "new_price_eur": 446117,
+    "change_pct": 6.84,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9951",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 395781,
+    "new_price_eur": 383761,
+    "change_pct": -3.04,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9952",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 527579,
+    "new_price_eur": 512590,
+    "change_pct": -2.84,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9953",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 644550,
+    "new_price_eur": 500590,
+    "change_pct": -22.33,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9955",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 401040,
+    "new_price_eur": 408927,
+    "change_pct": 1.97,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9956",
+    "date": "2026-10-27",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 446782,
+    "new_price_eur": 434761,
+    "change_pct": -2.69,
+    "town": "Aspe",
+    "type": "Villa"
   }
 ]
