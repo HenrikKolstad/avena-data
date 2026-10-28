@@ -7748,5 +7748,175 @@
     "change_pct": -2.69,
     "town": "Aspe",
     "type": "Villa"
+  },
+  {
+    "avn_id": "N7396",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 379000,
+    "new_price_eur": 456000,
+    "change_pct": 20.32,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7397",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 489000,
+    "new_price_eur": 504000,
+    "change_pct": 3.07,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7400",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 588000,
+    "new_price_eur": 578000,
+    "change_pct": -1.7,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7401",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 752000,
+    "new_price_eur": 747000,
+    "change_pct": -0.66,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8408",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 790000,
+    "new_price_eur": 725000,
+    "change_pct": -8.23,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8410",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 845000,
+    "new_price_eur": 695000,
+    "change_pct": -17.75,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8412",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 975000,
+    "new_price_eur": 945000,
+    "change_pct": -3.08,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8652",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 329900,
+    "new_price_eur": 339900,
+    "change_pct": 3.03,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9632",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 299000,
+    "new_price_eur": 305000,
+    "change_pct": 2.01,
+    "town": "Algorfa",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP0460",
+    "date": "2026-10-28",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 486000,
+    "new_price_eur": 485000,
+    "change_pct": -0.21,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0461",
+    "date": "2026-10-28",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 553000,
+    "new_price_eur": 559000,
+    "change_pct": 1.08,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0462",
+    "date": "2026-10-28",
+    "prev_date": "2026-09-17",
+    "prev_price_eur": 494000,
+    "new_price_eur": 502000,
+    "change_pct": 1.62,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0632",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 398000,
+    "new_price_eur": 425000,
+    "change_pct": 6.78,
+    "town": "Manilva",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0965",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 475000,
+    "new_price_eur": 494000,
+    "change_pct": 4,
+    "town": "rincon de la victoria",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1233",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 303450,
+    "new_price_eur": 282450,
+    "change_pct": -6.92,
+    "town": "Fuengirola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1234",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 341250,
+    "new_price_eur": 329000,
+    "change_pct": -3.59,
+    "town": "Fuengirola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1307",
+    "date": "2026-10-28",
+    "prev_date": "2026-10-27",
+    "prev_price_eur": 745000,
+    "new_price_eur": 648000,
+    "change_pct": -13.02,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]

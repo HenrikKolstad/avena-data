@@ -455,19 +455,6 @@
     "still_listed": true
   },
   {
-    "avn_id": "SP1222",
-    "town": "Estepona",
-    "region": "costa-del-sol",
-    "type": "Penthouse",
-    "beds": null,
-    "built_m2": null,
-    "last_price_eur": 999000,
-    "last_pm2_eur": 8841,
-    "last_seen_date": "2026-08-12",
-    "relisted_on": "2026-10-21",
-    "still_listed": true
-  },
-  {
     "avn_id": "SP1473",
     "town": "Fuengirola",
     "region": "costa-del-sol",
@@ -1985,8 +1972,8 @@
     "last_price_eur": 486000,
     "last_pm2_eur": 5786,
     "last_seen_date": "2026-09-18",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-28",
+    "still_listed": true
   },
   {
     "avn_id": "SP0461",
@@ -1998,8 +1985,8 @@
     "last_price_eur": 553000,
     "last_pm2_eur": 5475,
     "last_seen_date": "2026-09-18",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-28",
+    "still_listed": true
   },
   {
     "avn_id": "SP0462",
@@ -2011,8 +1998,8 @@
     "last_price_eur": 494000,
     "last_pm2_eur": 5881,
     "last_seen_date": "2026-09-18",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-28",
+    "still_listed": true
   },
   {
     "avn_id": "SP0463",
@@ -4377,6 +4364,32 @@
     "last_price_eur": 364000,
     "last_pm2_eur": 7745,
     "last_seen_date": "2026-10-27",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8120",
+    "town": "Finestrat",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 125,
+    "last_price_eur": 555000,
+    "last_pm2_eur": 4440,
+    "last_seen_date": "2026-10-28",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1222",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 113,
+    "last_price_eur": 999000,
+    "last_pm2_eur": 8841,
+    "last_seen_date": "2026-10-28",
     "relisted_on": null,
     "still_listed": false
   }

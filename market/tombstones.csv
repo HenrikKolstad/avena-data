@@ -34,7 +34,6 @@ SP1778,Marbella,costa-del-sol,Villa,,,4950000,8984,2026-08-11,,false
 N6195,Finestrat,cb-north,Villa,,,790000,4115,2026-08-12,,false
 N8118,Orihuela Costa,cb-south,Townhouse,,,363500,4783,2026-08-12,,false
 N9243,Estepona,costa-del-sol,Penthouse,,,656000,6308,2026-08-12,2026-08-19,true
-SP1222,Estepona,costa-del-sol,Penthouse,,,999000,8841,2026-08-12,2026-10-21,true
 SP1473,Fuengirola,costa-del-sol,Penthouse,,,395000,6930,2026-08-12,,false
 N7413,Estepona,costa-del-sol,Penthouse,3,103,739000,7175,2026-08-14,,false
 N7504,Polop,cb-north,Townhouse,3,100,528125,5281,2026-08-14,2026-10-04,true
@@ -151,9 +150,9 @@ N9788,Puerto de Mazarron,costa-calida,Townhouse,3,80,287000,3588,2026-09-15,2026
 SP0530,La Linea De La Concepcion,costa-del-sol,Apartment,3,108,433000,4009,2026-09-16,,false
 N6093,Denia,cb-north,Apartment,3,75,525000,7000,2026-09-17,,false
 N8317,Els Poblets,cb-north,Townhouse,3,76,415000,5461,2026-09-17,,false
-SP0460,Estepona,costa-del-sol,Apartment,2,84,486000,5786,2026-09-18,,false
-SP0461,Estepona,costa-del-sol,Apartment,3,101,553000,5475,2026-09-18,,false
-SP0462,Estepona,costa-del-sol,Apartment,2,84,494000,5881,2026-09-18,,false
+SP0460,Estepona,costa-del-sol,Apartment,2,84,486000,5786,2026-09-18,2026-10-28,true
+SP0461,Estepona,costa-del-sol,Apartment,3,101,553000,5475,2026-09-18,2026-10-28,true
+SP0462,Estepona,costa-del-sol,Apartment,2,84,494000,5881,2026-09-18,2026-10-28,true
 SP0463,Estepona,costa-del-sol,Penthouse,2,86,527000,6128,2026-09-18,,false
 SP1137,Almuñecar,costa-del-sol,Apartment,2,62,347000,5597,2026-09-18,,false
 SP1156,Estepona,costa-del-sol,Apartment,3,123,600000,4878,2026-09-18,,false
@@ -336,3 +335,5 @@ N9861,Villajoyosa,cb-north,Apartment,3,90,335000,3722,2026-10-27,,false
 N9954,Pinoso,cb-south,Villa,4,249,665600,2673,2026-10-27,,false
 SP1459,Mijas,costa-del-sol,Bungalow,3,140,1542000,11014,2026-10-27,,false
 SP1507,rincon de la victoria,costa-del-sol,Apartment,2,47,364000,7745,2026-10-27,,false
+N8120,Finestrat,cb-north,Villa,4,125,555000,4440,2026-10-28,,false
+SP1222,Estepona,costa-del-sol,Penthouse,3,113,999000,8841,2026-10-28,,false
