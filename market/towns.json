@@ -14,26 +14,26 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 187,
-    "median_price_eur": 565000,
-    "median_pm2_eur": 6633,
-    "p25_pm2_eur": 5508,
-    "p75_pm2_eur": 8206,
-    "median_built_m2": 86,
-    "villa_share_pct": 17,
+    "n_listings": 189,
+    "median_price_eur": 566700,
+    "median_pm2_eur": 6682,
+    "p25_pm2_eur": 5515,
+    "p75_pm2_eur": 8299,
+    "median_built_m2": 87,
+    "villa_share_pct": 18,
     "median_beach_km": 2
   },
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 118,
-    "median_price_eur": 308500,
-    "median_pm2_eur": 5084,
-    "p25_pm2_eur": 4325,
+    "n_listings": 119,
+    "median_price_eur": 309000,
+    "median_pm2_eur": 5077,
+    "p25_pm2_eur": 4329,
     "p75_pm2_eur": 5818,
     "median_built_m2": 62,
     "villa_share_pct": 24,
-    "median_beach_km": 0.5
+    "median_beach_km": 0.4
   },
   {
     "town": "Fuengirola",
@@ -62,21 +62,21 @@
   {
     "town": "Marbella",
     "costa": "Costa del Sol",
-    "n_listings": 84,
-    "median_price_eur": 1015500,
-    "median_pm2_eur": 8203,
-    "p25_pm2_eur": 6528,
-    "p75_pm2_eur": 12117,
-    "median_built_m2": 117,
+    "n_listings": 83,
+    "median_price_eur": 981000,
+    "median_pm2_eur": 8118,
+    "p25_pm2_eur": 6493,
+    "p75_pm2_eur": 12057,
+    "median_built_m2": 118,
     "villa_share_pct": 30,
-    "median_beach_km": 2.1
+    "median_beach_km": 2.2
   },
   {
     "town": "Los Alcazares",
     "costa": "Costa Calida",
     "n_listings": 77,
     "median_price_eur": 399000,
-    "median_pm2_eur": 4650,
+    "median_pm2_eur": 4621,
     "p25_pm2_eur": 4238,
     "p75_pm2_eur": 5523,
     "median_built_m2": 85,
@@ -108,6 +108,18 @@
     "median_beach_km": 1
   },
   {
+    "town": "San Pedro del Pinatar",
+    "costa": "Costa Calida",
+    "n_listings": 53,
+    "median_price_eur": 309900,
+    "median_pm2_eur": 4345,
+    "p25_pm2_eur": 4041,
+    "p75_pm2_eur": 5172,
+    "median_built_m2": 70,
+    "villa_share_pct": 53,
+    "median_beach_km": 1
+  },
+  {
     "town": "Casares",
     "costa": "Costa del Sol",
     "n_listings": 52,
@@ -118,18 +130,6 @@
     "median_built_m2": 97,
     "villa_share_pct": 6,
     "median_beach_km": 1.65
-  },
-  {
-    "town": "San Pedro del Pinatar",
-    "costa": "Costa Calida",
-    "n_listings": 51,
-    "median_price_eur": 305000,
-    "median_pm2_eur": 4359,
-    "p25_pm2_eur": 4020,
-    "p75_pm2_eur": 5242,
-    "median_built_m2": 68,
-    "villa_share_pct": 51,
-    "median_beach_km": 0.9
   },
   {
     "town": "Torre Pacheco",
@@ -266,14 +266,14 @@
   {
     "town": "Málaga",
     "costa": "Costa del Sol",
-    "n_listings": 24,
-    "median_price_eur": 945000,
-    "median_pm2_eur": 8180,
-    "p25_pm2_eur": 5648,
-    "p75_pm2_eur": 12884,
+    "n_listings": 23,
+    "median_price_eur": 910000,
+    "median_pm2_eur": 8359,
+    "p25_pm2_eur": 5545,
+    "p75_pm2_eur": 13196,
     "median_built_m2": 91,
-    "villa_share_pct": 29,
-    "median_beach_km": 1.35
+    "villa_share_pct": 26,
+    "median_beach_km": 1.8
   },
   {
     "town": "Orihuela Costa",
@@ -354,7 +354,7 @@
     "median_price_eur": 295900,
     "median_pm2_eur": 4777,
     "p25_pm2_eur": 4559,
-    "p75_pm2_eur": 5246,
+    "p75_pm2_eur": 5083,
     "median_built_m2": 64,
     "villa_share_pct": 0,
     "median_beach_km": 3
@@ -809,7 +809,7 @@
     "n_listings": 5,
     "median_price_eur": 1014000,
     "median_pm2_eur": 5761,
-    "p25_pm2_eur": 3510,
+    "p25_pm2_eur": 4391,
     "p75_pm2_eur": 6408,
     "median_built_m2": 176,
     "villa_share_pct": 100,

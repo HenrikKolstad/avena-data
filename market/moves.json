@@ -7918,5 +7918,45 @@
     "change_pct": -13.02,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N8787",
+    "date": "2026-10-29",
+    "prev_date": "2026-10-28",
+    "prev_price_eur": 158500,
+    "new_price_eur": 160500,
+    "change_pct": 1.26,
+    "town": "Jacarilla",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0856",
+    "date": "2026-10-29",
+    "prev_date": "2026-10-28",
+    "prev_price_eur": 406500,
+    "new_price_eur": 389500,
+    "change_pct": -4.18,
+    "town": "Alicante",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1831",
+    "date": "2026-10-29",
+    "prev_date": "2026-10-28",
+    "prev_price_eur": 496000,
+    "new_price_eur": 799000,
+    "change_pct": 61.09,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1832",
+    "date": "2026-10-29",
+    "prev_date": "2026-10-28",
+    "prev_price_eur": 612000,
+    "new_price_eur": 607000,
+    "change_pct": -0.82,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]

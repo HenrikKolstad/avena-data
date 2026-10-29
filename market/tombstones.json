@@ -4392,5 +4392,57 @@
     "last_seen_date": "2026-10-28",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N7360",
+    "town": "Los Alcazares",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 537900,
+    "last_pm2_eur": 5379,
+    "last_seen_date": "2026-10-29",
+    "relisted_on": null,
+    "still_listed": true
+  },
+  {
+    "avn_id": "N9996",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 799000,
+    "last_pm2_eur": 7990,
+    "last_seen_date": "2026-10-29",
+    "relisted_on": null,
+    "still_listed": true
+  },
+  {
+    "avn_id": "SP0417",
+    "town": "Marbella",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 4,
+    "built_m2": 124,
+    "last_price_eur": 1545000,
+    "last_pm2_eur": 12460,
+    "last_seen_date": "2026-10-29",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1902",
+    "town": "Málaga",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 4,
+    "built_m2": 331,
+    "last_price_eur": 2475000,
+    "last_pm2_eur": 7477,
+    "last_seen_date": "2026-10-29",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

@@ -1,15 +1,15 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
 Estepona,Costa del Sol,233,700000,6717,5465,8871,101,12,1.2
-Mijas,Costa del Sol,187,565000,6633,5508,8206,86,17,2
-Torrevieja,Costa Blanca South,118,308500,5084,4325,5818,62,24,0.5
+Mijas,Costa del Sol,189,566700,6682,5515,8299,87,18,2
+Torrevieja,Costa Blanca South,119,309000,5077,4329,5818,62,24,0.4
 Fuengirola,Costa del Sol,100,722500,7459,6295,9701,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,94,364500,5071,4359,5850,75,70,2
-Marbella,Costa del Sol,84,1015500,8203,6528,12117,117,30,2.1
-Los Alcazares,Costa Calida,77,399000,4650,4238,5523,85,39,0.9
+Marbella,Costa del Sol,83,981000,8118,6493,12057,118,30,2.2
+Los Alcazares,Costa Calida,77,399000,4621,4238,5523,85,39,0.9
 Finestrat,Costa Blanca North,58,545000,5648,4848,6522,103,53,3
 Guardamar del Segura,Costa Blanca South,54,315000,4588,4200,5651,67,2,1
+San Pedro del Pinatar,Costa Calida,53,309900,4345,4041,5172,70,53,1
 Casares,Costa del Sol,52,564000,5936,4979,6978,97,6,1.65
-San Pedro del Pinatar,Costa Calida,51,305000,4359,4020,5242,68,51,0.9
 Torre Pacheco,Costa Calida,49,314900,4141,3633,4864,80,63,5
 Benijofar,Costa Blanca South,41,389900,4786,4227,5339,75,32,8
 Manilva,Costa del Sol,40,490500,5934,4436,7841,92,13,0.6
@@ -21,14 +21,14 @@ Villajoyosa,Costa Blanca North,28,437500,6491,5689,7684,68,0,0.45
 Torremolinos,Costa del Sol,27,609000,7224,5836,8660,88,4,1.5
 Polop,Costa Blanca North,26,646905,6273,5955,6633,100,100,8.75
 Rojales,Costa Blanca South,25,529000,4843,4084,6487,100,100,6
-Málaga,Costa del Sol,24,945000,8180,5648,12884,91,29,1.35
+Málaga,Costa del Sol,23,910000,8359,5545,13196,91,26,1.8
 Orihuela Costa,Costa Blanca South,22,794950,6435,5159,7469,138,82,0.7
 Baños y Mendigo,Costa Calida,21,461000,4570,4080,5813,93,71,30
 Benalmádena,Costa del Sol,21,750000,6420,5620,8358,109,24,1.4
 San Javier,Costa Calida,19,380000,4714,3801,5651,80,74,2.5
 Vélez Málaga,Costa del Sol,19,516000,5986,5071,6725,78,16,0.5
 San Roque,Costa del Sol (Cadiz),18,604500,5865,5258,7555,96,0,1.5
-Alicante,Costa Blanca North,16,295900,4777,4559,5246,64,0,3
+Alicante,Costa Blanca North,16,295900,4777,4559,5083,64,0,3
 Calpe,Costa Blanca North,16,657500,8345,5196,9869,99,25,0.4
 Orihuela,Costa Blanca South,16,427450,4662,4364,6117,97,100,14
 Fuente Álamo,Costa Calida - Inland,15,374900,3759,3309,4491,95,87,23
@@ -66,4 +66,4 @@ Torrox,Costa del Sol,6,357500,4763,4464,5052,75,0,0.2
 Catral,Costa Blanca South - Inland,5,213000,2760,2700,2840,75,0,15
 La Marina,Costa Blanca South,5,299000,4211,4070,5100,71,40,0.8
 Monforte del Cid,Costa Blanca North - Inland,5,549900,5237,3912,5262,105,100,20
-Sotogrande,Costa del Sol (Cadiz),5,1014000,5761,3510,6408,176,100,4
+Sotogrande,Costa del Sol (Cadiz),5,1014000,5761,4391,6408,176,100,4
