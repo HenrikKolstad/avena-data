@@ -74,25 +74,25 @@
   {
     "town": "Los Alcazares",
     "costa": "Costa Calida",
-    "n_listings": 77,
-    "median_price_eur": 399000,
-    "median_pm2_eur": 4621,
+    "n_listings": 76,
+    "median_price_eur": 398325,
+    "median_pm2_eur": 4636,
     "p25_pm2_eur": 4238,
-    "p75_pm2_eur": 5523,
+    "p75_pm2_eur": 5551,
     "median_built_m2": 85,
-    "villa_share_pct": 39,
+    "villa_share_pct": 38,
     "median_beach_km": 0.9
   },
   {
     "town": "Finestrat",
     "costa": "Costa Blanca North",
-    "n_listings": 58,
-    "median_price_eur": 545000,
-    "median_pm2_eur": 5648,
-    "p25_pm2_eur": 4848,
-    "p75_pm2_eur": 6522,
-    "median_built_m2": 103,
-    "villa_share_pct": 53,
+    "n_listings": 57,
+    "median_price_eur": 550000,
+    "median_pm2_eur": 5698,
+    "p25_pm2_eur": 4840,
+    "p75_pm2_eur": 6548,
+    "median_built_m2": 106,
+    "villa_share_pct": 54,
     "median_beach_km": 3
   },
   {
@@ -228,18 +228,6 @@
     "median_beach_km": 0.45
   },
   {
-    "town": "Torremolinos",
-    "costa": "Costa del Sol",
-    "n_listings": 27,
-    "median_price_eur": 609000,
-    "median_pm2_eur": 7224,
-    "p25_pm2_eur": 5836,
-    "p75_pm2_eur": 8660,
-    "median_built_m2": 88,
-    "villa_share_pct": 4,
-    "median_beach_km": 1.5
-  },
-  {
     "town": "Polop",
     "costa": "Costa Blanca North",
     "n_listings": 26,
@@ -250,6 +238,18 @@
     "median_built_m2": 100,
     "villa_share_pct": 100,
     "median_beach_km": 8.75
+  },
+  {
+    "town": "Torremolinos",
+    "costa": "Costa del Sol",
+    "n_listings": 26,
+    "median_price_eur": 617000,
+    "median_pm2_eur": 7297,
+    "p25_pm2_eur": 5803,
+    "p75_pm2_eur": 8804,
+    "median_built_m2": 89,
+    "villa_share_pct": 4,
+    "median_beach_km": 1.5
   },
   {
     "town": "Rojales",
@@ -276,18 +276,6 @@
     "median_beach_km": 1.8
   },
   {
-    "town": "Orihuela Costa",
-    "costa": "Costa Blanca South",
-    "n_listings": 22,
-    "median_price_eur": 794950,
-    "median_pm2_eur": 6435,
-    "p25_pm2_eur": 5159,
-    "p75_pm2_eur": 7469,
-    "median_built_m2": 138,
-    "villa_share_pct": 82,
-    "median_beach_km": 0.7
-  },
-  {
     "town": "Baños y Mendigo",
     "costa": "Costa Calida",
     "n_listings": 21,
@@ -310,6 +298,18 @@
     "median_built_m2": 109,
     "villa_share_pct": 24,
     "median_beach_km": 1.4
+  },
+  {
+    "town": "Orihuela Costa",
+    "costa": "Costa Blanca South",
+    "n_listings": 20,
+    "median_price_eur": 942500,
+    "median_pm2_eur": 6679,
+    "p25_pm2_eur": 5458,
+    "p75_pm2_eur": 7675,
+    "median_built_m2": 157,
+    "villa_share_pct": 90,
+    "median_beach_km": 0.75
   },
   {
     "town": "San Javier",
@@ -399,10 +399,10 @@
     "town": "Aguilas",
     "costa": "Costa Calida",
     "n_listings": 13,
-    "median_price_eur": 385000,
+    "median_price_eur": 394000,
     "median_pm2_eur": 5015,
     "p25_pm2_eur": 4170,
-    "p75_pm2_eur": 6525,
+    "p75_pm2_eur": 6632,
     "median_built_m2": 74,
     "villa_share_pct": 15,
     "median_beach_km": 0.3
@@ -474,7 +474,7 @@
     "median_price_eur": 503000,
     "median_pm2_eur": 6751,
     "p25_pm2_eur": 5963,
-    "p75_pm2_eur": 9664,
+    "p75_pm2_eur": 10071,
     "median_built_m2": 79,
     "villa_share_pct": 8,
     "median_beach_km": 0.1

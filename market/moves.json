@@ -7958,5 +7958,105 @@
     "change_pct": -0.82,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N10059",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 369900,
+    "new_price_eur": 379900,
+    "change_pct": 2.7,
+    "town": "San Pedro del Pinatar",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N5876",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 356500,
+    "new_price_eur": 378000,
+    "change_pct": 6.03,
+    "town": "Aguilas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N5877",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 385000,
+    "new_price_eur": 395000,
+    "change_pct": 2.6,
+    "town": "Aguilas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1623",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 340000,
+    "new_price_eur": 336000,
+    "change_pct": -1.18,
+    "town": "Torre Pacheco",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1625",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 601000,
+    "new_price_eur": 595000,
+    "change_pct": -1,
+    "town": "Torre Pacheco",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1650",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 320014,
+    "new_price_eur": 340461,
+    "change_pct": 6.39,
+    "town": "La Linea De La Concepcion",
+    "type": "Studio"
+  },
+  {
+    "avn_id": "SP1652",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 954396,
+    "new_price_eur": 943734,
+    "change_pct": -1.12,
+    "town": "La Linea De La Concepcion",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1653",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 1296856,
+    "new_price_eur": 1379763,
+    "change_pct": 6.39,
+    "town": "La Linea De La Concepcion",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1788",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 670100,
+    "new_price_eur": 646600,
+    "change_pct": -3.51,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1789",
+    "date": "2026-10-30",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 786900,
+    "new_price_eur": 750600,
+    "change_pct": -4.61,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]

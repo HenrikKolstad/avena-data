@@ -5,8 +5,8 @@ Torrevieja,Costa Blanca South,119,309000,5077,4329,5818,62,24,0.4
 Fuengirola,Costa del Sol,100,722500,7459,6295,9701,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,94,364500,5071,4359,5850,75,70,2
 Marbella,Costa del Sol,83,981000,8118,6493,12057,118,30,2.2
-Los Alcazares,Costa Calida,77,399000,4621,4238,5523,85,39,0.9
-Finestrat,Costa Blanca North,58,545000,5648,4848,6522,103,53,3
+Los Alcazares,Costa Calida,76,398325,4636,4238,5551,85,38,0.9
+Finestrat,Costa Blanca North,57,550000,5698,4840,6548,106,54,3
 Guardamar del Segura,Costa Blanca South,54,315000,4588,4200,5651,67,2,1
 San Pedro del Pinatar,Costa Calida,53,309900,4345,4041,5172,70,53,1
 Casares,Costa del Sol,52,564000,5936,4979,6978,97,6,1.65
@@ -18,13 +18,13 @@ San Miguel de Salinas,Costa Blanca South,32,267876,4078,3566,5068,70,59,9
 Algorfa,Costa Blanca South,30,431000,4830,3559,5696,85,77,14
 Pinoso,Costa Blanca South - Inland,30,490000,3174,2948,3771,140,100,50
 Villajoyosa,Costa Blanca North,28,437500,6491,5689,7684,68,0,0.45
-Torremolinos,Costa del Sol,27,609000,7224,5836,8660,88,4,1.5
 Polop,Costa Blanca North,26,646905,6273,5955,6633,100,100,8.75
+Torremolinos,Costa del Sol,26,617000,7297,5803,8804,89,4,1.5
 Rojales,Costa Blanca South,25,529000,4843,4084,6487,100,100,6
 Málaga,Costa del Sol,23,910000,8359,5545,13196,91,26,1.8
-Orihuela Costa,Costa Blanca South,22,794950,6435,5159,7469,138,82,0.7
 Baños y Mendigo,Costa Calida,21,461000,4570,4080,5813,93,71,30
 Benalmádena,Costa del Sol,21,750000,6420,5620,8358,109,24,1.4
+Orihuela Costa,Costa Blanca South,20,942500,6679,5458,7675,157,90,0.75
 San Javier,Costa Calida,19,380000,4714,3801,5651,80,74,2.5
 Vélez Málaga,Costa del Sol,19,516000,5986,5071,6725,78,16,0.5
 San Roque,Costa del Sol (Cadiz),18,604500,5865,5258,7555,96,0,1.5
@@ -32,13 +32,13 @@ Alicante,Costa Blanca North,16,295900,4777,4559,5083,64,0,3
 Calpe,Costa Blanca North,16,657500,8345,5196,9869,99,25,0.4
 Orihuela,Costa Blanca South,16,427450,4662,4364,6117,97,100,14
 Fuente Álamo,Costa Calida - Inland,15,374900,3759,3309,4491,95,87,23
-Aguilas,Costa Calida,13,385000,5015,4170,6525,74,15,0.3
+Aguilas,Costa Calida,13,394000,5015,4170,6632,74,15,0.3
 Jávea Xàbia,Costa Blanca North,13,647000,7740,6280,8542,101,38,0.8
 la Nucia,Costa Blanca North,13,449427,5635,4871,6161,73,31,7
 Alhama De Murcia,Costa Calida - Inland,12,290500,4133,3839,4502,77,75,20
 El Verger,Costa Blanca North,12,377250,5762,5133,6385,68,33,0.7
 Hondón de las Nieves,Costa Blanca South - Inland,12,250000,3382,2834,3732,87,25,37
-La Linea De La Concepcion,Costa del Sol (Cadiz),12,503000,6751,5963,9664,79,8,0.1
+La Linea De La Concepcion,Costa del Sol (Cadiz),12,503000,6751,5963,10071,79,8,0.1
 rincon de la victoria,Costa del Sol,12,463500,5861,5137,6546,85,8,2.15
 Benissa,Costa Blanca North,11,2600000,9828,7832,10943,250,100,2
 El Campello,Costa Blanca North,11,660000,6462,5983,7932,95,64,0
