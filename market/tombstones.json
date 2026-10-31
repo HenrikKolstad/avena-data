@@ -4338,8 +4338,8 @@
     "last_price_eur": 1542000,
     "last_pm2_eur": 11014,
     "last_seen_date": "2026-10-27",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-10-31",
+    "still_listed": true
   },
   {
     "avn_id": "SP1507",
@@ -4496,5 +4496,70 @@
     "last_seen_date": "2026-10-30",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N7093",
+    "town": "Finestrat",
+    "region": "cb-north",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 63,
+    "last_price_eur": 450000,
+    "last_pm2_eur": 7143,
+    "last_seen_date": "2026-10-31",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7989",
+    "town": "Polop",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 82,
+    "last_price_eur": 585000,
+    "last_pm2_eur": 7134,
+    "last_seen_date": "2026-10-31",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8659",
+    "town": "Fortuna",
+    "region": "costa-calida",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 360000,
+    "last_pm2_eur": 3600,
+    "last_seen_date": "2026-10-31",
+    "relisted_on": null,
+    "still_listed": true
+  },
+  {
+    "avn_id": "N8719",
+    "town": "Los Alcazares",
+    "region": "costa-calida",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 459000,
+    "last_pm2_eur": 4590,
+    "last_seen_date": "2026-10-31",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1928",
+    "town": "Alicante",
+    "region": "cb-north",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 55,
+    "last_price_eur": 267500,
+    "last_pm2_eur": 4864,
+    "last_seen_date": "2026-10-31",
+    "relisted_on": null,
+    "still_listed": true
   }
 ]

@@ -8058,5 +8058,225 @@
     "change_pct": -4.61,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N10026",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 219900,
+    "new_price_eur": 224900,
+    "change_pct": 2.27,
+    "town": "San Miguel de Salinas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10027",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 259900,
+    "new_price_eur": 264900,
+    "change_pct": 1.92,
+    "town": "San Miguel de Salinas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10028",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 194900,
+    "new_price_eur": 199900,
+    "change_pct": 2.57,
+    "town": "San Miguel de Salinas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10029",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 269900,
+    "new_price_eur": 274900,
+    "change_pct": 1.85,
+    "town": "San Miguel de Salinas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10030",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 239900,
+    "new_price_eur": 244900,
+    "change_pct": 2.08,
+    "town": "San Miguel de Salinas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N10031",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 379900,
+    "new_price_eur": 384900,
+    "change_pct": 1.32,
+    "town": "San Miguel de Salinas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N10046",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 235000,
+    "new_price_eur": 250000,
+    "change_pct": 6.38,
+    "town": "Santa Pola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7091",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 380000,
+    "new_price_eur": 390000,
+    "change_pct": 2.63,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7092",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 375000,
+    "new_price_eur": 380000,
+    "change_pct": 1.33,
+    "town": "Finestrat",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8619",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 405000,
+    "new_price_eur": 388125,
+    "change_pct": -4.17,
+    "town": "Fuente Álamo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8717",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 320000,
+    "new_price_eur": 325000,
+    "change_pct": 1.56,
+    "town": "Los Alcazares",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9200",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 305000,
+    "new_price_eur": 315000,
+    "change_pct": 3.28,
+    "town": "Torrevieja",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9397",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 350000,
+    "new_price_eur": 345000,
+    "change_pct": -1.43,
+    "town": "Torrevieja",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9428",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 229500,
+    "new_price_eur": 246900,
+    "change_pct": 7.58,
+    "town": "Alhama De Murcia",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9429",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 208425,
+    "new_price_eur": 209900,
+    "change_pct": 0.71,
+    "town": "Alhama De Murcia",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9615",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 269850,
+    "new_price_eur": 264900,
+    "change_pct": -1.83,
+    "town": "Alhama De Murcia",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0990",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 540000,
+    "new_price_eur": 590000,
+    "change_pct": 9.26,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0992",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 630000,
+    "new_price_eur": 670000,
+    "change_pct": 6.35,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1105",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 835000,
+    "new_price_eur": 885000,
+    "change_pct": 5.99,
+    "town": "Marbella",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1107",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 900000,
+    "new_price_eur": 950000,
+    "change_pct": 5.56,
+    "town": "Marbella",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1155",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-30",
+    "prev_price_eur": 425000,
+    "new_price_eur": 430000,
+    "change_pct": 1.18,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1459",
+    "date": "2026-10-31",
+    "prev_date": "2026-10-26",
+    "prev_price_eur": 1542000,
+    "new_price_eur": 1581310,
+    "change_pct": 2.55,
+    "town": "Mijas",
+    "type": "Bungalow"
   }
 ]

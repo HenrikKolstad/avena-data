@@ -332,7 +332,7 @@ N9285,Villajoyosa,cb-north,Apartment,3,75,500000,6667,2026-10-27,,false
 N9860,Villajoyosa,cb-north,Apartment,2,75,275000,3667,2026-10-27,,false
 N9861,Villajoyosa,cb-north,Apartment,3,90,335000,3722,2026-10-27,,false
 N9954,Pinoso,cb-south,Villa,4,249,665600,2673,2026-10-27,,false
-SP1459,Mijas,costa-del-sol,Bungalow,3,140,1542000,11014,2026-10-27,,false
+SP1459,Mijas,costa-del-sol,Bungalow,3,140,1542000,11014,2026-10-27,2026-10-31,true
 SP1507,rincon de la victoria,costa-del-sol,Apartment,2,47,364000,7745,2026-10-27,,false
 N8120,Finestrat,cb-north,Villa,4,125,555000,4440,2026-10-28,,false
 SP1222,Estepona,costa-del-sol,Penthouse,3,113,999000,8841,2026-10-28,,false
@@ -345,3 +345,8 @@ N6418,Orihuela Costa,cb-south,Penthouse,3,116,625000,5388,2026-10-30,,false
 N9307,Los Alcazares,costa-calida,Townhouse,3,110,475000,4318,2026-10-30,,false
 N9340,Finestrat,cb-north,Apartment,3,90,490000,5444,2026-10-30,,false
 SP0728,Torremolinos,costa-del-sol,Apartment,2,60,428000,7133,2026-10-30,,false
+N7093,Finestrat,cb-north,Penthouse,2,63,450000,7143,2026-10-31,,false
+N7989,Polop,cb-north,Villa,3,82,585000,7134,2026-10-31,,false
+N8659,Fortuna,costa-calida,Villa,3,100,360000,3600,2026-10-31,,true
+N8719,Los Alcazares,costa-calida,Villa,3,100,459000,4590,2026-10-31,,false
+SP1928,Alicante,cb-north,Penthouse,2,55,267500,4864,2026-10-31,,true
