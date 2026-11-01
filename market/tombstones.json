@@ -4534,7 +4534,7 @@
     "last_pm2_eur": 3600,
     "last_seen_date": "2026-10-31",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "N8719",
@@ -4559,7 +4559,7 @@
     "last_price_eur": 267500,
     "last_pm2_eur": 4864,
     "last_seen_date": "2026-10-31",
-    "relisted_on": null,
+    "relisted_on": "2026-11-01",
     "still_listed": true
   }
 ]

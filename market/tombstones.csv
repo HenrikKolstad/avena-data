@@ -347,6 +347,6 @@ N9340,Finestrat,cb-north,Apartment,3,90,490000,5444,2026-10-30,,false
 SP0728,Torremolinos,costa-del-sol,Apartment,2,60,428000,7133,2026-10-30,,false
 N7093,Finestrat,cb-north,Penthouse,2,63,450000,7143,2026-10-31,,false
 N7989,Polop,cb-north,Villa,3,82,585000,7134,2026-10-31,,false
-N8659,Fortuna,costa-calida,Villa,3,100,360000,3600,2026-10-31,,true
+N8659,Fortuna,costa-calida,Villa,3,100,360000,3600,2026-10-31,,false
 N8719,Los Alcazares,costa-calida,Villa,3,100,459000,4590,2026-10-31,,false
-SP1928,Alicante,cb-north,Penthouse,2,55,267500,4864,2026-10-31,,true
+SP1928,Alicante,cb-north,Penthouse,2,55,267500,4864,2026-10-31,2026-11-01,true
