@@ -8278,5 +8278,15 @@
     "change_pct": 2.55,
     "town": "Mijas",
     "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9262",
+    "date": "2026-11-02",
+    "prev_date": "2026-11-01",
+    "prev_price_eur": 359900,
+    "new_price_eur": 379900,
+    "change_pct": 5.56,
+    "town": "Almoradi",
+    "type": "Villa"
   }
 ]

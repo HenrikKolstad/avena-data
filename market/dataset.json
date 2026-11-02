@@ -1,8 +1,8 @@
 {
   "name": "Avena Spanish Coastal New-Build Market Observations",
-  "version": "v2026-11-01",
+  "version": "v2026-11-02",
   "schema_version": 2,
-  "generated_at": "2026-11-01T11:48:49.922Z",
+  "generated_at": "2026-11-02T13:25:54.755Z",
   "license": "CC-BY-4.0",
   "attribution": "Avena Terminal (avenaterminal.com)",
   "zenodo_snapshot": {
@@ -18,10 +18,10 @@
   },
   "observation_ledger": {
     "first_date": "2026-08-05",
-    "latest_date": "2026-11-01",
-    "observation_days": 82,
+    "latest_date": "2026-11-02",
+    "observation_days": 83,
     "refs_observed": 2376,
-    "moves_recorded": 828,
+    "moves_recorded": 829,
     "delistings_recorded": 351,
     "relistings_recorded": 53,
     "delistings_still_listed": 48,
