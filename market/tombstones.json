@@ -4561,5 +4561,57 @@
     "last_seen_date": "2026-10-31",
     "relisted_on": "2026-11-01",
     "still_listed": true
+  },
+  {
+    "avn_id": "SP0374",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 220,
+    "last_price_eur": 2350000,
+    "last_pm2_eur": 10682,
+    "last_seen_date": "2026-11-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1069",
+    "town": "Marbella",
+    "region": "costa-del-sol",
+    "type": "Bungalow",
+    "beds": 2,
+    "built_m2": 124,
+    "last_price_eur": 950000,
+    "last_pm2_eur": 7661,
+    "last_seen_date": "2026-11-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1740",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 138,
+    "last_price_eur": 834000,
+    "last_pm2_eur": 6043,
+    "last_seen_date": "2026-11-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1741",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Townhouse",
+    "beds": 4,
+    "built_m2": 150,
+    "last_price_eur": 886000,
+    "last_pm2_eur": 5907,
+    "last_seen_date": "2026-11-03",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]

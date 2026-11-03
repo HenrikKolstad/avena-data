@@ -8288,5 +8288,125 @@
     "change_pct": 5.56,
     "town": "Almoradi",
     "type": "Villa"
+  },
+  {
+    "avn_id": "N7398",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 379000,
+    "new_price_eur": 449000,
+    "change_pct": 18.47,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7589",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 525000,
+    "new_price_eur": 495000,
+    "change_pct": -5.71,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7591",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 485000,
+    "new_price_eur": 470000,
+    "change_pct": -3.09,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7593",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 450000,
+    "new_price_eur": 430000,
+    "change_pct": -4.44,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7598",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 505000,
+    "new_price_eur": 495000,
+    "change_pct": -1.98,
+    "town": "Mijas",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8556",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 650000,
+    "new_price_eur": 630000,
+    "change_pct": -3.08,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8557",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 680000,
+    "new_price_eur": 660000,
+    "change_pct": -2.94,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9844",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 275000,
+    "new_price_eur": 282000,
+    "change_pct": 2.55,
+    "town": "Dolores",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9845",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 306000,
+    "new_price_eur": 299000,
+    "change_pct": -2.29,
+    "town": "Dolores",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0365",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 305000,
+    "new_price_eur": 301000,
+    "change_pct": -1.31,
+    "town": "Casares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1136",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 430800,
+    "new_price_eur": 424700,
+    "change_pct": -1.42,
+    "town": "Benalmádena",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1337",
+    "date": "2026-11-03",
+    "prev_date": "2026-11-02",
+    "prev_price_eur": 571400,
+    "new_price_eur": 570400,
+    "change_pct": -0.18,
+    "town": "Benalmádena",
+    "type": "Penthouse"
   }
 ]

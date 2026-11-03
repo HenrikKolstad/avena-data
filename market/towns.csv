@@ -1,13 +1,13 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,233,700000,6717,5465,8871,101,12,1.2
-Mijas,Costa del Sol,192,565850,6660,5491,8302,87,18,2
+Estepona,Costa del Sol,230,698500,6736,5467,8868,101,11,1
+Mijas,Costa del Sol,192,565850,6660,5463,8302,87,18,2
 Torrevieja,Costa Blanca South,119,309000,5077,4329,5818,62,24,0.4
 Fuengirola,Costa del Sol,101,720000,7450,6281,9686,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,94,364500,5071,4359,5850,75,70,2
-Marbella,Costa del Sol,83,981000,8118,6509,12057,118,30,2.2
+Marbella,Costa del Sol,82,1015500,8203,6466,12086,117,29,2.2
 Los Alcazares,Costa Calida,75,397650,4650,4237,5579,85,37,0.9
 Finestrat,Costa Blanca North,56,565000,5648,4827,6512,106,55,3
-Guardamar del Segura,Costa Blanca South,54,315000,4588,4200,5651,67,2,1
+Guardamar del Segura,Costa Blanca South,55,315000,4600,4200,5671,69,4,1
 San Pedro del Pinatar,Costa Calida,53,309900,4345,4041,5172,70,53,1
 Casares,Costa del Sol,52,564000,5936,4979,6978,97,6,1.65
 Torre Pacheco,Costa Calida,50,315400,4153,3646,4862,80,64,6.5
@@ -22,7 +22,7 @@ Torremolinos,Costa del Sol,26,617000,7297,5803,8804,89,4,1.5
 Polop,Costa Blanca North,25,650650,6193,5947,6587,100,100,9
 Rojales,Costa Blanca South,25,529000,4843,4084,6487,100,100,6
 Málaga,Costa del Sol,23,910000,8359,5545,13196,91,26,1.8
-Benalmádena,Costa del Sol,22,745000,6282,5703,8265,110,23,1.4
+Benalmádena,Costa del Sol,22,745000,6276,5703,8265,110,23,1.4
 Baños y Mendigo,Costa Calida,21,461000,4570,4080,5813,93,71,30
 Orihuela Costa,Costa Blanca South,20,942500,6679,5458,7675,157,90,0.75
 San Javier,Costa Calida,20,384500,4789,3818,5481,80,75,2.5
@@ -46,7 +46,7 @@ Puerto de Mazarron,Costa Calida,11,235000,3775,3282,4232,69,45,0.2
 Cartagena,Costa Calida,10,480500,4932,4343,5560,99,50,0.5
 Ciudad Quesada,Costa Blanca South,10,558500,4743,4453,5490,105,100,7
 Denia,Costa Blanca North,10,430000,5443,4941,6315,77,10,0.5
-Dolores,Costa Blanca South,10,422500,4041,3833,4671,85,100,12
+Dolores,Costa Blanca South,10,422500,4041,3768,4671,85,100,12
 La Manga Club,Costa Calida,10,487500,5194,4500,6221,95,40,2.5
 La Manga del Mar Menor,Costa Calida,10,330000,4425,3363,4830,84,20,0.1
 San Pedro De Alcantara,Costa del Sol,10,728900,9066,7331,10063,103,0,1.2
