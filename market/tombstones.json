@@ -4039,8 +4039,8 @@
     "last_price_eur": 424000,
     "last_pm2_eur": 4463,
     "last_seen_date": "2026-10-22",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-04",
+    "still_listed": true
   },
   {
     "avn_id": "N8251",
@@ -4195,8 +4195,8 @@
     "last_price_eur": 366000,
     "last_pm2_eur": 4880,
     "last_seen_date": "2026-10-24",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-04",
+    "still_listed": true
   },
   {
     "avn_id": "SP1284",
@@ -4611,6 +4611,32 @@
     "last_price_eur": 886000,
     "last_pm2_eur": 5907,
     "last_seen_date": "2026-11-03",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N6529",
+    "town": "Rojales",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 120,
+    "last_price_eur": 1099000,
+    "last_pm2_eur": 9158,
+    "last_seen_date": "2026-11-04",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9444",
+    "town": "San Pedro del Pinatar",
+    "region": "costa-calida",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 150,
+    "last_price_eur": 949900,
+    "last_pm2_eur": 6333,
+    "last_seen_date": "2026-11-04",
     "relisted_on": null,
     "still_listed": false
   }

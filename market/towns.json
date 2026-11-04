@@ -2,36 +2,36 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 230,
-    "median_price_eur": 698500,
+    "n_listings": 234,
+    "median_price_eur": 699500,
     "median_pm2_eur": 6736,
     "p25_pm2_eur": 5467,
-    "p75_pm2_eur": 8868,
+    "p75_pm2_eur": 8896,
     "median_built_m2": 101,
-    "villa_share_pct": 11,
-    "median_beach_km": 1
+    "villa_share_pct": 12,
+    "median_beach_km": 1.1
   },
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 192,
-    "median_price_eur": 565850,
-    "median_pm2_eur": 6660,
-    "p25_pm2_eur": 5463,
-    "p75_pm2_eur": 8302,
-    "median_built_m2": 87,
+    "n_listings": 193,
+    "median_price_eur": 565000,
+    "median_pm2_eur": 6638,
+    "p25_pm2_eur": 5461,
+    "p75_pm2_eur": 8299,
+    "median_built_m2": 86,
     "villa_share_pct": 18,
     "median_beach_km": 2
   },
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 119,
+    "n_listings": 121,
     "median_price_eur": 309000,
     "median_pm2_eur": 5077,
-    "p25_pm2_eur": 4329,
-    "p75_pm2_eur": 5818,
-    "median_built_m2": 62,
+    "p25_pm2_eur": 4167,
+    "p75_pm2_eur": 5817,
+    "median_built_m2": 63,
     "villa_share_pct": 24,
     "median_beach_km": 0.4
   },
@@ -87,10 +87,10 @@
     "town": "Finestrat",
     "costa": "Costa Blanca North",
     "n_listings": 56,
-    "median_price_eur": 565000,
+    "median_price_eur": 565500,
     "median_pm2_eur": 5648,
     "p25_pm2_eur": 4827,
-    "p75_pm2_eur": 6512,
+    "p75_pm2_eur": 6564,
     "median_built_m2": 106,
     "villa_share_pct": 55,
     "median_beach_km": 3
@@ -108,18 +108,6 @@
     "median_beach_km": 1
   },
   {
-    "town": "San Pedro del Pinatar",
-    "costa": "Costa Calida",
-    "n_listings": 53,
-    "median_price_eur": 309900,
-    "median_pm2_eur": 4345,
-    "p25_pm2_eur": 4041,
-    "p75_pm2_eur": 5172,
-    "median_built_m2": 70,
-    "villa_share_pct": 53,
-    "median_beach_km": 1
-  },
-  {
     "town": "Casares",
     "costa": "Costa del Sol",
     "n_listings": 52,
@@ -132,12 +120,24 @@
     "median_beach_km": 1.65
   },
   {
+    "town": "San Pedro del Pinatar",
+    "costa": "Costa Calida",
+    "n_listings": 52,
+    "median_price_eur": 307450,
+    "median_pm2_eur": 4342,
+    "p25_pm2_eur": 4031,
+    "p75_pm2_eur": 5159,
+    "median_built_m2": 69,
+    "villa_share_pct": 54,
+    "median_beach_km": 1
+  },
+  {
     "town": "Torre Pacheco",
     "costa": "Costa Calida",
     "n_listings": 50,
     "median_price_eur": 315400,
     "median_pm2_eur": 4153,
-    "p25_pm2_eur": 3646,
+    "p25_pm2_eur": 3685,
     "p75_pm2_eur": 4862,
     "median_built_m2": 80,
     "villa_share_pct": 64,
@@ -228,6 +228,18 @@
     "median_beach_km": 0.45
   },
   {
+    "town": "Polop",
+    "costa": "Costa Blanca North",
+    "n_listings": 26,
+    "median_price_eur": 654650,
+    "median_pm2_eur": 6273,
+    "p25_pm2_eur": 5933,
+    "p75_pm2_eur": 6578,
+    "median_built_m2": 100,
+    "villa_share_pct": 100,
+    "median_beach_km": 9
+  },
+  {
     "town": "Torremolinos",
     "costa": "Costa del Sol",
     "n_listings": 26,
@@ -240,26 +252,14 @@
     "median_beach_km": 1.5
   },
   {
-    "town": "Polop",
-    "costa": "Costa Blanca North",
-    "n_listings": 25,
-    "median_price_eur": 650650,
-    "median_pm2_eur": 6193,
-    "p25_pm2_eur": 5947,
-    "p75_pm2_eur": 6587,
-    "median_built_m2": 100,
-    "villa_share_pct": 100,
-    "median_beach_km": 9
-  },
-  {
     "town": "Rojales",
     "costa": "Costa Blanca South",
-    "n_listings": 25,
-    "median_price_eur": 529000,
-    "median_pm2_eur": 4843,
+    "n_listings": 24,
+    "median_price_eur": 516500,
+    "median_pm2_eur": 4757,
     "p25_pm2_eur": 4084,
-    "p75_pm2_eur": 6487,
-    "median_built_m2": 100,
+    "p75_pm2_eur": 6288,
+    "median_built_m2": 99,
     "villa_share_pct": 100,
     "median_beach_km": 6
   },
@@ -480,6 +480,18 @@
     "median_beach_km": 0.1
   },
   {
+    "town": "La Manga del Mar Menor",
+    "costa": "Costa Calida",
+    "n_listings": 12,
+    "median_price_eur": 367500,
+    "median_pm2_eur": 4649,
+    "p25_pm2_eur": 3597,
+    "p75_pm2_eur": 5392,
+    "median_built_m2": 87,
+    "villa_share_pct": 33,
+    "median_beach_km": 0.1
+  },
+  {
     "town": "rincon de la victoria",
     "costa": "Costa del Sol",
     "n_listings": 12,
@@ -569,7 +581,7 @@
     "n_listings": 10,
     "median_price_eur": 422500,
     "median_pm2_eur": 4041,
-    "p25_pm2_eur": 3768,
+    "p25_pm2_eur": 3785,
     "p75_pm2_eur": 4671,
     "median_built_m2": 85,
     "villa_share_pct": 100,
@@ -586,18 +598,6 @@
     "median_built_m2": 95,
     "villa_share_pct": 40,
     "median_beach_km": 2.5
-  },
-  {
-    "town": "La Manga del Mar Menor",
-    "costa": "Costa Calida",
-    "n_listings": 10,
-    "median_price_eur": 330000,
-    "median_pm2_eur": 4425,
-    "p25_pm2_eur": 3363,
-    "p75_pm2_eur": 4830,
-    "median_built_m2": 84,
-    "villa_share_pct": 20,
-    "median_beach_km": 0.1
   },
   {
     "town": "San Pedro De Alcantara",

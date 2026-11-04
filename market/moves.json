@@ -8408,5 +8408,155 @@
     "change_pct": -0.18,
     "town": "Benalmádena",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N10007",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 329000,
+    "new_price_eur": 349000,
+    "change_pct": 6.08,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10065",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 399900,
+    "new_price_eur": 429900,
+    "change_pct": 7.5,
+    "town": "Torrevieja",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10067",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 499900,
+    "new_price_eur": 529900,
+    "change_pct": 6,
+    "town": "Torrevieja",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N6552",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 416900,
+    "new_price_eur": 419900,
+    "change_pct": 0.72,
+    "town": "Torre Pacheco",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N7606",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 349000,
+    "new_price_eur": 390000,
+    "change_pct": 11.75,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7956",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 238000,
+    "new_price_eur": 268900,
+    "change_pct": 12.98,
+    "town": "Torre Pacheco",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8432",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 239000,
+    "new_price_eur": 199000,
+    "change_pct": -16.74,
+    "town": "Torrevieja",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8433",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 260000,
+    "new_price_eur": 249000,
+    "change_pct": -4.23,
+    "town": "Torrevieja",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8486",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 269900,
+    "new_price_eur": 274900,
+    "change_pct": 1.85,
+    "town": "Dolores",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8655",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 598000,
+    "new_price_eur": 639000,
+    "change_pct": 6.86,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N8656",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 679000,
+    "new_price_eur": 699000,
+    "change_pct": 2.95,
+    "town": "Polop",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9344",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 580000,
+    "new_price_eur": 595000,
+    "change_pct": 2.59,
+    "town": "Finestrat",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0279",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 490000,
+    "new_price_eur": 450000,
+    "change_pct": -8.16,
+    "town": "Manilva",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP0665",
+    "date": "2026-11-04",
+    "prev_date": "2026-11-03",
+    "prev_price_eur": 405000,
+    "new_price_eur": 425000,
+    "change_pct": 4.94,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0840",
+    "date": "2026-11-04",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 366000,
+    "new_price_eur": 385000,
+    "change_pct": 5.19,
+    "town": "Mijas",
+    "type": "Apartment"
   }
 ]
