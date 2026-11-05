@@ -17,7 +17,7 @@
     "n_listings": 193,
     "median_price_eur": 565000,
     "median_pm2_eur": 6638,
-    "p25_pm2_eur": 5461,
+    "p25_pm2_eur": 5407,
     "p75_pm2_eur": 8299,
     "median_built_m2": 86,
     "villa_share_pct": 18,
@@ -134,14 +134,14 @@
   {
     "town": "Torre Pacheco",
     "costa": "Costa Calida",
-    "n_listings": 50,
-    "median_price_eur": 315400,
-    "median_pm2_eur": 4153,
-    "p25_pm2_eur": 3685,
-    "p75_pm2_eur": 4862,
+    "n_listings": 51,
+    "median_price_eur": 315900,
+    "median_pm2_eur": 4165,
+    "p25_pm2_eur": 3688,
+    "p75_pm2_eur": 4860,
     "median_built_m2": 80,
-    "villa_share_pct": 64,
-    "median_beach_km": 6.5
+    "villa_share_pct": 65,
+    "median_beach_km": 8
   },
   {
     "town": "Benijofar",
@@ -222,7 +222,7 @@
     "median_price_eur": 437500,
     "median_pm2_eur": 6491,
     "p25_pm2_eur": 5689,
-    "p75_pm2_eur": 7684,
+    "p75_pm2_eur": 7587,
     "median_built_m2": 68,
     "villa_share_pct": 0,
     "median_beach_km": 0.45
@@ -302,14 +302,14 @@
   {
     "town": "Orihuela Costa",
     "costa": "Costa Blanca South",
-    "n_listings": 20,
-    "median_price_eur": 942500,
-    "median_pm2_eur": 6679,
-    "p25_pm2_eur": 5458,
-    "p75_pm2_eur": 7675,
-    "median_built_m2": 157,
-    "villa_share_pct": 90,
-    "median_beach_km": 0.75
+    "n_listings": 21,
+    "median_price_eur": 890000,
+    "median_pm2_eur": 6469,
+    "p25_pm2_eur": 5082,
+    "p75_pm2_eur": 7469,
+    "median_built_m2": 155,
+    "villa_share_pct": 86,
+    "median_beach_km": 0.7
   },
   {
     "town": "San Javier",
@@ -396,6 +396,18 @@
     "median_beach_km": 23
   },
   {
+    "town": "La Manga del Mar Menor",
+    "costa": "Costa Calida",
+    "n_listings": 15,
+    "median_price_eur": 390000,
+    "median_pm2_eur": 4850,
+    "p25_pm2_eur": 4018,
+    "p75_pm2_eur": 7051,
+    "median_built_m2": 82,
+    "villa_share_pct": 27,
+    "median_beach_km": 0.1
+  },
+  {
     "town": "Aguilas",
     "costa": "Costa Calida",
     "n_listings": 13,
@@ -477,18 +489,6 @@
     "p75_pm2_eur": 10071,
     "median_built_m2": 79,
     "villa_share_pct": 8,
-    "median_beach_km": 0.1
-  },
-  {
-    "town": "La Manga del Mar Menor",
-    "costa": "Costa Calida",
-    "n_listings": 12,
-    "median_price_eur": 367500,
-    "median_pm2_eur": 4649,
-    "p25_pm2_eur": 3597,
-    "p75_pm2_eur": 5392,
-    "median_built_m2": 87,
-    "villa_share_pct": 33,
     "median_beach_km": 0.1
   },
   {
@@ -636,18 +636,6 @@
     "median_beach_km": 9
   },
   {
-    "town": "Mutxamel",
-    "costa": "Costa Blanca North",
-    "n_listings": 9,
-    "median_price_eur": 399000,
-    "median_pm2_eur": 5210,
-    "p25_pm2_eur": 4125,
-    "p75_pm2_eur": 5471,
-    "median_built_m2": 80,
-    "villa_share_pct": 33,
-    "median_beach_km": 6
-  },
-  {
     "town": "Aspe",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 8,
@@ -658,6 +646,18 @@
     "median_built_m2": 132,
     "villa_share_pct": 100,
     "median_beach_km": 25.5
+  },
+  {
+    "town": "Mutxamel",
+    "costa": "Costa Blanca North",
+    "n_listings": 8,
+    "median_price_eur": 418000,
+    "median_pm2_eur": 4939,
+    "p25_pm2_eur": 4064,
+    "p75_pm2_eur": 5524,
+    "median_built_m2": 81,
+    "villa_share_pct": 38,
+    "median_beach_km": 6
   },
   {
     "town": "Cox",

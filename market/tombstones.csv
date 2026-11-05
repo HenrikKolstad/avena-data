@@ -340,7 +340,7 @@ N7360,Los Alcazares,costa-calida,Townhouse,3,100,537900,5379,2026-10-29,,false
 N9996,Torrevieja,cb-south,Villa,3,100,799000,7990,2026-10-29,,false
 SP0417,Marbella,costa-del-sol,Penthouse,4,124,1545000,12460,2026-10-29,,false
 SP1902,Málaga,costa-del-sol,Townhouse,4,331,2475000,7477,2026-10-29,,false
-N6229,Orihuela Costa,cb-south,Apartment,4,105,499000,4752,2026-10-30,,false
+N6229,Orihuela Costa,cb-south,Apartment,4,105,499000,4752,2026-10-30,2026-11-05,true
 N6418,Orihuela Costa,cb-south,Penthouse,3,116,625000,5388,2026-10-30,,false
 N9307,Los Alcazares,costa-calida,Townhouse,3,110,475000,4318,2026-10-30,,false
 N9340,Finestrat,cb-north,Apartment,3,90,490000,5444,2026-10-30,,false
@@ -356,3 +356,4 @@ SP1740,Estepona,costa-del-sol,Townhouse,3,138,834000,6043,2026-11-03,,false
 SP1741,Estepona,costa-del-sol,Townhouse,4,150,886000,5907,2026-11-03,,false
 N6529,Rojales,cb-south,Villa,3,120,1099000,9158,2026-11-04,,false
 N9444,San Pedro del Pinatar,costa-calida,Penthouse,3,150,949900,6333,2026-11-04,,false
+N7816,Mutxamel,cb-north,Apartment,2,62,323000,5210,2026-11-05,,false

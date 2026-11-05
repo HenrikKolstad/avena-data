@@ -4442,8 +4442,8 @@
     "last_price_eur": 499000,
     "last_pm2_eur": 4752,
     "last_seen_date": "2026-10-30",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-05",
+    "still_listed": true
   },
   {
     "avn_id": "N6418",
@@ -4637,6 +4637,19 @@
     "last_price_eur": 949900,
     "last_pm2_eur": 6333,
     "last_seen_date": "2026-11-04",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7816",
+    "town": "Mutxamel",
+    "region": "cb-north",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 62,
+    "last_price_eur": 323000,
+    "last_pm2_eur": 5210,
+    "last_seen_date": "2026-11-05",
     "relisted_on": null,
     "still_listed": false
   }
