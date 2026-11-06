@@ -8628,5 +8628,65 @@
     "change_pct": -6.12,
     "town": "Mijas",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N6063",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 420000,
+    "new_price_eur": 410000,
+    "change_pct": -2.38,
+    "town": "Gran Alacant",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N7436",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 599200,
+    "new_price_eur": 620200,
+    "change_pct": 3.5,
+    "town": "Casares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8638",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 376000,
+    "new_price_eur": 366000,
+    "change_pct": -2.66,
+    "town": "Orihuela",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8820",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 244000,
+    "new_price_eur": 234000,
+    "change_pct": -4.1,
+    "town": "San Miguel de Salinas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9675",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 299900,
+    "new_price_eur": 309900,
+    "change_pct": 3.33,
+    "town": "Los Alcazares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1106",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 875000,
+    "new_price_eur": 950000,
+    "change_pct": 8.57,
+    "town": "Marbella",
+    "type": "Apartment"
   }
 ]

@@ -14,11 +14,11 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 193,
+    "n_listings": 194,
     "median_price_eur": 565000,
-    "median_pm2_eur": 6638,
-    "p25_pm2_eur": 5407,
-    "p75_pm2_eur": 8299,
+    "median_pm2_eur": 6636,
+    "p25_pm2_eur": 5398,
+    "p75_pm2_eur": 8283,
     "median_built_m2": 86,
     "villa_share_pct": 18,
     "median_beach_km": 2
@@ -50,11 +50,11 @@
   {
     "town": "Pilar de La Horadada",
     "costa": "Costa Blanca South",
-    "n_listings": 94,
-    "median_price_eur": 364500,
-    "median_pm2_eur": 5071,
-    "p25_pm2_eur": 4359,
-    "p75_pm2_eur": 5850,
+    "n_listings": 93,
+    "median_price_eur": 364000,
+    "median_pm2_eur": 5052,
+    "p25_pm2_eur": 4351,
+    "p75_pm2_eur": 5856,
     "median_built_m2": 75,
     "villa_share_pct": 70,
     "median_beach_km": 2
@@ -64,7 +64,7 @@
     "costa": "Costa del Sol",
     "n_listings": 82,
     "median_price_eur": 1015500,
-    "median_pm2_eur": 8203,
+    "median_pm2_eur": 8239,
     "p25_pm2_eur": 6466,
     "p75_pm2_eur": 12086,
     "median_built_m2": 117,
@@ -134,14 +134,14 @@
   {
     "town": "Torre Pacheco",
     "costa": "Costa Calida",
-    "n_listings": 51,
-    "median_price_eur": 315900,
-    "median_pm2_eur": 4165,
-    "p25_pm2_eur": 3688,
-    "p75_pm2_eur": 4860,
+    "n_listings": 50,
+    "median_price_eur": 315400,
+    "median_pm2_eur": 4153,
+    "p25_pm2_eur": 3685,
+    "p75_pm2_eur": 4856,
     "median_built_m2": 80,
-    "villa_share_pct": 65,
-    "median_beach_km": 8
+    "villa_share_pct": 64,
+    "median_beach_km": 8.5
   },
   {
     "town": "Benijofar",
@@ -378,7 +378,7 @@
     "median_price_eur": 427450,
     "median_pm2_eur": 4662,
     "p25_pm2_eur": 4364,
-    "p75_pm2_eur": 6117,
+    "p75_pm2_eur": 6002,
     "median_built_m2": 97,
     "villa_share_pct": 100,
     "median_beach_km": 14

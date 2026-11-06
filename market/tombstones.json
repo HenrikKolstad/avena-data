@@ -4652,5 +4652,44 @@
     "last_seen_date": "2026-11-05",
     "relisted_on": null,
     "still_listed": false
+  },
+  {
+    "avn_id": "N9368",
+    "town": "Avileses",
+    "region": "costa-calida",
+    "type": "Apartment",
+    "beds": 1,
+    "built_m2": 40,
+    "last_price_eur": 82000,
+    "last_pm2_eur": 2050,
+    "last_seen_date": "2026-11-06",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9692",
+    "town": "Pilar de La Horadada",
+    "region": "cb-south",
+    "type": "Bungalow",
+    "beds": 3,
+    "built_m2": 65,
+    "last_price_eur": 375000,
+    "last_pm2_eur": 5769,
+    "last_seen_date": "2026-11-06",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9777",
+    "town": "Torre Pacheco",
+    "region": "costa-calida",
+    "type": "Townhouse",
+    "beds": 3,
+    "built_m2": 143,
+    "last_price_eur": 890000,
+    "last_pm2_eur": 6224,
+    "last_seen_date": "2026-11-06",
+    "relisted_on": null,
+    "still_listed": false
   }
 ]
