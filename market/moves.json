@@ -8650,6 +8650,26 @@
     "type": "Apartment"
   },
   {
+    "avn_id": "N8476",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 440000,
+    "new_price_eur": 508000,
+    "change_pct": 15.45,
+    "town": "San Pedro De Alcantara",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8478",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 890000,
+    "new_price_eur": 930000,
+    "change_pct": 4.49,
+    "town": "San Pedro De Alcantara",
+    "type": "Penthouse"
+  },
+  {
     "avn_id": "N8638",
     "date": "2026-11-06",
     "prev_date": "2026-11-05",
@@ -8658,6 +8678,36 @@
     "change_pct": -2.66,
     "town": "Orihuela",
     "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8707",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 299900,
+    "new_price_eur": 304900,
+    "change_pct": 1.67,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N8746",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 276000,
+    "new_price_eur": 282000,
+    "change_pct": 2.17,
+    "town": "San Miguel de Salinas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8776",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 250000,
+    "new_price_eur": 300000,
+    "change_pct": 20,
+    "town": "Hondón de las Nieves",
+    "type": "Apartment"
   },
   {
     "avn_id": "N8820",
@@ -8680,6 +8730,106 @@
     "type": "Apartment"
   },
   {
+    "avn_id": "N9786",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 284900,
+    "new_price_eur": 269900,
+    "change_pct": -5.27,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9824",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 355256,
+    "new_price_eur": 364604,
+    "change_pct": 2.63,
+    "town": "Lorca",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "SP0297",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 475000,
+    "new_price_eur": 465000,
+    "change_pct": -2.11,
+    "town": "La Manga Club",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0298",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 450000,
+    "new_price_eur": 495000,
+    "change_pct": 10,
+    "town": "La Manga Club",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0299",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 410000,
+    "new_price_eur": 395000,
+    "change_pct": -3.66,
+    "town": "La Manga Club",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0300",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 500000,
+    "new_price_eur": 460800,
+    "change_pct": -7.84,
+    "town": "La Manga Club",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0301",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 600000,
+    "new_price_eur": 585000,
+    "change_pct": -2.5,
+    "town": "La Manga Club",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0302",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 770000,
+    "new_price_eur": 712500,
+    "change_pct": -7.47,
+    "town": "La Manga Club",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP0664",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 350000,
+    "new_price_eur": 389000,
+    "change_pct": 11.14,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0856",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 389500,
+    "new_price_eur": 406500,
+    "change_pct": 4.36,
+    "town": "Alicante",
+    "type": "Penthouse"
+  },
+  {
     "avn_id": "SP1106",
     "date": "2026-11-06",
     "prev_date": "2026-11-05",
@@ -8688,5 +8838,35 @@
     "change_pct": 8.57,
     "town": "Marbella",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1162",
+    "date": "2026-11-06",
+    "prev_date": "2026-11-05",
+    "prev_price_eur": 325000,
+    "new_price_eur": 375000,
+    "change_pct": 15.38,
+    "town": "Villajoyosa",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7691",
+    "date": "2026-11-07",
+    "prev_date": "2026-11-06",
+    "prev_price_eur": 529000,
+    "new_price_eur": 515000,
+    "change_pct": -2.65,
+    "town": "Torre Pacheco",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8154",
+    "date": "2026-11-07",
+    "prev_date": "2026-11-06",
+    "prev_price_eur": 380000,
+    "new_price_eur": 360000,
+    "change_pct": -5.26,
+    "town": "Estepona",
+    "type": "Penthouse"
   }
 ]

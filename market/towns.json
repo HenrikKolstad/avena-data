@@ -26,14 +26,14 @@
   {
     "town": "Torrevieja",
     "costa": "Costa Blanca South",
-    "n_listings": 121,
-    "median_price_eur": 309000,
-    "median_pm2_eur": 5077,
-    "p25_pm2_eur": 4167,
-    "p75_pm2_eur": 5817,
-    "median_built_m2": 63,
-    "villa_share_pct": 24,
-    "median_beach_km": 0.4
+    "n_listings": 124,
+    "median_price_eur": 308500,
+    "median_pm2_eur": 5034,
+    "p25_pm2_eur": 4148,
+    "p75_pm2_eur": 5729,
+    "median_built_m2": 62,
+    "villa_share_pct": 23,
+    "median_beach_km": 0.6
   },
   {
     "town": "Fuengirola",
@@ -50,13 +50,13 @@
   {
     "town": "Pilar de La Horadada",
     "costa": "Costa Blanca South",
-    "n_listings": 93,
-    "median_price_eur": 364000,
-    "median_pm2_eur": 5052,
-    "p25_pm2_eur": 4351,
-    "p75_pm2_eur": 5856,
-    "median_built_m2": 75,
-    "villa_share_pct": 70,
+    "n_listings": 92,
+    "median_price_eur": 361500,
+    "median_pm2_eur": 5025,
+    "p25_pm2_eur": 4350,
+    "p75_pm2_eur": 5839,
+    "median_built_m2": 76,
+    "villa_share_pct": 71,
     "median_beach_km": 2
   },
   {
@@ -74,25 +74,25 @@
   {
     "town": "Los Alcazares",
     "costa": "Costa Calida",
-    "n_listings": 75,
-    "median_price_eur": 397650,
-    "median_pm2_eur": 4650,
+    "n_listings": 74,
+    "median_price_eur": 395825,
+    "median_pm2_eur": 4636,
     "p25_pm2_eur": 4237,
-    "p75_pm2_eur": 5579,
+    "p75_pm2_eur": 5514,
     "median_built_m2": 85,
-    "villa_share_pct": 37,
+    "villa_share_pct": 36,
     "median_beach_km": 0.9
   },
   {
     "town": "Finestrat",
     "costa": "Costa Blanca North",
-    "n_listings": 56,
-    "median_price_eur": 565500,
-    "median_pm2_eur": 5648,
-    "p25_pm2_eur": 4827,
-    "p75_pm2_eur": 6564,
+    "n_listings": 57,
+    "median_price_eur": 581000,
+    "median_pm2_eur": 5698,
+    "p25_pm2_eur": 4840,
+    "p75_pm2_eur": 6611,
     "median_built_m2": 106,
-    "villa_share_pct": 55,
+    "villa_share_pct": 56,
     "median_beach_km": 3
   },
   {
@@ -122,26 +122,26 @@
   {
     "town": "San Pedro del Pinatar",
     "costa": "Costa Calida",
-    "n_listings": 52,
-    "median_price_eur": 307450,
-    "median_pm2_eur": 4342,
-    "p25_pm2_eur": 4031,
-    "p75_pm2_eur": 5159,
-    "median_built_m2": 69,
-    "villa_share_pct": 54,
+    "n_listings": 51,
+    "median_price_eur": 305000,
+    "median_pm2_eur": 4345,
+    "p25_pm2_eur": 4043,
+    "p75_pm2_eur": 5164,
+    "median_built_m2": 68,
+    "villa_share_pct": 53,
     "median_beach_km": 1
   },
   {
     "town": "Torre Pacheco",
     "costa": "Costa Calida",
-    "n_listings": 50,
-    "median_price_eur": 315400,
-    "median_pm2_eur": 4153,
-    "p25_pm2_eur": 3685,
-    "p75_pm2_eur": 4856,
+    "n_listings": 51,
+    "median_price_eur": 315900,
+    "median_pm2_eur": 4165,
+    "p25_pm2_eur": 3688,
+    "p75_pm2_eur": 4860,
     "median_built_m2": 80,
-    "villa_share_pct": 64,
-    "median_beach_km": 8.5
+    "villa_share_pct": 65,
+    "median_beach_km": 8
   },
   {
     "town": "Benijofar",
@@ -220,8 +220,8 @@
     "costa": "Costa Blanca North",
     "n_listings": 28,
     "median_price_eur": 437500,
-    "median_pm2_eur": 6491,
-    "p25_pm2_eur": 5689,
+    "median_pm2_eur": 6650,
+    "p25_pm2_eur": 5792,
     "p75_pm2_eur": 7587,
     "median_built_m2": 68,
     "villa_share_pct": 0,
@@ -336,6 +336,18 @@
     "median_beach_km": 0.5
   },
   {
+    "town": "El Verger",
+    "costa": "Costa Blanca North",
+    "n_listings": 18,
+    "median_price_eur": 386000,
+    "median_pm2_eur": 5538,
+    "p25_pm2_eur": 5090,
+    "p75_pm2_eur": 6182,
+    "median_built_m2": 68,
+    "villa_share_pct": 22,
+    "median_beach_km": 0.5
+  },
+  {
     "town": "San Roque",
     "costa": "Costa del Sol (Cadiz)",
     "n_listings": 18,
@@ -350,13 +362,13 @@
   {
     "town": "Alicante",
     "costa": "Costa Blanca North",
-    "n_listings": 16,
-    "median_price_eur": 295900,
-    "median_pm2_eur": 4777,
-    "p25_pm2_eur": 4559,
-    "p75_pm2_eur": 5352,
+    "n_listings": 17,
+    "median_price_eur": 301900,
+    "median_pm2_eur": 4802,
+    "p25_pm2_eur": 4568,
+    "p75_pm2_eur": 5363,
     "median_built_m2": 64,
-    "villa_share_pct": 0,
+    "villa_share_pct": 6,
     "median_beach_km": 3
   },
   {
@@ -420,6 +432,18 @@
     "median_beach_km": 0.3
   },
   {
+    "town": "El Campello",
+    "costa": "Costa Blanca North",
+    "n_listings": 13,
+    "median_price_eur": 660000,
+    "median_pm2_eur": 6462,
+    "p25_pm2_eur": 5980,
+    "p75_pm2_eur": 8106,
+    "median_built_m2": 92,
+    "villa_share_pct": 69,
+    "median_beach_km": 0
+  },
+  {
     "town": "Jávea Xàbia",
     "costa": "Costa Blanca North",
     "n_listings": 13,
@@ -444,36 +468,12 @@
     "median_beach_km": 7
   },
   {
-    "town": "Alhama De Murcia",
-    "costa": "Costa Calida - Inland",
-    "n_listings": 12,
-    "median_price_eur": 290500,
-    "median_pm2_eur": 4133,
-    "p25_pm2_eur": 3808,
-    "p75_pm2_eur": 4502,
-    "median_built_m2": 77,
-    "villa_share_pct": 75,
-    "median_beach_km": 20
-  },
-  {
-    "town": "El Verger",
-    "costa": "Costa Blanca North",
-    "n_listings": 12,
-    "median_price_eur": 377250,
-    "median_pm2_eur": 5762,
-    "p25_pm2_eur": 5133,
-    "p75_pm2_eur": 6385,
-    "median_built_m2": 68,
-    "villa_share_pct": 33,
-    "median_beach_km": 0.7
-  },
-  {
     "town": "Hondón de las Nieves",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 12,
-    "median_price_eur": 250000,
+    "median_price_eur": 275000,
     "median_pm2_eur": 3382,
-    "p25_pm2_eur": 2834,
+    "p25_pm2_eur": 2876,
     "p75_pm2_eur": 3732,
     "median_built_m2": 87,
     "villa_share_pct": 25,
@@ -504,6 +504,18 @@
     "median_beach_km": 2.15
   },
   {
+    "town": "Alhama De Murcia",
+    "costa": "Costa Calida - Inland",
+    "n_listings": 11,
+    "median_price_eur": 287000,
+    "median_pm2_eur": 4143,
+    "p25_pm2_eur": 3914,
+    "p75_pm2_eur": 4520,
+    "median_built_m2": 76,
+    "villa_share_pct": 73,
+    "median_beach_km": 20
+  },
+  {
     "town": "Benissa",
     "costa": "Costa Blanca North",
     "n_listings": 11,
@@ -514,18 +526,6 @@
     "median_built_m2": 250,
     "villa_share_pct": 100,
     "median_beach_km": 2
-  },
-  {
-    "town": "El Campello",
-    "costa": "Costa Blanca North",
-    "n_listings": 11,
-    "median_price_eur": 660000,
-    "median_pm2_eur": 6462,
-    "p25_pm2_eur": 5983,
-    "p75_pm2_eur": 7932,
-    "median_built_m2": 95,
-    "villa_share_pct": 64,
-    "median_beach_km": 0
   },
   {
     "town": "Puerto de Mazarron",
@@ -564,18 +564,6 @@
     "median_beach_km": 7
   },
   {
-    "town": "Denia",
-    "costa": "Costa Blanca North",
-    "n_listings": 10,
-    "median_price_eur": 430000,
-    "median_pm2_eur": 5443,
-    "p25_pm2_eur": 4941,
-    "p75_pm2_eur": 6315,
-    "median_built_m2": 77,
-    "villa_share_pct": 10,
-    "median_beach_km": 0.5
-  },
-  {
     "town": "Dolores",
     "costa": "Costa Blanca South",
     "n_listings": 10,
@@ -591,10 +579,10 @@
     "town": "La Manga Club",
     "costa": "Costa Calida",
     "n_listings": 10,
-    "median_price_eur": 487500,
-    "median_pm2_eur": 5194,
-    "p25_pm2_eur": 4500,
-    "p75_pm2_eur": 6221,
+    "median_price_eur": 480000,
+    "median_pm2_eur": 5075,
+    "p25_pm2_eur": 4529,
+    "p75_pm2_eur": 6191,
     "median_built_m2": 95,
     "villa_share_pct": 40,
     "median_beach_km": 2.5
@@ -604,8 +592,8 @@
     "costa": "Costa del Sol",
     "n_listings": 10,
     "median_price_eur": 728900,
-    "median_pm2_eur": 9066,
-    "p25_pm2_eur": 7331,
+    "median_pm2_eur": 9104,
+    "p25_pm2_eur": 7404,
     "p75_pm2_eur": 10063,
     "median_built_m2": 103,
     "villa_share_pct": 0,

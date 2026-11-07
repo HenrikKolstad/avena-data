@@ -1,23 +1,23 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
 Estepona,Costa del Sol,234,699500,6736,5467,8896,101,12,1.1
 Mijas,Costa del Sol,194,565000,6636,5398,8283,86,18,2
-Torrevieja,Costa Blanca South,121,309000,5077,4167,5817,63,24,0.4
+Torrevieja,Costa Blanca South,124,308500,5034,4148,5729,62,23,0.6
 Fuengirola,Costa del Sol,101,720000,7450,6281,9686,89,13,1.5
-Pilar de La Horadada,Costa Blanca South,93,364000,5052,4351,5856,75,70,2
+Pilar de La Horadada,Costa Blanca South,92,361500,5025,4350,5839,76,71,2
 Marbella,Costa del Sol,82,1015500,8239,6466,12086,117,29,2.2
-Los Alcazares,Costa Calida,75,397650,4650,4237,5579,85,37,0.9
-Finestrat,Costa Blanca North,56,565500,5648,4827,6564,106,55,3
+Los Alcazares,Costa Calida,74,395825,4636,4237,5514,85,36,0.9
+Finestrat,Costa Blanca North,57,581000,5698,4840,6611,106,56,3
 Guardamar del Segura,Costa Blanca South,55,315000,4600,4200,5671,69,4,1
 Casares,Costa del Sol,52,564000,5936,4979,6978,97,6,1.65
-San Pedro del Pinatar,Costa Calida,52,307450,4342,4031,5159,69,54,1
-Torre Pacheco,Costa Calida,50,315400,4153,3685,4856,80,64,8.5
+San Pedro del Pinatar,Costa Calida,51,305000,4345,4043,5164,68,53,1
+Torre Pacheco,Costa Calida,51,315900,4165,3688,4860,80,65,8
 Benijofar,Costa Blanca South,41,389900,4786,4227,5339,75,32,8
 Manilva,Costa del Sol,41,491000,6130,4471,8085,93,15,0.6
 Benahavís,Costa del Sol,36,1302500,9456,7494,13154,131,22,5.75
 San Miguel de Salinas,Costa Blanca South,32,270376,4078,3632,5090,70,59,9
 Algorfa,Costa Blanca South,30,431000,4830,3559,5696,85,77,14
 Pinoso,Costa Blanca South - Inland,30,490000,3174,2948,3771,140,100,50
-Villajoyosa,Costa Blanca North,28,437500,6491,5689,7587,68,0,0.45
+Villajoyosa,Costa Blanca North,28,437500,6650,5792,7587,68,0,0.45
 Polop,Costa Blanca North,26,654650,6273,5933,6578,100,100,9
 Torremolinos,Costa del Sol,26,617000,7297,5803,8804,89,4,1.5
 Rojales,Costa Blanca South,24,516500,4757,4084,6288,99,100,6
@@ -27,29 +27,28 @@ Baños y Mendigo,Costa Calida,21,461000,4570,4080,5813,93,71,30
 Orihuela Costa,Costa Blanca South,21,890000,6469,5082,7469,155,86,0.7
 San Javier,Costa Calida,20,384500,4789,3818,5481,80,75,2.5
 Vélez Málaga,Costa del Sol,19,516000,5986,5071,6725,78,16,0.5
+El Verger,Costa Blanca North,18,386000,5538,5090,6182,68,22,0.5
 San Roque,Costa del Sol (Cadiz),18,604500,5865,5258,7555,96,0,1.5
-Alicante,Costa Blanca North,16,295900,4777,4559,5352,64,0,3
+Alicante,Costa Blanca North,17,301900,4802,4568,5363,64,6,3
 Calpe,Costa Blanca North,16,657500,8345,5196,9869,99,25,0.4
 Orihuela,Costa Blanca South,16,427450,4662,4364,6002,97,100,14
 Fuente Álamo,Costa Calida - Inland,15,374900,3759,3241,4491,95,87,23
 La Manga del Mar Menor,Costa Calida,15,390000,4850,4018,7051,82,27,0.1
 Aguilas,Costa Calida,13,394000,5015,4170,6632,74,15,0.3
+El Campello,Costa Blanca North,13,660000,6462,5980,8106,92,69,0
 Jávea Xàbia,Costa Blanca North,13,647000,7740,6280,8542,101,38,0.8
 la Nucia,Costa Blanca North,13,449427,5635,4871,6161,73,31,7
-Alhama De Murcia,Costa Calida - Inland,12,290500,4133,3808,4502,77,75,20
-El Verger,Costa Blanca North,12,377250,5762,5133,6385,68,33,0.7
-Hondón de las Nieves,Costa Blanca South - Inland,12,250000,3382,2834,3732,87,25,37
+Hondón de las Nieves,Costa Blanca South - Inland,12,275000,3382,2876,3732,87,25,37
 La Linea De La Concepcion,Costa del Sol (Cadiz),12,503000,6751,5963,10071,79,8,0.1
 rincon de la victoria,Costa del Sol,12,463500,5861,5137,6546,85,8,2.15
+Alhama De Murcia,Costa Calida - Inland,11,287000,4143,3914,4520,76,73,20
 Benissa,Costa Blanca North,11,2600000,9828,7832,10943,250,100,2
-El Campello,Costa Blanca North,11,660000,6462,5983,7932,95,64,0
 Puerto de Mazarron,Costa Calida,11,235000,3775,3282,4232,69,45,0.2
 Cartagena,Costa Calida,10,480500,4932,4343,5560,99,50,0.5
 Ciudad Quesada,Costa Blanca South,10,558500,4743,4453,5490,105,100,7
-Denia,Costa Blanca North,10,430000,5443,4941,6315,77,10,0.5
 Dolores,Costa Blanca South,10,422500,4041,3785,4671,85,100,12
-La Manga Club,Costa Calida,10,487500,5194,4500,6221,95,40,2.5
-San Pedro De Alcantara,Costa del Sol,10,728900,9066,7331,10063,103,0,1.2
+La Manga Club,Costa Calida,10,480000,5075,4529,6191,95,40,2.5
+San Pedro De Alcantara,Costa del Sol,10,728900,9104,7404,10063,103,0,1.2
 Santa Pola,Costa Blanca South,10,274000,4199,4106,4466,64,0,1
 Mazarron,Costa Calida - Inland,9,269900,2406,2170,2809,60,67,9
 Aspe,Costa Blanca South - Inland,8,464750,3464,3393,3647,132,100,25.5

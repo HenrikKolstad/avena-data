@@ -775,11 +775,20 @@
   },
   {
     "date": "2026-11-06",
-    "listings_observed": 2071,
-    "price_increases": 3,
-    "price_reductions": 3,
-    "median_abs_move_pct": 3.42,
-    "delistings": 3,
+    "listings_observed": 2076,
+    "price_increases": 13,
+    "price_reductions": 9,
+    "median_abs_move_pct": 4.23,
+    "delistings": 4,
+    "relistings": 0
+  },
+  {
+    "date": "2026-11-07",
+    "listings_observed": 2074,
+    "price_increases": 0,
+    "price_reductions": 2,
+    "median_abs_move_pct": 3.96,
+    "delistings": 2,
     "relistings": 0
   }
 ]
