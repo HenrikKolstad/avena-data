@@ -8868,5 +8868,15 @@
     "change_pct": -5.26,
     "town": "Estepona",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9920",
+    "date": "2026-11-08",
+    "prev_date": "2026-11-07",
+    "prev_price_eur": 329900,
+    "new_price_eur": 334900,
+    "change_pct": 1.52,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
   }
 ]

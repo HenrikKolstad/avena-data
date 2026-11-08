@@ -14,11 +14,11 @@
   {
     "town": "Mijas",
     "costa": "Costa del Sol",
-    "n_listings": 194,
+    "n_listings": 195,
     "median_price_eur": 565000,
-    "median_pm2_eur": 6636,
-    "p25_pm2_eur": 5398,
-    "p75_pm2_eur": 8283,
+    "median_pm2_eur": 6638,
+    "p25_pm2_eur": 5401,
+    "p75_pm2_eur": 8304,
     "median_built_m2": 86,
     "villa_share_pct": 18,
     "median_beach_km": 2
@@ -65,7 +65,7 @@
     "n_listings": 82,
     "median_price_eur": 1015500,
     "median_pm2_eur": 8239,
-    "p25_pm2_eur": 6466,
+    "p25_pm2_eur": 6416,
     "p75_pm2_eur": 12086,
     "median_built_m2": 117,
     "villa_share_pct": 29,
@@ -729,7 +729,7 @@
     "p75_pm2_eur": 3561,
     "median_built_m2": 118,
     "villa_share_pct": 100,
-    "median_beach_km": 40
+    "median_beach_km": 36
   },
   {
     "town": "Ojen",

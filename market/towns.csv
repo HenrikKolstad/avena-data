@@ -1,10 +1,10 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
 Estepona,Costa del Sol,234,699500,6736,5467,8896,101,12,1.1
-Mijas,Costa del Sol,194,565000,6636,5398,8283,86,18,2
+Mijas,Costa del Sol,195,565000,6638,5401,8304,86,18,2
 Torrevieja,Costa Blanca South,124,308500,5034,4148,5729,62,23,0.6
 Fuengirola,Costa del Sol,101,720000,7450,6281,9686,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,92,361500,5025,4350,5839,76,71,2
-Marbella,Costa del Sol,82,1015500,8239,6466,12086,117,29,2.2
+Marbella,Costa del Sol,82,1015500,8239,6416,12086,117,29,2.2
 Los Alcazares,Costa Calida,74,395825,4636,4237,5514,85,36,0.9
 Finestrat,Costa Blanca North,57,581000,5698,4840,6611,106,56,3
 Guardamar del Segura,Costa Blanca South,55,315000,4600,4200,5671,69,4,1
@@ -59,7 +59,7 @@ Moraira_Teulada,Costa Blanca North,7,2175000,7967,7877,8938,273,100,2
 San Fulgencio,Costa Blanca South,7,319900,4158,3954,5311,85,100,7
 Almuñecar,Costa Tropical,6,361500,4987,2905,5020,80,50,0.3
 Bigastro,Costa Blanca South,6,212900,3121,2994,3284,64,33,25
-La Romana,Costa Blanca South - Inland,6,382500,3341,3053,3561,118,100,40
+La Romana,Costa Blanca South - Inland,6,382500,3341,3053,3561,118,100,36
 Ojen,Costa del Sol,6,1045550,8622,8486,10679,120,17,5
 Torrox,Costa del Sol,6,357500,4763,4464,5052,75,0,0.2
 Catral,Costa Blanca South - Inland,5,213000,2760,2700,2840,75,0,15
