@@ -81,7 +81,6 @@ N9715,Mijas,costa-del-sol,Townhouse,2,137,1112000,8117,2026-08-22,,false
 N9018,San Fulgencio,cb-south,Townhouse,3,90,395000,4389,2026-08-26,,false
 N9174,Marbella,costa-del-sol,Apartment,2,75,456000,6080,2026-08-26,,false
 N9775,Altea,cb-north,Villa,4,400,3450000,8625,2026-08-28,,false
-SP1838,Mijas,costa-del-sol,Apartment,1,50,256000,5120,2026-08-28,2026-10-21,true
 SP1843,Benitachell,cb-north,Villa,4,180,2891000,16061,2026-08-29,,false
 SP1844,Benitachell,cb-north,Villa,3,190,2350000,12368,2026-08-29,,false
 SP1845,Benitachell,cb-north,Villa,4,195,2600000,13333,2026-08-29,,false
@@ -363,3 +362,19 @@ N9692,Pilar de La Horadada,cb-south,Bungalow,3,65,375000,5769,2026-11-06,,false
 N9777,Torre Pacheco,costa-calida,Townhouse,3,143,890000,6224,2026-11-06,,false
 N8578,Pilar de La Horadada,cb-south,Penthouse,2,66,445000,6742,2026-11-07,,false
 N8925,San Pedro del Pinatar,costa-calida,Villa,3,125,489000,3912,2026-11-07,,false
+N10086,Puerto de Mazarron,costa-calida,Apartment,3,69,285000,4130,2026-11-10,,true
+N7598,Mijas,costa-del-sol,Penthouse,3,85,495000,5824,2026-11-10,,true
+N8517,Torre Pacheco,costa-calida,Villa,2,65,284900,4383,2026-11-10,,false
+N9138,San Miguel de Salinas,cb-south,Bungalow,2,65,251900,3875,2026-11-10,,false
+N9140,San Miguel de Salinas,cb-south,Bungalow,3,65,261152,4018,2026-11-10,,false
+N9159,Torre Pacheco,costa-calida,Apartment,2,70,289900,4141,2026-11-10,,false
+N9795,Cabo de Palos,costa-calida,Villa,3,150,1950000,13000,2026-11-10,,false
+SP0605,Manilva,costa-del-sol,Apartment,2,77,302000,3922,2026-11-10,,false
+SP0857,Alicante,cb-north,Penthouse,4,84,456500,5435,2026-11-10,,true
+SP1344,Torremolinos,costa-del-sol,Penthouse,2,74,481000,6500,2026-11-10,,true
+SP1345,Mijas,costa-del-sol,Apartment,2,66,294000,4455,2026-11-10,,false
+SP1346,Mijas,costa-del-sol,Apartment,3,87,398000,4575,2026-11-10,,false
+SP1347,Mijas,costa-del-sol,Apartment,2,68,277000,4074,2026-11-10,,false
+SP1348,Mijas,costa-del-sol,Apartment,3,85,347000,4082,2026-11-10,,false
+SP1349,Mijas,costa-del-sol,Apartment,2,84,541000,6440,2026-11-10,,false
+SP1838,Mijas,costa-del-sol,Apartment,1,50,231000,4620,2026-11-10,,false

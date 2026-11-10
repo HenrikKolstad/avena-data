@@ -8878,5 +8878,285 @@
     "change_pct": 1.52,
     "town": "Pilar de La Horadada",
     "type": "Bungalow"
+  },
+  {
+    "avn_id": "N10036",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 493590,
+    "new_price_eur": 499194,
+    "change_pct": 1.14,
+    "town": "La Romana",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N10037",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 369927,
+    "new_price_eur": 373771,
+    "change_pct": 1.04,
+    "town": "La Romana",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N10087",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 187000,
+    "new_price_eur": 198000,
+    "change_pct": 5.88,
+    "town": "Puerto de Mazarron",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10089",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 328000,
+    "new_price_eur": 348000,
+    "change_pct": 6.1,
+    "town": "Puerto de Mazarron",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N7434",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 949000,
+    "new_price_eur": 982300,
+    "change_pct": 3.51,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N7435",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 1046000,
+    "new_price_eur": 1082700,
+    "change_pct": 3.51,
+    "town": "Mijas",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N7591",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 470000,
+    "new_price_eur": 570000,
+    "change_pct": 21.28,
+    "town": "Mijas",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N7606",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 390000,
+    "new_price_eur": 365000,
+    "change_pct": -6.41,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8618",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 274780,
+    "new_price_eur": 284780,
+    "change_pct": 3.64,
+    "town": "Fuente Álamo",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9206",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 280000,
+    "new_price_eur": 270000,
+    "change_pct": -3.57,
+    "town": "San Javier",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9262",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 379900,
+    "new_price_eur": 389900,
+    "change_pct": 2.63,
+    "town": "Almoradi",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9626",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 399000,
+    "new_price_eur": 415000,
+    "change_pct": 4.01,
+    "town": "Aguilas",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9720",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 286900,
+    "new_price_eur": 289900,
+    "change_pct": 1.05,
+    "town": "Torre Pacheco",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9823",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 725000,
+    "new_price_eur": 750000,
+    "change_pct": 3.45,
+    "town": "Torrevieja",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9847",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 364000,
+    "new_price_eur": 360000,
+    "change_pct": -1.1,
+    "town": "Pilar de La Horadada",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9932",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 464900,
+    "new_price_eur": 459900,
+    "change_pct": -1.08,
+    "town": "Torre Pacheco",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9949",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 357927,
+    "new_price_eur": 361771,
+    "change_pct": 1.07,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9950",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 446117,
+    "new_price_eur": 451216,
+    "change_pct": 1.14,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9951",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 383761,
+    "new_price_eur": 387973,
+    "change_pct": 1.1,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9952",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 512590,
+    "new_price_eur": 518465,
+    "change_pct": 1.15,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9953",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 500590,
+    "new_price_eur": 574010,
+    "change_pct": 14.67,
+    "town": "Pinoso",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9955",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 408927,
+    "new_price_eur": 412771,
+    "change_pct": 0.94,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9956",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 434761,
+    "new_price_eur": 438973,
+    "change_pct": 0.97,
+    "town": "Aspe",
+    "type": "Villa"
+  },
+  {
+    "avn_id": "N9983",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 365000,
+    "new_price_eur": 369000,
+    "change_pct": 1.1,
+    "town": "Algorfa",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP0965",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 494000,
+    "new_price_eur": 475000,
+    "change_pct": -3.85,
+    "town": "rincon de la victoria",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0966",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 665000,
+    "new_price_eur": 684000,
+    "change_pct": 2.86,
+    "town": "rincon de la victoria",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1177",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 299900,
+    "new_price_eur": 279900,
+    "change_pct": -6.67,
+    "town": "Orihuela",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1402",
+    "date": "2026-11-10",
+    "prev_date": "2026-11-09",
+    "prev_price_eur": 1511000,
+    "new_price_eur": 1516000,
+    "change_pct": 0.33,
+    "town": "Sotogrande",
+    "type": "Villa"
   }
 ]
