@@ -4729,7 +4729,7 @@
     "last_pm2_eur": 4130,
     "last_seen_date": "2026-11-10",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "N7598",
@@ -4742,7 +4742,7 @@
     "last_pm2_eur": 5824,
     "last_seen_date": "2026-11-10",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "N8517",
@@ -4833,7 +4833,7 @@
     "last_pm2_eur": 5435,
     "last_seen_date": "2026-11-10",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "SP1344",
@@ -4846,7 +4846,7 @@
     "last_pm2_eur": 6500,
     "last_seen_date": "2026-11-10",
     "relisted_on": null,
-    "still_listed": true
+    "still_listed": false
   },
   {
     "avn_id": "SP1345",
@@ -4923,6 +4923,45 @@
     "last_price_eur": 231000,
     "last_pm2_eur": 4620,
     "last_seen_date": "2026-11-10",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N3719",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Villa",
+    "beds": 3,
+    "built_m2": 251,
+    "last_price_eur": 750000,
+    "last_pm2_eur": 2988,
+    "last_seen_date": "2026-11-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7708",
+    "town": "Marbella",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 89,
+    "last_price_eur": 375000,
+    "last_pm2_eur": 4213,
+    "last_seen_date": "2026-11-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N7709",
+    "town": "Marbella",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 90,
+    "last_price_eur": 460000,
+    "last_pm2_eur": 5111,
+    "last_seen_date": "2026-11-11",
     "relisted_on": null,
     "still_listed": false
   }
