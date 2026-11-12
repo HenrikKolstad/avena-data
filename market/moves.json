@@ -9158,5 +9158,95 @@
     "change_pct": 0.33,
     "town": "Sotogrande",
     "type": "Villa"
+  },
+  {
+    "avn_id": "N6902",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 425000,
+    "new_price_eur": 445000,
+    "change_pct": 4.71,
+    "town": "Pilar de La Horadada",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N8451",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 199900,
+    "new_price_eur": 209900,
+    "change_pct": 5,
+    "town": "Torrevieja",
+    "type": "Studio"
+  },
+  {
+    "avn_id": "N8453",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 258500,
+    "new_price_eur": 271000,
+    "change_pct": 4.84,
+    "town": "Torrevieja",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N8810",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 539900,
+    "new_price_eur": 549900,
+    "change_pct": 1.85,
+    "town": "Pilar de La Horadada",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9369",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 105000,
+    "new_price_eur": 109000,
+    "change_pct": 3.81,
+    "town": "Avileses",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0868",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 949000,
+    "new_price_eur": 999000,
+    "change_pct": 5.27,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP0869",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 1395000,
+    "new_price_eur": 1495000,
+    "change_pct": 7.17,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1762",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 515000,
+    "new_price_eur": 540000,
+    "change_pct": 4.85,
+    "town": "Jávea Xàbia",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1910",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 486000,
+    "new_price_eur": 399000,
+    "change_pct": -17.9,
+    "town": "Fuengirola",
+    "type": "Apartment"
   }
 ]

@@ -4715,8 +4715,8 @@
     "last_price_eur": 489000,
     "last_pm2_eur": 3912,
     "last_seen_date": "2026-11-07",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-12",
+    "still_listed": true
   },
   {
     "avn_id": "N10086",
@@ -4936,8 +4936,8 @@
     "last_price_eur": 750000,
     "last_pm2_eur": 2988,
     "last_seen_date": "2026-11-11",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-12",
+    "still_listed": true
   },
   {
     "avn_id": "N7708",
@@ -4962,6 +4962,97 @@
     "last_price_eur": 460000,
     "last_pm2_eur": 5111,
     "last_seen_date": "2026-11-11",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N10022",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 0,
+    "built_m2": 35,
+    "last_price_eur": 149500,
+    "last_pm2_eur": 4271,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N10023",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Studio",
+    "beds": 0,
+    "built_m2": 28,
+    "last_price_eur": 151500,
+    "last_pm2_eur": 5411,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N10024",
+    "town": "Guardamar del Segura",
+    "region": "cb-south",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 61,
+    "last_price_eur": 264500,
+    "last_pm2_eur": 4336,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N6769",
+    "town": "Altea",
+    "region": "cb-north",
+    "type": "Villa",
+    "beds": 4,
+    "built_m2": 400,
+    "last_price_eur": 2090000,
+    "last_pm2_eur": 5225,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N9752",
+    "town": "Torre Pacheco",
+    "region": "costa-calida",
+    "type": "Bungalow",
+    "beds": 3,
+    "built_m2": 76,
+    "last_price_eur": 279900,
+    "last_pm2_eur": 3683,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "S1945",
+    "town": "Mojacar",
+    "region": "costa-del-sol",
+    "type": "Villa",
+    "beds": 5,
+    "built_m2": 190,
+    "last_price_eur": 1450000,
+    "last_pm2_eur": 7632,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0431",
+    "town": "rincon de la victoria",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 66,
+    "last_price_eur": 424000,
+    "last_pm2_eur": 6424,
+    "last_seen_date": "2026-11-12",
     "relisted_on": null,
     "still_listed": false
   }
