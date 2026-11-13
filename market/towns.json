@@ -2,14 +2,14 @@
   {
     "town": "Estepona",
     "costa": "Costa del Sol",
-    "n_listings": 234,
-    "median_price_eur": 699500,
-    "median_pm2_eur": 6736,
-    "p25_pm2_eur": 5467,
-    "p75_pm2_eur": 8896,
-    "median_built_m2": 101,
+    "n_listings": 233,
+    "median_price_eur": 700000,
+    "median_pm2_eur": 6717,
+    "p25_pm2_eur": 5473,
+    "p75_pm2_eur": 8857,
+    "median_built_m2": 102,
     "villa_share_pct": 12,
-    "median_beach_km": 1.1
+    "median_beach_km": 1.2
   },
   {
     "town": "Mijas",
@@ -25,13 +25,13 @@
   },
   {
     "town": "Torrevieja",
-    "costa": "Costa Blanca South",
-    "n_listings": 124,
-    "median_price_eur": 308500,
-    "median_pm2_eur": 5034,
-    "p25_pm2_eur": 4148,
-    "p75_pm2_eur": 5729,
-    "median_built_m2": 62,
+    "costa": "Costa Blanca North",
+    "n_listings": 125,
+    "median_price_eur": 308000,
+    "median_pm2_eur": 5000,
+    "p25_pm2_eur": 4149,
+    "p75_pm2_eur": 5700,
+    "median_built_m2": 61,
     "villa_share_pct": 23,
     "median_beach_km": 0.6
   },
@@ -66,7 +66,7 @@
     "median_price_eur": 1060000,
     "median_pm2_eur": 8375,
     "p25_pm2_eur": 6551,
-    "p75_pm2_eur": 12117,
+    "p75_pm2_eur": 12059,
     "median_built_m2": 119,
     "villa_share_pct": 30,
     "median_beach_km": 2.1
@@ -218,14 +218,26 @@
   {
     "town": "Villajoyosa",
     "costa": "Costa Blanca North",
-    "n_listings": 28,
-    "median_price_eur": 457250,
-    "median_pm2_eur": 6719,
-    "p25_pm2_eur": 5792,
-    "p75_pm2_eur": 7587,
+    "n_listings": 29,
+    "median_price_eur": 469500,
+    "median_pm2_eur": 6771,
+    "p25_pm2_eur": 5811,
+    "p75_pm2_eur": 7560,
     "median_built_m2": 70,
     "villa_share_pct": 0,
-    "median_beach_km": 0.45
+    "median_beach_km": 0.4
+  },
+  {
+    "town": "Orihuela Costa",
+    "costa": "Costa Blanca South",
+    "n_listings": 26,
+    "median_price_eur": 684450,
+    "median_pm2_eur": 6116,
+    "p25_pm2_eur": 5101,
+    "p75_pm2_eur": 7439,
+    "median_built_m2": 113,
+    "villa_share_pct": 69,
+    "median_beach_km": 0.55
   },
   {
     "town": "Polop",
@@ -245,7 +257,7 @@
     "n_listings": 26,
     "median_price_eur": 650000,
     "median_pm2_eur": 7531,
-    "p25_pm2_eur": 5803,
+    "p25_pm2_eur": 5903,
     "p75_pm2_eur": 8914,
     "median_built_m2": 89,
     "villa_share_pct": 4,
@@ -298,18 +310,6 @@
     "median_built_m2": 93,
     "villa_share_pct": 71,
     "median_beach_km": 30
-  },
-  {
-    "town": "Orihuela Costa",
-    "costa": "Costa Blanca South",
-    "n_listings": 21,
-    "median_price_eur": 890000,
-    "median_pm2_eur": 6469,
-    "p25_pm2_eur": 5082,
-    "p75_pm2_eur": 7469,
-    "median_built_m2": 155,
-    "villa_share_pct": 86,
-    "median_beach_km": 0.7
   },
   {
     "town": "San Javier",
@@ -420,6 +420,18 @@
     "median_beach_km": 0.1
   },
   {
+    "town": "Jávea Xàbia",
+    "costa": "Costa Blanca North",
+    "n_listings": 14,
+    "median_price_eur": 648500,
+    "median_pm2_eur": 7944,
+    "p25_pm2_eur": 6671,
+    "p75_pm2_eur": 8916,
+    "median_built_m2": 105,
+    "villa_share_pct": 43,
+    "median_beach_km": 0.8
+  },
+  {
     "town": "Aguilas",
     "costa": "Costa Calida",
     "n_listings": 13,
@@ -442,18 +454,6 @@
     "median_built_m2": 92,
     "villa_share_pct": 69,
     "median_beach_km": 0
-  },
-  {
-    "town": "Jávea Xàbia",
-    "costa": "Costa Blanca North",
-    "n_listings": 13,
-    "median_price_eur": 647000,
-    "median_pm2_eur": 7740,
-    "p25_pm2_eur": 6585,
-    "p75_pm2_eur": 8542,
-    "median_built_m2": 101,
-    "villa_share_pct": 38,
-    "median_beach_km": 0.8
   },
   {
     "town": "la Nucia",
@@ -591,10 +591,10 @@
     "town": "Puerto de Mazarron",
     "costa": "Costa Calida",
     "n_listings": 10,
-    "median_price_eur": 239500,
+    "median_price_eur": 239600,
     "median_pm2_eur": 3753,
     "p25_pm2_eur": 3354,
-    "p75_pm2_eur": 4216,
+    "p75_pm2_eur": 4348,
     "median_built_m2": 70,
     "villa_share_pct": 50,
     "median_beach_km": 0.2
@@ -663,10 +663,10 @@
     "town": "Formentera del Segura",
     "costa": "Costa Blanca South - Inland",
     "n_listings": 7,
-    "median_price_eur": 320000,
-    "median_pm2_eur": 4206,
-    "p25_pm2_eur": 3549,
-    "p75_pm2_eur": 4511,
+    "median_price_eur": 335000,
+    "median_pm2_eur": 4222,
+    "p25_pm2_eur": 3804,
+    "p75_pm2_eur": 4622,
     "median_built_m2": 63,
     "villa_share_pct": 14,
     "median_beach_km": 9

@@ -9160,6 +9160,56 @@
     "type": "Villa"
   },
   {
+    "avn_id": "N10071",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 150000,
+    "new_price_eur": 165000,
+    "change_pct": 10,
+    "town": "Formentera del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10072",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 265000,
+    "new_price_eur": 280000,
+    "change_pct": 5.66,
+    "town": "Formentera del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10073",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 320000,
+    "new_price_eur": 335000,
+    "change_pct": 4.69,
+    "town": "Formentera del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N10102",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 124900,
+    "new_price_eur": 129900,
+    "change_pct": 4,
+    "town": "Torrevieja",
+    "type": "Studio"
+  },
+  {
+    "avn_id": "N6418",
+    "date": "2026-11-12",
+    "prev_date": "2026-10-29",
+    "prev_price_eur": 625000,
+    "new_price_eur": 669000,
+    "change_pct": 7.04,
+    "town": "Orihuela Costa",
+    "type": "Penthouse"
+  },
+  {
     "avn_id": "N6902",
     "date": "2026-11-12",
     "prev_date": "2026-11-11",
@@ -9210,6 +9260,36 @@
     "type": "Apartment"
   },
   {
+    "avn_id": "N9540",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 455000,
+    "new_price_eur": 469000,
+    "change_pct": 3.08,
+    "town": "San Pedro del Pinatar",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9727",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 229900,
+    "new_price_eur": 235900,
+    "change_pct": 2.61,
+    "town": "Torre Pacheco",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9728",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 239900,
+    "new_price_eur": 231900,
+    "change_pct": -3.33,
+    "town": "Torre Pacheco",
+    "type": "Townhouse"
+  },
+  {
     "avn_id": "SP0868",
     "date": "2026-11-12",
     "prev_date": "2026-11-11",
@@ -9230,6 +9310,56 @@
     "type": "Apartment"
   },
   {
+    "avn_id": "SP0996",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 1225000,
+    "new_price_eur": 1150000,
+    "change_pct": -6.12,
+    "town": "San Juan Alicante",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "SP1114",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 450900,
+    "new_price_eur": 453900,
+    "change_pct": 0.67,
+    "town": "Casares",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1326",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 221000,
+    "new_price_eur": 229950,
+    "change_pct": 4.05,
+    "town": "Puerto de Mazarron",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1327",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 226000,
+    "new_price_eur": 235200,
+    "change_pct": 4.07,
+    "town": "Puerto de Mazarron",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1340",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 405000,
+    "new_price_eur": 425000,
+    "change_pct": 4.94,
+    "town": "Torremolinos",
+    "type": "Apartment"
+  },
+  {
     "avn_id": "SP1762",
     "date": "2026-11-12",
     "prev_date": "2026-11-11",
@@ -9238,6 +9368,16 @@
     "change_pct": 4.85,
     "town": "Jávea Xàbia",
     "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1831",
+    "date": "2026-11-12",
+    "prev_date": "2026-11-11",
+    "prev_price_eur": 799000,
+    "new_price_eur": 818000,
+    "change_pct": 2.38,
+    "town": "Mijas",
+    "type": "Apartment"
   },
   {
     "avn_id": "SP1910",

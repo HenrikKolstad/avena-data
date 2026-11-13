@@ -698,8 +698,8 @@
     "last_price_eur": 395000,
     "last_pm2_eur": 4389,
     "last_seen_date": "2026-08-19",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-12",
+    "still_listed": true
   },
   {
     "avn_id": "N8782",
@@ -1608,8 +1608,8 @@
     "last_price_eur": 325000,
     "last_pm2_eur": 5159,
     "last_seen_date": "2026-09-09",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-12",
+    "still_listed": true
   },
   {
     "avn_id": "N9686",
@@ -4442,8 +4442,8 @@
     "last_price_eur": 625000,
     "last_pm2_eur": 5388,
     "last_seen_date": "2026-10-30",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-12",
+    "still_listed": true
   },
   {
     "avn_id": "N9307",
@@ -5018,6 +5018,19 @@
     "still_listed": false
   },
   {
+    "avn_id": "N9182",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Penthouse",
+    "beds": 1,
+    "built_m2": 60,
+    "last_price_eur": 272000,
+    "last_pm2_eur": 4533,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
     "avn_id": "N9752",
     "town": "Torre Pacheco",
     "region": "costa-calida",
@@ -5052,6 +5065,58 @@
     "built_m2": 66,
     "last_price_eur": 424000,
     "last_pm2_eur": 6424,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0749",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 147,
+    "last_price_eur": 724000,
+    "last_pm2_eur": 4925,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0750",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Apartment",
+    "beds": 2,
+    "built_m2": 82,
+    "last_price_eur": 499000,
+    "last_pm2_eur": 6085,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP0751",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 66,
+    "last_price_eur": 619000,
+    "last_pm2_eur": 9379,
+    "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1566",
+    "town": "Estepona",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 3,
+    "built_m2": 98,
+    "last_price_eur": 999000,
+    "last_pm2_eur": 10194,
     "last_seen_date": "2026-11-12",
     "relisted_on": null,
     "still_listed": false
