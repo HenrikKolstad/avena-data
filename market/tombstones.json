@@ -4169,8 +4169,8 @@
     "last_price_eur": 1195000,
     "last_pm2_eur": 12849,
     "last_seen_date": "2026-10-24",
-    "relisted_on": null,
-    "still_listed": false
+    "relisted_on": "2026-11-14",
+    "still_listed": true
   },
   {
     "avn_id": "SP0840",
@@ -5118,6 +5118,45 @@
     "last_price_eur": 999000,
     "last_pm2_eur": 10194,
     "last_seen_date": "2026-11-12",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N6055",
+    "town": "Torrevieja",
+    "region": "cb-south",
+    "type": "Bungalow",
+    "beds": 2,
+    "built_m2": 77,
+    "last_price_eur": 380000,
+    "last_pm2_eur": 4935,
+    "last_seen_date": "2026-11-14",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "N8073",
+    "town": "Aguilas",
+    "region": "costa-calida",
+    "type": "Apartment",
+    "beds": 3,
+    "built_m2": 100,
+    "last_price_eur": 353500,
+    "last_pm2_eur": 3535,
+    "last_seen_date": "2026-11-14",
+    "relisted_on": null,
+    "still_listed": false
+  },
+  {
+    "avn_id": "SP1272",
+    "town": "Fuengirola",
+    "region": "costa-del-sol",
+    "type": "Penthouse",
+    "beds": 2,
+    "built_m2": 100,
+    "last_price_eur": 2530000,
+    "last_pm2_eur": 25300,
+    "last_seen_date": "2026-11-14",
     "relisted_on": null,
     "still_listed": false
   }

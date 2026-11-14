@@ -1,8 +1,8 @@
 town,costa,n_listings,median_price_eur,median_pm2_eur,p25_pm2_eur,p75_pm2_eur,median_built_m2,villa_share_pct,median_beach_km
-Estepona,Costa del Sol,233,700000,6717,5473,8857,102,12,1.2
+Estepona,Costa del Sol,235,705000,6717,5478,8864,101,12,1.2
 Mijas,Costa del Sol,189,581000,6731,5464,8344,88,19,2
-Torrevieja,Costa Blanca North,125,308000,5000,4149,5700,61,23,0.6
-Fuengirola,Costa del Sol,101,720000,7450,6249,9686,89,13,1.5
+Torrevieja,Costa Blanca South,124,306500,5034,4148,5729,61,23,0.6
+Fuengirola,Costa del Sol,100,722500,7386,6247,9511,89,13,1.5
 Pilar de La Horadada,Costa Blanca South,93,359000,5000,4356,5833,75,71,2
 Marbella,Costa del Sol,80,1060000,8375,6551,12059,119,30,2.1
 Los Alcazares,Costa Calida,75,397650,4650,4237,5579,85,37,0.9
@@ -13,7 +13,7 @@ San Pedro del Pinatar,Costa Calida,52,307450,4342,4031,5159,69,54,1
 Torre Pacheco,Costa Calida - Inland,47,321000,4165,3663,4860,80,64,9
 Benijofar,Costa Blanca South - Inland,42,393400,4747,4245,5337,76,33,8
 Manilva,Costa del Sol,40,485500,5934,4436,8196,94,15,0.45
-Benahavís,Costa del Sol,36,1302500,9842,7494,13154,131,22,5.75
+Benahavís,Costa del Sol,36,1357500,9842,7494,13679,131,22,5.75
 Algorfa,Costa Blanca South - Inland,30,431000,4856,3559,5696,85,77,14
 Pinoso,Costa Blanca South - Inland,30,490000,3192,2961,3771,140,100,50
 San Miguel de Salinas,Costa Blanca South - Inland,30,278450,4086,3565,5118,73,57,9
@@ -32,15 +32,15 @@ San Roque,Costa del Sol (Cadiz),18,604500,5865,5258,7555,96,0,1.5
 Calpe,Costa Blanca North,16,657500,8345,5196,9869,99,25,0.4
 Fuente Álamo,Costa Calida - Inland,16,375400,3814,3387,4965,98,88,23
 Orihuela,Costa Blanca South - Inland,16,427450,4662,4364,6002,97,100,14
-Alicante,Costa Blanca North,15,289900,4752,4549,5141,63,0,3
+Alicante,Costa Blanca North,15,289900,4752,4549,5020,63,0,3
 La Manga del Mar Menor,Costa Calida,15,390000,4850,4018,7051,82,27,0.1
 Jávea Xàbia,Costa Blanca North,14,648500,7944,6671,8916,105,43,0.8
-Aguilas,Costa Calida,13,394000,5015,4170,6632,74,15,0.3
 El Campello,Costa Blanca North,13,660000,6462,5980,8106,92,69,0
 la Nucia,Costa Blanca North,13,449427,5635,4871,6161,73,31,7
+Aguilas,Costa Calida,12,394500,5343,4380,6638,71,17,0.3
 Hondón de las Nieves,Costa Blanca South - Inland,12,275000,3382,2876,3732,87,25,37
 La Linea De La Concepcion,Costa del Sol (Cadiz),12,503000,6751,5963,10071,79,8,0.1
-San Pedro De Alcantara,Costa del Sol,12,832000,8616,7917,9934,105,17,1.2
+San Pedro De Alcantara,Costa del Sol,12,826900,8870,7917,9934,105,17,1.2
 Alhama De Murcia,Costa Calida - Inland,11,287000,4143,3914,4520,76,73,20
 Benissa,Costa Blanca North,11,2600000,9828,7832,10943,250,100,2
 Dolores,Costa Blanca South,11,420000,3999,3632,4606,90,100,12

@@ -9388,5 +9388,165 @@
     "change_pct": -17.9,
     "town": "Fuengirola",
     "type": "Apartment"
+  },
+  {
+    "avn_id": "N8408",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 725000,
+    "new_price_eur": 690000,
+    "change_pct": -4.83,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N8410",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 695000,
+    "new_price_eur": 845000,
+    "change_pct": 21.58,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9165",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 690000,
+    "new_price_eur": 565000,
+    "change_pct": -18.12,
+    "town": "Estepona",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "N9168",
+    "date": "2026-11-14",
+    "prev_date": "2026-10-23",
+    "prev_price_eur": 1195000,
+    "new_price_eur": 995000,
+    "change_pct": -16.74,
+    "town": "Estepona",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "N9316",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 475000,
+    "new_price_eur": 479000,
+    "change_pct": 0.84,
+    "town": "Algorfa",
+    "type": "Townhouse"
+  },
+  {
+    "avn_id": "N9535",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 279900,
+    "new_price_eur": 282900,
+    "change_pct": 1.07,
+    "town": "San Javier",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "N9536",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 272900,
+    "new_price_eur": 275900,
+    "change_pct": 1.1,
+    "town": "San Javier",
+    "type": "Bungalow"
+  },
+  {
+    "avn_id": "SP1276",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 695000,
+    "new_price_eur": 590000,
+    "change_pct": -15.11,
+    "town": "Fuengirola",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1362",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 525000,
+    "new_price_eur": 540000,
+    "change_pct": 2.86,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1363",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 385000,
+    "new_price_eur": 395000,
+    "change_pct": 2.6,
+    "town": "Guardamar del Segura",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1430",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 1465000,
+    "new_price_eur": 1495000,
+    "change_pct": 2.05,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1431",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 1160000,
+    "new_price_eur": 1195000,
+    "change_pct": 3.02,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1432",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 1310000,
+    "new_price_eur": 1500000,
+    "change_pct": 14.5,
+    "town": "Benahavís",
+    "type": "Apartment"
+  },
+  {
+    "avn_id": "SP1433",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 1050000,
+    "new_price_eur": 1235000,
+    "change_pct": 17.62,
+    "town": "Benahavís",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1645",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 720000,
+    "new_price_eur": 745000,
+    "change_pct": 3.47,
+    "town": "Fuengirola",
+    "type": "Penthouse"
+  },
+  {
+    "avn_id": "SP1862",
+    "date": "2026-11-14",
+    "prev_date": "2026-11-13",
+    "prev_price_eur": 2105000,
+    "new_price_eur": 2150000,
+    "change_pct": 2.14,
+    "town": "Benahavís",
+    "type": "Apartment"
   }
 ]

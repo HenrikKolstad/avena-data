@@ -319,7 +319,7 @@ SP1103,Mijas,costa-del-sol,Penthouse,3,95,977900,10294,2026-10-23,,false
 SP1149,Fuengirola,costa-del-sol,Apartment,2,70,328000,4686,2026-10-23,,false
 SP1159,Estepona,costa-del-sol,Penthouse,4,132,1285000,9735,2026-10-23,,false
 N7934,Mijas,costa-del-sol,Apartment,3,82,700000,8537,2026-10-24,,false
-N9168,Estepona,costa-del-sol,Penthouse,3,93,1195000,12849,2026-10-24,,false
+N9168,Estepona,costa-del-sol,Penthouse,3,93,1195000,12849,2026-10-24,2026-11-14,true
 SP0840,Mijas,costa-del-sol,Apartment,2,75,366000,4880,2026-10-24,2026-11-04,true
 SP1284,Molina De Segura,costa-calida,Villa,3,100,409000,4090,2026-10-24,,false
 SP1285,Molina De Segura,costa-calida,Villa,3,110,519000,4718,2026-10-24,,false
@@ -393,3 +393,6 @@ SP0749,Estepona,costa-del-sol,Apartment,3,147,724000,4925,2026-11-12,,false
 SP0750,Estepona,costa-del-sol,Apartment,2,82,499000,6085,2026-11-12,,false
 SP0751,Estepona,costa-del-sol,Penthouse,2,66,619000,9379,2026-11-12,,false
 SP1566,Estepona,costa-del-sol,Penthouse,3,98,999000,10194,2026-11-12,,false
+N6055,Torrevieja,cb-south,Bungalow,2,77,380000,4935,2026-11-14,,false
+N8073,Aguilas,costa-calida,Apartment,3,100,353500,3535,2026-11-14,,false
+SP1272,Fuengirola,costa-del-sol,Penthouse,2,100,2530000,25300,2026-11-14,,false
